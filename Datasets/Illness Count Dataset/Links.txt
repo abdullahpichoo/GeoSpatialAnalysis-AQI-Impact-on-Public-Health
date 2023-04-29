@@ -1,0 +1,2 @@
+ILI Diseases:
+https://data.chhs.ca.gov/dataset/influenza-surveillance
