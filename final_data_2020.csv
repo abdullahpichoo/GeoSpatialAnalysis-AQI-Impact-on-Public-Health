@@ -1,0 +1,2761 @@
+,DATE_CODE,NAME,REGION,INFLUENZA_POSTIVE_CASES,WEEKLY_MAX_AQI,CATEGORY,DEFINING_PARAMETER,STATE_NAME
+0,202001,Alameda,Bay Area,120,74.0,Moderate,PM2.5,California
+1,202001,Contra Costa,Bay Area,120,64.0,Moderate,PM2.5,California
+2,202001,Marin,Bay Area,120,59.0,Moderate,PM2.5,California
+3,202001,Napa,Bay Area,120,60.0,Moderate,PM2.5,California
+4,202001,San Francisco,Bay Area,120,60.0,Moderate,PM2.5,California
+5,202001,San Mateo,Bay Area,120,48.0,Good,PM2.5,California
+6,202001,Santa Clara,Bay Area,120,62.0,Moderate,PM2.5,California
+7,202001,Santa Cruz,Bay Area,120,165.0,Unhealthy,PM2.5,Arizona
+8,202001,Solano,Bay Area,120,79.0,Moderate,PM2.5,California
+9,202001,Sonoma,Bay Area,120,57.0,Moderate,PM2.5,California
+10,202001,Calaveras,Central,42,63.0,Moderate,PM2.5,California
+11,202001,Fresno,Central,42,130.0,Unhealthy for Sensitive Groups,PM2.5,California
+12,202001,Inyo,Central,42,41.0,Good,Ozone,California
+13,202001,Kings,Central,42,92.0,Moderate,PM2.5,California
+14,202001,Madera,Central,42,78.0,Moderate,PM2.5,California
+15,202001,Mariposa,Central,42,127.0,Unhealthy for Sensitive Groups,PM2.5,California
+16,202001,Merced,Central,42,85.0,Moderate,PM2.5,California
+17,202001,Mono,Central,42,80.0,Moderate,PM2.5,California
+18,202001,Monterey,Central,42,44.0,Good,PM2.5,California
+19,202001,San Benito,Central,42,34.0,Good,Ozone,California
+20,202001,San Joaquin,Central,42,97.0,Moderate,PM2.5,California
+21,202001,Stanislaus,Central,42,90.0,Moderate,PM2.5,California
+22,202001,Tulare,Central,42,111.0,Unhealthy for Sensitive Groups,PM2.5,California
+23,202001,Tuolumne,Central,42,32.0,Good,Ozone,California
+24,202001,Imperial,Lower Southern,136,75.0,Moderate,PM2.5,California
+25,202001,Orange,Lower Southern,136,87.0,Moderate,PM2.5,California
+26,202001,Riverside,Lower Southern,136,94.0,Moderate,PM2.5,California
+27,202001,San Bernardino,Lower Southern,136,94.0,Moderate,PM2.5,California
+28,202001,San Diego,Lower Southern,136,81.0,Moderate,PM2.5,California
+29,202001,Amador,Northern,37,25.0,Good,Ozone,California
+30,202001,Butte,Northern,37,83.0,Moderate,PM2.5,California
+31,202001,Carson City,Northern,37,43.0,Good,Ozone,Nevada
+32,202001,Churchill,Northern,37,43.0,Good,Ozone,Nevada
+33,202001,Clark,Northern,37,157.0,Unhealthy,PM2.5,Nevada
+34,202001,Colusa,Northern,37,78.0,Moderate,PM2.5,California
+35,202001,Del Norte,Northern,37,41.0,Good,PM2.5,California
+36,202001,Douglas,Northern,37,43.0,Good,Ozone,Colorado
+37,202001,El Dorado,Northern,37,32.0,Good,Ozone,California
+38,202001,Elko,Northern,37,11.0,Good,PM10,Nevada
+39,202001,Glenn,Northern,37,66.0,Moderate,PM2.5,California
+40,202001,Humboldt,Northern,37,37.0,Good,Ozone,California
+41,202001,Humboldt,Northern,37,37.0,Good,Ozone,California
+42,202001,Humboldt,Northern,37,37.0,Good,Ozone,California
+43,202001,Humboldt,Northern,37,37.0,Good,Ozone,California
+44,202001,Lake,Northern,37,56.0,Moderate,PM2.5,Indiana
+45,202001,Lake,Northern,37,56.0,Moderate,PM2.5,Indiana
+46,202001,Lake,Northern,37,56.0,Moderate,PM2.5,Indiana
+47,202001,Lake,Northern,37,56.0,Moderate,PM2.5,Indiana
+48,202001,Lincoln,Northern,37,73.0,Moderate,PM2.5,Montana
+49,202001,Lyon,Northern,37,40.0,Good,PM2.5,Minnesota
+50,202001,Mendocino,Northern,37,55.0,Moderate,PM2.5,California
+51,202001,Nevada,Northern,37,48.0,Good,PM2.5,California
+52,202001,Nye,Northern,37,13.0,Good,PM10,Nevada
+53,202001,Placer,Northern,37,74.0,Moderate,PM2.5,California
+54,202001,Plumas,Northern,37,94.0,Moderate,PM2.5,California
+55,202001,Sacramento,Northern,37,89.0,Moderate,PM2.5,California
+56,202001,Shasta,Northern,37,84.0,Moderate,PM2.5,California
+57,202001,Siskiyou,Northern,37,55.0,Moderate,PM2.5,California
+58,202001,Sutter,Northern,37,95.0,Moderate,PM2.5,California
+59,202001,Tehama,Northern,37,83.0,Moderate,PM2.5,California
+60,202001,Trinity,Northern,37,56.0,Moderate,PM2.5,California
+61,202001,Washoe,Northern,37,55.0,Moderate,PM2.5,Nevada
+62,202001,White Pine,Northern,37,44.0,Good,Ozone,Nevada
+63,202001,Yolo,Northern,37,80.0,Moderate,PM2.5,California
+64,202001,Kern,Upper Southern,102,106.0,Unhealthy for Sensitive Groups,PM2.5,California
+65,202001,Los Angeles,Upper Southern,102,104.0,Unhealthy for Sensitive Groups,PM2.5,California
+66,202001,San Luis Obispo,Upper Southern,102,53.0,Moderate,PM2.5,California
+67,202001,Santa Barbara,Upper Southern,102,45.0,Good,PM2.5,California
+68,202001,Ventura,Upper Southern,102,45.0,Good,PM2.5,California
+69,202002,Alameda,Bay Area,150,49.0,Good,PM2.5,California
+70,202002,Contra Costa,Bay Area,150,38.0,Good,PM2.5,California
+71,202002,Marin,Bay Area,150,32.0,Good,PM2.5,California
+72,202002,Napa,Bay Area,150,32.0,Good,PM2.5,California
+73,202002,San Francisco,Bay Area,150,34.0,Good,Ozone,California
+74,202002,San Mateo,Bay Area,150,33.0,Good,Ozone,California
+75,202002,Santa Clara,Bay Area,150,43.0,Good,PM2.5,California
+76,202002,Santa Cruz,Bay Area,150,87.0,Moderate,PM2.5,Arizona
+77,202002,Solano,Bay Area,150,45.0,Good,PM2.5,California
+78,202002,Sonoma,Bay Area,150,33.0,Good,Ozone,California
+79,202002,Calaveras,Central,27,57.0,Moderate,PM2.5,California
+80,202002,Fresno,Central,27,75.0,Moderate,PM2.5,California
+81,202002,Inyo,Central,27,41.0,Good,Ozone,California
+82,202002,Kings,Central,27,66.0,Moderate,PM2.5,California
+83,202002,Madera,Central,27,60.0,Moderate,PM2.5,California
+84,202002,Mariposa,Central,27,56.0,Moderate,PM2.5,California
+85,202002,Merced,Central,27,70.0,Moderate,PM2.5,California
+86,202002,Mono,Central,27,80.0,Moderate,PM2.5,California
+87,202002,Monterey,Central,27,33.0,Good,Ozone,California
+88,202002,San Benito,Central,27,35.0,Good,Ozone,California
+89,202002,San Joaquin,Central,27,70.0,Moderate,PM2.5,California
+90,202002,Stanislaus,Central,27,67.0,Moderate,PM2.5,California
+91,202002,Tulare,Central,27,71.0,Moderate,PM2.5,California
+92,202002,Tuolumne,Central,27,29.0,Good,Ozone,California
+93,202002,Imperial,Lower Southern,58,124.0,Unhealthy for Sensitive Groups,PM2.5,California
+94,202002,Orange,Lower Southern,58,56.0,Moderate,PM2.5,California
+95,202002,Riverside,Lower Southern,58,82.0,Moderate,PM2.5,California
+96,202002,San Bernardino,Lower Southern,58,77.0,Moderate,PM2.5,California
+97,202002,San Diego,Lower Southern,58,63.0,Moderate,PM2.5,California
+98,202002,Amador,Northern,72,28.0,Good,Ozone,California
+99,202002,Butte,Northern,72,71.0,Moderate,PM2.5,California
+100,202002,Carson City,Northern,72,42.0,Good,Ozone,Nevada
+101,202002,Churchill,Northern,72,40.0,Good,Ozone,Nevada
+102,202002,Clark,Northern,72,68.0,Moderate,PM2.5,Nevada
+103,202002,Colusa,Northern,72,64.0,Moderate,PM2.5,California
+104,202002,Del Norte,Northern,72,43.0,Good,PM2.5,California
+105,202002,Douglas,Northern,72,44.0,Good,PM2.5,Nebraska
+106,202002,El Dorado,Northern,72,36.0,Good,PM2.5,California
+107,202002,Elko,Northern,72,18.0,Good,PM10,Nevada
+108,202002,Glenn,Northern,72,61.0,Moderate,PM2.5,California
+109,202002,Humboldt,Northern,72,38.0,Good,PM10,California
+110,202002,Humboldt,Northern,72,38.0,Good,PM10,California
+111,202002,Humboldt,Northern,72,38.0,Good,PM10,California
+112,202002,Humboldt,Northern,72,38.0,Good,PM10,California
+113,202002,Lake,Northern,72,55.0,Moderate,PM2.5,Indiana
+114,202002,Lake,Northern,72,55.0,Moderate,PM2.5,Indiana
+115,202002,Lake,Northern,72,55.0,Moderate,PM2.5,Indiana
+116,202002,Lake,Northern,72,55.0,Moderate,PM2.5,Indiana
+117,202002,Lincoln,Northern,72,80.0,Moderate,PM2.5,Montana
+118,202002,Lyon,Northern,72,39.0,Good,Ozone,Nevada
+119,202002,Mendocino,Northern,72,56.0,Moderate,PM2.5,California
+120,202002,Nevada,Northern,72,52.0,Moderate,PM2.5,California
+121,202002,Nye,Northern,72,14.0,Good,PM10,Nevada
+122,202002,Placer,Northern,72,63.0,Moderate,PM2.5,California
+123,202002,Plumas,Northern,72,69.0,Moderate,PM2.5,California
+124,202002,Sacramento,Northern,72,85.0,Moderate,PM2.5,California
+125,202002,Shasta,Northern,72,41.0,Good,Ozone,California
+126,202002,Siskiyou,Northern,72,48.0,Good,PM2.5,California
+127,202002,Sutter,Northern,72,85.0,Moderate,PM2.5,California
+128,202002,Tehama,Northern,72,62.0,Moderate,PM2.5,California
+129,202002,Trinity,Northern,72,61.0,Moderate,PM2.5,California
+130,202002,Washoe,Northern,72,57.0,Moderate,PM2.5,Nevada
+131,202002,White Pine,Northern,72,44.0,Good,Ozone,Nevada
+132,202002,Yolo,Northern,72,53.0,Moderate,PM2.5,California
+133,202002,Kern,Upper Southern,158,73.0,Moderate,PM2.5,California
+134,202002,Los Angeles,Upper Southern,158,80.0,Moderate,PM2.5,California
+135,202002,San Luis Obispo,Upper Southern,158,38.0,Good,PM2.5,California
+136,202002,Santa Barbara,Upper Southern,158,40.0,Good,Ozone,California
+137,202002,Ventura,Upper Southern,158,39.0,Good,Ozone,California
+138,202003,Alameda,Bay Area,147,42.0,Good,NO2,California
+139,202003,Contra Costa,Bay Area,147,42.0,Good,NO2,California
+140,202003,Marin,Bay Area,147,33.0,Good,PM2.5,California
+141,202003,Napa,Bay Area,147,40.0,Good,PM2.5,California
+142,202003,San Francisco,Bay Area,147,39.0,Good,NO2,California
+143,202003,San Mateo,Bay Area,147,44.0,Good,PM2.5,California
+144,202003,Santa Clara,Bay Area,147,57.0,Moderate,PM2.5,California
+145,202003,Santa Cruz,Bay Area,147,63.0,Moderate,PM2.5,Arizona
+146,202003,Solano,Bay Area,147,48.0,Good,PM2.5,California
+147,202003,Sonoma,Bay Area,147,51.0,Moderate,PM2.5,California
+148,202003,Calaveras,Central,34,41.0,Good,PM2.5,California
+149,202003,Fresno,Central,34,81.0,Moderate,PM2.5,California
+150,202003,Inyo,Central,34,102.0,Unhealthy for Sensitive Groups,PM10,California
+151,202003,Kings,Central,34,69.0,Moderate,PM2.5,California
+152,202003,Madera,Central,34,64.0,Moderate,PM2.5,California
+153,202003,Mariposa,Central,34,52.0,Moderate,PM2.5,California
+154,202003,Merced,Central,34,70.0,Moderate,PM2.5,California
+155,202003,Mono,Central,34,1928.0,Hazardous,PM10,California
+156,202003,Monterey,Central,34,35.0,Good,Ozone,California
+157,202003,San Benito,Central,34,36.0,Good,Ozone,California
+158,202003,San Joaquin,Central,34,62.0,Moderate,PM2.5,California
+159,202003,Stanislaus,Central,34,65.0,Moderate,PM2.5,California
+160,202003,Tulare,Central,34,88.0,Moderate,PM2.5,California
+161,202003,Tuolumne,Central,34,36.0,Good,Ozone,California
+162,202003,Imperial,Lower Southern,47,112.0,Unhealthy for Sensitive Groups,PM2.5,California
+163,202003,Orange,Lower Southern,47,116.0,Unhealthy for Sensitive Groups,PM2.5,California
+164,202003,Riverside,Lower Southern,47,107.0,Unhealthy for Sensitive Groups,PM2.5,California
+165,202003,San Bernardino,Lower Southern,47,136.0,Unhealthy for Sensitive Groups,PM2.5,California
+166,202003,San Diego,Lower Southern,47,87.0,Moderate,PM2.5,California
+167,202003,Amador,Northern,71,31.0,Good,Ozone,California
+168,202003,Butte,Northern,71,66.0,Moderate,PM2.5,California
+169,202003,Carson City,Northern,71,56.0,Moderate,PM2.5,Nevada
+170,202003,Churchill,Northern,71,44.0,Good,Ozone,Nevada
+171,202003,Clark,Northern,71,74.0,Moderate,PM2.5,Nevada
+172,202003,Colusa,Northern,71,43.0,Good,PM2.5,California
+173,202003,Del Norte,Northern,71,30.0,Good,PM2.5,California
+174,202003,Douglas,Northern,71,55.0,Moderate,PM2.5,Nevada
+175,202003,El Dorado,Northern,71,33.0,Good,Ozone,California
+176,202003,Elko,Northern,71,39.0,Good,PM10,Nevada
+177,202003,Glenn,Northern,71,51.0,Moderate,PM2.5,California
+178,202003,Humboldt,Northern,71,64.0,Moderate,PM2.5,California
+179,202003,Humboldt,Northern,71,64.0,Moderate,PM2.5,California
+180,202003,Humboldt,Northern,71,64.0,Moderate,PM2.5,California
+181,202003,Humboldt,Northern,71,64.0,Moderate,PM2.5,California
+182,202003,Lake,Northern,71,67.0,Moderate,PM2.5,Indiana
+183,202003,Lake,Northern,71,67.0,Moderate,PM2.5,Indiana
+184,202003,Lake,Northern,71,67.0,Moderate,PM2.5,Indiana
+185,202003,Lake,Northern,71,67.0,Moderate,PM2.5,Indiana
+186,202003,Lincoln,Northern,71,92.0,Moderate,PM2.5,Montana
+187,202003,Lyon,Northern,71,40.0,Good,Ozone,Nevada
+188,202003,Mendocino,Northern,71,55.0,Moderate,PM2.5,California
+189,202003,Nevada,Northern,71,41.0,Good,PM2.5,California
+190,202003,Nye,Northern,71,29.0,Good,PM10,Nevada
+191,202003,Placer,Northern,71,60.0,Moderate,PM2.5,California
+192,202003,Plumas,Northern,71,95.0,Moderate,PM2.5,California
+193,202003,Sacramento,Northern,71,65.0,Moderate,PM2.5,California
+194,202003,Shasta,Northern,71,43.0,Good,Ozone,California
+195,202003,Siskiyou,Northern,71,54.0,Moderate,PM2.5,California
+196,202003,Sutter,Northern,71,74.0,Moderate,PM2.5,California
+197,202003,Tehama,Northern,71,43.0,Good,PM2.5,California
+198,202003,Trinity,Northern,71,60.0,Moderate,PM2.5,California
+199,202003,Washoe,Northern,71,53.0,Moderate,PM2.5,Nevada
+200,202003,White Pine,Northern,71,46.0,Good,Ozone,Nevada
+201,202003,Yolo,Northern,71,38.0,Good,PM2.5,California
+202,202003,Kern,Upper Southern,248,80.0,Moderate,PM2.5,California
+203,202003,Los Angeles,Upper Southern,248,124.0,Unhealthy for Sensitive Groups,PM2.5,California
+204,202003,San Luis Obispo,Upper Southern,248,56.0,Moderate,PM2.5,California
+205,202003,Santa Barbara,Upper Southern,248,43.0,Good,Ozone,California
+206,202003,Ventura,Upper Southern,248,54.0,Moderate,PM2.5,California
+207,202004,Alameda,Bay Area,128,60.0,Moderate,PM2.5,California
+208,202004,Contra Costa,Bay Area,128,63.0,Moderate,PM2.5,California
+209,202004,Marin,Bay Area,128,51.0,Moderate,PM2.5,California
+210,202004,Napa,Bay Area,128,55.0,Moderate,PM2.5,California
+211,202004,San Francisco,Bay Area,128,48.0,Good,PM2.5,California
+212,202004,San Mateo,Bay Area,128,52.0,Moderate,PM2.5,California
+213,202004,Santa Clara,Bay Area,128,65.0,Moderate,PM2.5,California
+214,202004,Santa Cruz,Bay Area,128,66.0,Moderate,PM2.5,Arizona
+215,202004,Solano,Bay Area,128,65.0,Moderate,PM2.5,California
+216,202004,Sonoma,Bay Area,128,60.0,Moderate,PM2.5,California
+217,202004,Calaveras,Central,29,55.0,Moderate,PM2.5,California
+218,202004,Fresno,Central,29,103.0,Unhealthy for Sensitive Groups,PM2.5,California
+219,202004,Inyo,Central,29,36.0,Good,Ozone,California
+220,202004,Kings,Central,29,88.0,Moderate,PM2.5,California
+221,202004,Madera,Central,29,75.0,Moderate,PM2.5,California
+222,202004,Mariposa,Central,29,59.0,Moderate,PM2.5,California
+223,202004,Merced,Central,29,87.0,Moderate,PM2.5,California
+224,202004,Mono,Central,29,66.0,Moderate,PM2.5,California
+225,202004,Monterey,Central,29,33.0,Good,Ozone,California
+226,202004,San Benito,Central,29,40.0,Good,PM2.5,California
+227,202004,San Joaquin,Central,29,78.0,Moderate,PM2.5,California
+228,202004,Stanislaus,Central,29,77.0,Moderate,PM2.5,California
+229,202004,Tulare,Central,29,91.0,Moderate,PM2.5,California
+230,202004,Tuolumne,Central,29,36.0,Good,Ozone,California
+231,202004,Imperial,Lower Southern,46,85.0,Moderate,PM2.5,California
+232,202004,Orange,Lower Southern,46,89.0,Moderate,PM2.5,California
+233,202004,Riverside,Lower Southern,46,113.0,Unhealthy for Sensitive Groups,PM2.5,California
+234,202004,San Bernardino,Lower Southern,46,118.0,Unhealthy for Sensitive Groups,PM2.5,California
+235,202004,San Diego,Lower Southern,46,74.0,Moderate,PM2.5,California
+236,202004,Amador,Northern,82,32.0,Good,Ozone,California
+237,202004,Butte,Northern,82,72.0,Moderate,PM2.5,California
+238,202004,Carson City,Northern,82,41.0,Good,Ozone,Nevada
+239,202004,Churchill,Northern,82,40.0,Good,Ozone,Nevada
+240,202004,Clark,Northern,82,80.0,Moderate,PM2.5,Nevada
+241,202004,Colusa,Northern,82,58.0,Moderate,PM2.5,California
+242,202004,Del Norte,Northern,82,32.0,Good,PM2.5,California
+243,202004,Douglas,Northern,82,54.0,Moderate,PM2.5,Oregon
+244,202004,El Dorado,Northern,82,33.0,Good,Ozone,California
+245,202004,Elko,Northern,82,13.0,Good,PM10,Nevada
+246,202004,Glenn,Northern,82,59.0,Moderate,PM2.5,California
+247,202004,Humboldt,Northern,82,44.0,Good,PM2.5,California
+248,202004,Humboldt,Northern,82,44.0,Good,PM2.5,California
+249,202004,Humboldt,Northern,82,44.0,Good,PM2.5,California
+250,202004,Humboldt,Northern,82,44.0,Good,PM2.5,California
+251,202004,Lake,Northern,82,59.0,Moderate,PM2.5,Indiana
+252,202004,Lake,Northern,82,59.0,Moderate,PM2.5,Indiana
+253,202004,Lake,Northern,82,59.0,Moderate,PM2.5,Indiana
+254,202004,Lake,Northern,82,59.0,Moderate,PM2.5,Indiana
+255,202004,Lincoln,Northern,82,84.0,Moderate,PM2.5,Montana
+256,202004,Lyon,Northern,82,64.0,Moderate,PM2.5,Minnesota
+257,202004,Mendocino,Northern,82,54.0,Moderate,PM2.5,California
+258,202004,Nevada,Northern,82,42.0,Good,PM2.5,California
+259,202004,Nye,Northern,82,19.0,Good,PM10,Nevada
+260,202004,Placer,Northern,82,76.0,Moderate,PM2.5,California
+261,202004,Plumas,Northern,82,112.0,Unhealthy for Sensitive Groups,PM2.5,California
+262,202004,Sacramento,Northern,82,77.0,Moderate,PM2.5,California
+263,202004,Shasta,Northern,82,44.0,Good,Ozone,California
+264,202004,Siskiyou,Northern,82,54.0,Moderate,PM2.5,California
+265,202004,Sutter,Northern,82,84.0,Moderate,PM2.5,California
+266,202004,Tehama,Northern,82,62.0,Moderate,PM2.5,California
+267,202004,Trinity,Northern,82,71.0,Moderate,PM2.5,California
+268,202004,Washoe,Northern,82,58.0,Moderate,PM2.5,Nevada
+269,202004,White Pine,Northern,82,42.0,Good,Ozone,Nevada
+270,202004,Yolo,Northern,82,64.0,Moderate,PM2.5,California
+271,202004,Kern,Upper Southern,82,88.0,Moderate,PM2.5,California
+272,202004,Los Angeles,Upper Southern,82,130.0,Unhealthy for Sensitive Groups,PM2.5,California
+273,202004,San Luis Obispo,Upper Southern,82,37.0,Good,PM2.5,California
+274,202004,Santa Barbara,Upper Southern,82,39.0,Good,PM2.5,California
+275,202004,Ventura,Upper Southern,82,57.0,Moderate,PM2.5,California
+276,202005,Alameda,Bay Area,161,66.0,Moderate,PM2.5,California
+277,202005,Contra Costa,Bay Area,161,61.0,Moderate,PM2.5,California
+278,202005,Marin,Bay Area,161,55.0,Moderate,PM2.5,California
+279,202005,Napa,Bay Area,161,52.0,Moderate,PM2.5,California
+280,202005,San Francisco,Bay Area,161,67.0,Moderate,PM2.5,California
+281,202005,San Mateo,Bay Area,161,62.0,Moderate,PM2.5,California
+282,202005,Santa Clara,Bay Area,161,65.0,Moderate,PM2.5,California
+283,202005,Santa Cruz,Bay Area,161,73.0,Moderate,PM2.5,Arizona
+284,202005,Solano,Bay Area,161,68.0,Moderate,PM2.5,California
+285,202005,Sonoma,Bay Area,161,36.0,Good,Ozone,California
+286,202005,Calaveras,Central,56,64.0,Moderate,PM2.5,California
+287,202005,Fresno,Central,56,91.0,Moderate,PM2.5,California
+288,202005,Inyo,Central,56,458.0,Hazardous,PM10,California
+289,202005,Kings,Central,56,99.0,Moderate,PM2.5,California
+290,202005,Madera,Central,56,63.0,Moderate,PM2.5,California
+291,202005,Mariposa,Central,56,51.0,Moderate,PM10,California
+292,202005,Merced,Central,56,73.0,Moderate,PM2.5,California
+293,202005,Mono,Central,56,158.0,Unhealthy,PM10,California
+294,202005,Monterey,Central,56,37.0,Good,Ozone,California
+295,202005,San Benito,Central,56,43.0,Good,PM2.5,California
+296,202005,San Joaquin,Central,56,97.0,Moderate,PM2.5,California
+297,202005,Stanislaus,Central,56,92.0,Moderate,PM2.5,California
+298,202005,Tulare,Central,56,89.0,Moderate,PM2.5,California
+299,202005,Tuolumne,Central,56,36.0,,,
+300,202005,Imperial,Lower Southern,35,76.0,Moderate,PM10,California
+301,202005,Orange,Lower Southern,35,81.0,Moderate,PM2.5,California
+302,202005,Riverside,Lower Southern,35,207.0,Very Unhealthy,PM10,California
+303,202005,San Bernardino,Lower Southern,35,113.0,Unhealthy for Sensitive Groups,PM2.5,California
+304,202005,San Diego,Lower Southern,35,89.0,Moderate,PM2.5,California
+305,202005,Amador,Northern,51,29.0,Good,Ozone,California
+306,202005,Butte,Northern,51,82.0,Moderate,PM2.5,California
+307,202005,Carson City,Northern,51,46.0,Good,Ozone,Nevada
+308,202005,Churchill,Northern,51,40.0,Good,Ozone,Nevada
+309,202005,Clark,Northern,51,87.0,Moderate,PM10,Nevada
+310,202005,Colusa,Northern,51,56.0,Moderate,PM2.5,California
+311,202005,Del Norte,Northern,51,57.0,Moderate,PM2.5,California
+312,202005,Douglas,Northern,51,52.0,Moderate,PM2.5,Nebraska
+313,202005,El Dorado,Northern,51,34.0,Good,Ozone,California
+314,202005,Elko,Northern,51,16.0,Good,PM10,Nevada
+315,202005,Glenn,Northern,51,51.0,Moderate,PM2.5,California
+316,202005,Humboldt,Northern,51,53.0,Moderate,PM2.5,California
+317,202005,Humboldt,Northern,51,53.0,Moderate,PM2.5,California
+318,202005,Humboldt,Northern,51,53.0,Moderate,PM2.5,California
+319,202005,Humboldt,Northern,51,53.0,Moderate,PM2.5,California
+320,202005,Lake,Northern,51,66.0,Moderate,PM2.5,Indiana
+321,202005,Lake,Northern,51,66.0,Moderate,PM2.5,Indiana
+322,202005,Lake,Northern,51,66.0,Moderate,PM2.5,Indiana
+323,202005,Lake,Northern,51,66.0,Moderate,PM2.5,Indiana
+324,202005,Lincoln,Northern,51,64.0,Moderate,PM2.5,Montana
+325,202005,Lyon,Northern,51,49.0,Good,PM2.5,Minnesota
+326,202005,Mendocino,Northern,51,40.0,Good,PM2.5,California
+327,202005,Nevada,Northern,51,44.0,Good,PM2.5,California
+328,202005,Nye,Northern,51,97.0,Moderate,PM10,Nevada
+329,202005,Placer,Northern,51,62.0,Moderate,PM2.5,California
+330,202005,Plumas,Northern,51,75.0,Moderate,PM2.5,California
+331,202005,Sacramento,Northern,51,83.0,Moderate,PM2.5,California
+332,202005,Shasta,Northern,51,44.0,Good,Ozone,California
+333,202005,Siskiyou,Northern,51,40.0,Good,PM2.5,California
+334,202005,Sutter,Northern,51,64.0,Moderate,PM2.5,California
+335,202005,Tehama,Northern,51,37.0,Good,Ozone,California
+336,202005,Trinity,Northern,51,39.0,Good,PM2.5,California
+337,202005,Washoe,Northern,51,48.0,Good,PM2.5,Nevada
+338,202005,White Pine,Northern,51,51.0,Moderate,Ozone,Nevada
+339,202005,Yolo,Northern,51,60.0,Moderate,PM2.5,California
+340,202005,Kern,Upper Southern,151,93.0,Moderate,PM2.5,California
+341,202005,Los Angeles,Upper Southern,151,77.0,Moderate,PM2.5,California
+342,202005,San Luis Obispo,Upper Southern,151,57.0,Moderate,PM10,California
+343,202005,Santa Barbara,Upper Southern,151,40.0,Good,Ozone,California
+344,202005,Ventura,Upper Southern,151,40.0,Good,Ozone,California
+345,202006,Alameda,Bay Area,91,56.0,Moderate,PM2.5,California
+346,202006,Contra Costa,Bay Area,91,59.0,Moderate,PM2.5,California
+347,202006,Marin,Bay Area,91,49.0,Good,PM2.5,California
+348,202006,Napa,Bay Area,91,54.0,Moderate,PM2.5,California
+349,202006,San Francisco,Bay Area,91,52.0,Moderate,PM2.5,California
+350,202006,San Mateo,Bay Area,91,53.0,Moderate,PM2.5,California
+351,202006,Santa Clara,Bay Area,91,57.0,Moderate,PM2.5,California
+352,202006,Santa Cruz,Bay Area,91,62.0,Moderate,PM2.5,Arizona
+353,202006,Solano,Bay Area,91,67.0,Moderate,PM2.5,California
+354,202006,Sonoma,Bay Area,91,40.0,Good,PM2.5,California
+355,202006,Calaveras,Central,51,59.0,Moderate,PM2.5,California
+356,202006,Fresno,Central,51,86.0,Moderate,PM2.5,California
+357,202006,Inyo,Central,51,102.0,Unhealthy for Sensitive Groups,PM10,California
+358,202006,Kings,Central,51,98.0,Moderate,PM2.5,California
+359,202006,Madera,Central,51,64.0,Moderate,PM2.5,California
+360,202006,Mariposa,Central,51,149.0,Unhealthy for Sensitive Groups,PM2.5,California
+361,202006,Merced,Central,51,74.0,Moderate,PM2.5,California
+362,202006,Mono,Central,51,64.0,Moderate,PM2.5,California
+363,202006,Monterey,Central,51,36.0,Good,Ozone,California
+364,202006,San Benito,Central,51,46.0,Good,PM2.5,California
+365,202006,San Joaquin,Central,51,85.0,Moderate,PM2.5,California
+366,202006,Stanislaus,Central,51,84.0,Moderate,PM2.5,California
+367,202006,Tulare,Central,51,73.0,Moderate,PM2.5,California
+368,202006,Tuolumne,Central,51,40.0,Good,Ozone,California
+369,202006,Imperial,Lower Southern,129,90.0,Moderate,PM2.5,California
+370,202006,Orange,Lower Southern,129,75.0,Moderate,PM2.5,California
+371,202006,Riverside,Lower Southern,129,103.0,Unhealthy for Sensitive Groups,PM2.5,California
+372,202006,San Bernardino,Lower Southern,129,104.0,Unhealthy for Sensitive Groups,PM2.5,California
+373,202006,San Diego,Lower Southern,129,84.0,Moderate,PM2.5,California
+374,202006,Amador,Northern,2,38.0,Good,Ozone,California
+375,202006,Butte,Northern,2,76.0,Moderate,PM2.5,California
+376,202006,Carson City,Northern,2,44.0,Good,Ozone,Nevada
+377,202006,Churchill,Northern,2,44.0,Good,Ozone,Nevada
+378,202006,Clark,Northern,2,72.0,Moderate,PM2.5,Nevada
+379,202006,Colusa,Northern,2,76.0,Moderate,PM2.5,California
+380,202006,Del Norte,Northern,2,36.0,Good,PM2.5,California
+381,202006,Douglas,Northern,2,52.0,Moderate,PM2.5,Nevada
+382,202006,El Dorado,Northern,2,44.0,Good,Ozone,California
+383,202006,Elko,Northern,2,12.0,Good,PM10,Nevada
+384,202006,Glenn,Northern,2,82.0,Moderate,PM2.5,California
+385,202006,Humboldt,Northern,2,44.0,Good,PM2.5,California
+386,202006,Humboldt,Northern,2,44.0,Good,PM2.5,California
+387,202006,Humboldt,Northern,2,44.0,Good,PM2.5,California
+388,202006,Humboldt,Northern,2,44.0,Good,PM2.5,California
+389,202006,Lake,Northern,2,59.0,Moderate,PM2.5,Indiana
+390,202006,Lake,Northern,2,59.0,Moderate,PM2.5,Indiana
+391,202006,Lake,Northern,2,59.0,Moderate,PM2.5,Indiana
+392,202006,Lake,Northern,2,59.0,Moderate,PM2.5,Indiana
+393,202006,Lincoln,Northern,2,70.0,Moderate,PM2.5,Montana
+394,202006,Lyon,Northern,2,64.0,Moderate,PM10,Nevada
+395,202006,Mendocino,Northern,2,44.0,Good,PM2.5,California
+396,202006,Nevada,Northern,2,44.0,Good,Ozone,California
+397,202006,Nye,Northern,2,77.0,Moderate,PM10,Nevada
+398,202006,Placer,Northern,2,67.0,Moderate,PM2.5,California
+399,202006,Plumas,Northern,2,114.0,Unhealthy for Sensitive Groups,PM2.5,California
+400,202006,Sacramento,Northern,2,78.0,Moderate,PM2.5,California
+401,202006,Shasta,Northern,2,44.0,Good,Ozone,California
+402,202006,Siskiyou,Northern,2,52.0,Moderate,PM2.5,California
+403,202006,Sutter,Northern,2,82.0,Moderate,PM2.5,California
+404,202006,Tehama,Northern,2,59.0,Moderate,PM2.5,California
+405,202006,Trinity,Northern,2,59.0,Moderate,PM2.5,California
+406,202006,Washoe,Northern,2,61.0,Moderate,PM10,Nevada
+407,202006,White Pine,Northern,2,43.0,Good,Ozone,Nevada
+408,202006,Yolo,Northern,2,66.0,Moderate,PM2.5,California
+409,202006,Kern,Upper Southern,183,74.0,Moderate,PM2.5,California
+410,202006,Los Angeles,Upper Southern,183,83.0,Moderate,PM2.5,California
+411,202006,San Luis Obispo,Upper Southern,183,50.0,Good,PM2.5,California
+412,202006,Santa Barbara,Upper Southern,183,44.0,Good,Ozone,California
+413,202006,Ventura,Upper Southern,183,58.0,Moderate,Ozone,California
+414,202007,Alameda,Bay Area,111,54.0,Moderate,PM2.5,California
+415,202007,Contra Costa,Bay Area,111,53.0,Moderate,PM2.5,California
+416,202007,Marin,Bay Area,111,42.0,Good,PM2.5,California
+417,202007,Napa,Bay Area,111,46.0,Good,PM2.5,California
+418,202007,San Francisco,Bay Area,111,54.0,Moderate,PM2.5,California
+419,202007,San Mateo,Bay Area,111,44.0,Good,PM2.5,California
+420,202007,Santa Clara,Bay Area,111,53.0,Moderate,PM2.5,California
+421,202007,Santa Cruz,Bay Area,111,67.0,Moderate,PM2.5,Arizona
+422,202007,Solano,Bay Area,111,55.0,Moderate,PM2.5,California
+423,202007,Sonoma,Bay Area,111,41.0,Good,PM2.5,California
+424,202007,Calaveras,Central,32,50.0,Good,PM2.5,California
+425,202007,Fresno,Central,32,79.0,Moderate,PM2.5,California
+426,202007,Inyo,Central,32,71.0,Moderate,PM10,California
+427,202007,Kings,Central,32,81.0,Moderate,PM2.5,California
+428,202007,Madera,Central,32,60.0,Moderate,PM2.5,California
+429,202007,Mariposa,Central,32,56.0,Moderate,PM2.5,California
+430,202007,Merced,Central,32,64.0,Moderate,PM2.5,California
+431,202007,Mono,Central,32,63.0,Moderate,PM2.5,California
+432,202007,Monterey,Central,32,64.0,Moderate,PM2.5,California
+433,202007,San Benito,Central,32,44.0,Good,Ozone,California
+434,202007,San Joaquin,Central,32,72.0,Moderate,PM2.5,California
+435,202007,Stanislaus,Central,32,75.0,Moderate,PM2.5,California
+436,202007,Tulare,Central,32,81.0,Moderate,PM2.5,California
+437,202007,Tuolumne,Central,32,44.0,Good,Ozone,California
+438,202007,Imperial,Lower Southern,37,64.0,Moderate,PM2.5,California
+439,202007,Orange,Lower Southern,37,71.0,Moderate,Ozone,California
+440,202007,Riverside,Lower Southern,37,93.0,Moderate,Ozone,California
+441,202007,San Bernardino,Lower Southern,37,105.0,Unhealthy for Sensitive Groups,Ozone,California
+442,202007,San Diego,Lower Southern,37,66.0,Moderate,PM2.5,California
+443,202007,Amador,Northern,4,38.0,Good,Ozone,California
+444,202007,Butte,Northern,4,87.0,Moderate,PM2.5,California
+445,202007,Carson City,Northern,4,41.0,Good,Ozone,Nevada
+446,202007,Churchill,Northern,4,44.0,Good,Ozone,Nevada
+447,202007,Clark,Northern,4,68.0,Moderate,PM2.5,Nevada
+448,202007,Colusa,Northern,4,65.0,Moderate,PM2.5,California
+449,202007,Del Norte,Northern,4,48.0,Good,PM2.5,California
+450,202007,Douglas,Northern,4,44.0,Good,Ozone,Colorado
+451,202007,El Dorado,Northern,4,45.0,Good,Ozone,California
+452,202007,Elko,Northern,4,21.0,Good,PM10,Nevada
+453,202007,Glenn,Northern,4,69.0,Moderate,PM2.5,California
+454,202007,Humboldt,Northern,4,52.0,Moderate,PM2.5,California
+455,202007,Humboldt,Northern,4,52.0,Moderate,PM2.5,California
+456,202007,Humboldt,Northern,4,52.0,Moderate,PM2.5,California
+457,202007,Humboldt,Northern,4,52.0,Moderate,PM2.5,California
+458,202007,Lake,Northern,4,64.0,Moderate,PM2.5,Indiana
+459,202007,Lake,Northern,4,64.0,Moderate,PM2.5,Indiana
+460,202007,Lake,Northern,4,64.0,Moderate,PM2.5,Indiana
+461,202007,Lake,Northern,4,64.0,Moderate,PM2.5,Indiana
+462,202007,Lincoln,Northern,4,71.0,Moderate,PM2.5,Montana
+463,202007,Lyon,Northern,4,38.0,Good,Ozone,Nevada
+464,202007,Mendocino,Northern,4,61.0,Moderate,PM2.5,California
+465,202007,Nevada,Northern,4,50.0,Good,PM2.5,California
+466,202007,Nye,Northern,4,26.0,Good,PM10,Nevada
+467,202007,Placer,Northern,4,56.0,Moderate,PM2.5,California
+468,202007,Plumas,Northern,4,92.0,Moderate,PM2.5,California
+469,202007,Sacramento,Northern,4,67.0,Moderate,PM2.5,California
+470,202007,Shasta,Northern,4,54.0,Moderate,PM2.5,California
+471,202007,Siskiyou,Northern,4,51.0,Moderate,PM2.5,California
+472,202007,Sutter,Northern,4,66.0,Moderate,PM2.5,California
+473,202007,Tehama,Northern,4,62.0,Moderate,PM2.5,California
+474,202007,Trinity,Northern,4,62.0,Moderate,PM2.5,California
+475,202007,Washoe,Northern,4,50.0,Good,PM2.5,Nevada
+476,202007,White Pine,Northern,4,43.0,Good,Ozone,Nevada
+477,202007,Yolo,Northern,4,59.0,Moderate,PM2.5,California
+478,202007,Kern,Upper Southern,140,90.0,Moderate,PM2.5,California
+479,202007,Los Angeles,Upper Southern,140,77.0,Moderate,Ozone,California
+480,202007,San Luis Obispo,Upper Southern,140,79.0,Moderate,PM10,California
+481,202007,Santa Barbara,Upper Southern,140,45.0,Good,PM2.5,California
+482,202007,Ventura,Upper Southern,140,51.0,Moderate,Ozone,California
+483,202008,Alameda,Bay Area,107,56.0,Moderate,PM2.5,California
+484,202008,Contra Costa,Bay Area,107,56.0,Moderate,PM2.5,California
+485,202008,Marin,Bay Area,107,52.0,Moderate,PM2.5,California
+486,202008,Napa,Bay Area,107,45.0,Good,PM2.5,California
+487,202008,San Francisco,Bay Area,107,54.0,Moderate,PM2.5,California
+488,202008,San Mateo,Bay Area,107,53.0,Moderate,PM2.5,California
+489,202008,Santa Clara,Bay Area,107,65.0,Moderate,PM2.5,California
+490,202008,Santa Cruz,Bay Area,107,52.0,Moderate,PM10,Arizona
+491,202008,Solano,Bay Area,107,57.0,Moderate,PM2.5,California
+492,202008,Sonoma,Bay Area,107,43.0,Good,PM2.5,California
+493,202008,Calaveras,Central,25,49.0,Good,PM2.5,California
+494,202008,Fresno,Central,25,80.0,Moderate,PM2.5,California
+495,202008,Inyo,Central,25,43.0,Good,Ozone,California
+496,202008,Kings,Central,25,80.0,Moderate,PM2.5,California
+497,202008,Madera,Central,25,75.0,Moderate,PM2.5,California
+498,202008,Mariposa,Central,25,45.0,Good,Ozone,California
+499,202008,Merced,Central,25,63.0,Moderate,PM2.5,California
+500,202008,Mono,Central,25,61.0,Moderate,PM2.5,California
+501,202008,Monterey,Central,25,43.0,Good,PM2.5,California
+502,202008,San Benito,Central,25,45.0,Good,Ozone,California
+503,202008,San Joaquin,Central,25,67.0,Moderate,PM2.5,California
+504,202008,Stanislaus,Central,25,62.0,Moderate,PM2.5,California
+505,202008,Tulare,Central,25,81.0,Moderate,PM2.5,California
+506,202008,Tuolumne,Central,25,42.0,Good,Ozone,California
+507,202008,Imperial,Lower Southern,37,62.0,Moderate,PM10,California
+508,202008,Orange,Lower Southern,37,61.0,Moderate,PM2.5,California
+509,202008,Riverside,Lower Southern,37,85.0,Moderate,PM2.5,California
+510,202008,San Bernardino,Lower Southern,37,98.0,Moderate,PM2.5,California
+511,202008,San Diego,Lower Southern,37,77.0,Moderate,PM2.5,California
+512,202008,Amador,Northern,6,39.0,Good,Ozone,California
+513,202008,Butte,Northern,6,59.0,Moderate,PM2.5,California
+514,202008,Carson City,Northern,6,44.0,Good,Ozone,Nevada
+515,202008,Churchill,Northern,6,44.0,Good,Ozone,Nevada
+516,202008,Clark,Northern,6,61.0,Moderate,PM2.5,Washington
+517,202008,Colusa,Northern,6,55.0,Moderate,PM2.5,California
+518,202008,Del Norte,Northern,6,50.0,Good,PM2.5,California
+519,202008,Douglas,Northern,6,57.0,Moderate,PM2.5,Oregon
+520,202008,El Dorado,Northern,6,44.0,Good,Ozone,California
+521,202008,Elko,Northern,6,19.0,Good,PM10,Nevada
+522,202008,Glenn,Northern,6,48.0,Good,PM2.5,California
+523,202008,Humboldt,Northern,6,51.0,Moderate,PM2.5,California
+524,202008,Humboldt,Northern,6,51.0,Moderate,PM2.5,California
+525,202008,Humboldt,Northern,6,51.0,Moderate,PM2.5,California
+526,202008,Humboldt,Northern,6,51.0,Moderate,PM2.5,California
+527,202008,Lake,Northern,6,67.0,Moderate,PM2.5,Indiana
+528,202008,Lake,Northern,6,67.0,Moderate,PM2.5,Indiana
+529,202008,Lake,Northern,6,67.0,Moderate,PM2.5,Indiana
+530,202008,Lake,Northern,6,67.0,Moderate,PM2.5,Indiana
+531,202008,Lincoln,Northern,6,71.0,Moderate,PM2.5,Montana
+532,202008,Lyon,Northern,6,40.0,Good,Ozone,Nevada
+533,202008,Mendocino,Northern,6,66.0,Moderate,PM2.5,California
+534,202008,Nevada,Northern,6,48.0,Good,PM2.5,California
+535,202008,Nye,Northern,6,27.0,Good,PM10,Nevada
+536,202008,Placer,Northern,6,58.0,Moderate,PM2.5,California
+537,202008,Plumas,Northern,6,72.0,Moderate,PM2.5,California
+538,202008,Sacramento,Northern,6,70.0,Moderate,PM2.5,California
+539,202008,Shasta,Northern,6,51.0,Moderate,PM2.5,California
+540,202008,Siskiyou,Northern,6,54.0,Moderate,PM2.5,California
+541,202008,Sutter,Northern,6,58.0,Moderate,PM2.5,California
+542,202008,Tehama,Northern,6,55.0,Moderate,PM2.5,California
+543,202008,Trinity,Northern,6,48.0,Good,PM2.5,California
+544,202008,Washoe,Northern,6,45.0,Good,Ozone,Nevada
+545,202008,White Pine,Northern,6,44.0,Good,Ozone,Nevada
+546,202008,Yolo,Northern,6,41.0,Good,Ozone,California
+547,202008,Kern,Upper Southern,40,80.0,Moderate,PM2.5,California
+548,202008,Los Angeles,Upper Southern,40,83.0,Moderate,PM2.5,California
+549,202008,San Luis Obispo,Upper Southern,40,47.0,Good,Ozone,California
+550,202008,Santa Barbara,Upper Southern,40,67.0,Moderate,Ozone,California
+551,202008,Ventura,Upper Southern,40,60.0,Moderate,PM2.5,California
+552,202009,Alameda,Bay Area,73,56.0,Moderate,PM2.5,California
+553,202009,Contra Costa,Bay Area,73,52.0,Moderate,PM2.5,California
+554,202009,Marin,Bay Area,73,49.0,Good,Ozone,California
+555,202009,Napa,Bay Area,73,47.0,Good,Ozone,California
+556,202009,San Francisco,Bay Area,73,58.0,Moderate,PM2.5,California
+557,202009,San Mateo,Bay Area,73,54.0,Moderate,PM2.5,California
+558,202009,Santa Clara,Bay Area,73,59.0,Moderate,PM2.5,California
+559,202009,Santa Cruz,Bay Area,73,48.0,Good,PM10,Arizona
+560,202009,Solano,Bay Area,73,58.0,Moderate,PM2.5,California
+561,202009,Sonoma,Bay Area,73,41.0,Good,Ozone,California
+562,202009,Calaveras,Central,20,51.0,Moderate,PM2.5,California
+563,202009,Fresno,Central,20,62.0,Moderate,PM2.5,California
+564,202009,Inyo,Central,20,42.0,Good,Ozone,California
+565,202009,Kings,Central,20,88.0,Moderate,PM2.5,California
+566,202009,Madera,Central,20,55.0,Moderate,PM2.5,California
+567,202009,Mariposa,Central,20,44.0,Good,Ozone,California
+568,202009,Merced,Central,20,59.0,Moderate,PM2.5,California
+569,202009,Mono,Central,20,63.0,Moderate,PM2.5,California
+570,202009,Monterey,Central,20,41.0,Good,Ozone,California
+571,202009,San Benito,Central,20,47.0,Good,PM2.5,California
+572,202009,San Joaquin,Central,20,76.0,Moderate,PM2.5,California
+573,202009,Stanislaus,Central,20,68.0,Moderate,PM2.5,California
+574,202009,Tulare,Central,20,61.0,Moderate,PM2.5,California
+575,202009,Tuolumne,Central,20,44.0,Good,Ozone,California
+576,202009,Imperial,Lower Southern,27,61.0,Moderate,PM2.5,California
+577,202009,Orange,Lower Southern,27,67.0,Moderate,PM2.5,Florida
+578,202009,Riverside,Lower Southern,27,86.0,Moderate,PM10,California
+579,202009,San Bernardino,Lower Southern,27,72.0,Moderate,PM2.5,California
+580,202009,San Diego,Lower Southern,27,65.0,Moderate,PM2.5,California
+581,202009,Amador,Northern,3,38.0,Good,Ozone,California
+582,202009,Butte,Northern,3,48.0,Good,Ozone,California
+583,202009,Carson City,Northern,3,46.0,Good,Ozone,Nevada
+584,202009,Churchill,Northern,3,44.0,Good,Ozone,Nevada
+585,202009,Clark,Northern,3,56.0,Moderate,PM2.5,Nevada
+586,202009,Colusa,Northern,3,58.0,Moderate,PM2.5,California
+587,202009,Del Norte,Northern,3,59.0,Moderate,PM2.5,California
+588,202009,Douglas,Northern,3,46.0,Good,Ozone,Colorado
+589,202009,El Dorado,Northern,3,46.0,Good,PM2.5,California
+590,202009,Elko,Northern,3,26.0,Good,PM10,Nevada
+591,202009,Glenn,Northern,3,53.0,Moderate,PM2.5,California
+592,202009,Humboldt,Northern,3,50.0,Good,PM2.5,California
+593,202009,Humboldt,Northern,3,50.0,Good,PM2.5,California
+594,202009,Humboldt,Northern,3,50.0,Good,PM2.5,California
+595,202009,Humboldt,Northern,3,50.0,Good,PM2.5,California
+596,202009,Lake,Northern,3,64.0,Moderate,PM2.5,Indiana
+597,202009,Lake,Northern,3,64.0,Moderate,PM2.5,Indiana
+598,202009,Lake,Northern,3,64.0,Moderate,PM2.5,Indiana
+599,202009,Lake,Northern,3,64.0,Moderate,PM2.5,Indiana
+600,202009,Lincoln,Northern,3,70.0,Moderate,PM2.5,Montana
+601,202009,Lyon,Northern,3,44.0,Good,Ozone,Nevada
+602,202009,Mendocino,Northern,3,59.0,Moderate,PM2.5,California
+603,202009,Nevada,Northern,3,51.0,Moderate,Ozone,California
+604,202009,Nye,Northern,3,23.0,Good,PM10,Nevada
+605,202009,Placer,Northern,3,54.0,Moderate,PM2.5,California
+606,202009,Plumas,Northern,3,84.0,Moderate,PM2.5,California
+607,202009,Sacramento,Northern,3,63.0,Moderate,PM2.5,California
+608,202009,Shasta,Northern,3,44.0,Good,Ozone,California
+609,202009,Siskiyou,Northern,3,38.0,Good,Ozone,California
+610,202009,Sutter,Northern,3,64.0,Moderate,PM2.5,California
+611,202009,Tehama,Northern,3,48.0,Good,PM2.5,California
+612,202009,Trinity,Northern,3,33.0,Good,PM2.5,California
+613,202009,Washoe,Northern,3,49.0,Good,Ozone,Nevada
+614,202009,White Pine,Northern,3,44.0,Good,Ozone,Nevada
+615,202009,Yolo,Northern,3,50.0,Good,PM2.5,California
+616,202009,Kern,Upper Southern,17,63.0,Moderate,PM2.5,California
+617,202009,Los Angeles,Upper Southern,17,74.0,Moderate,NO2,California
+618,202009,San Luis Obispo,Upper Southern,17,60.0,Moderate,PM2.5,California
+619,202009,Santa Barbara,Upper Southern,17,50.0,Good,Ozone,California
+620,202009,Ventura,Upper Southern,17,47.0,Good,Ozone,California
+621,202010,Alameda,Bay Area,85,52.0,Moderate,PM2.5,California
+622,202010,Contra Costa,Bay Area,85,51.0,Moderate,Ozone,California
+623,202010,Marin,Bay Area,85,42.0,Good,PM2.5,California
+624,202010,Napa,Bay Area,85,41.0,Good,Ozone,California
+625,202010,San Francisco,Bay Area,85,54.0,Moderate,PM2.5,California
+626,202010,San Mateo,Bay Area,85,49.0,Good,PM2.5,California
+627,202010,Santa Clara,Bay Area,85,48.0,Good,PM2.5,California
+628,202010,Santa Cruz,Bay Area,85,38.0,Good,PM2.5,California
+629,202010,Solano,Bay Area,85,47.0,Good,PM2.5,California
+630,202010,Sonoma,Bay Area,85,38.0,Good,Ozone,California
+631,202010,Calaveras,Central,9,44.0,Good,Ozone,California
+632,202010,Fresno,Central,9,68.0,Moderate,PM2.5,California
+633,202010,Inyo,Central,9,81.0,Moderate,PM10,California
+634,202010,Kings,Central,9,75.0,Moderate,PM2.5,California
+635,202010,Madera,Central,9,87.0,Moderate,Ozone,California
+636,202010,Mariposa,Central,9,54.0,Moderate,Ozone,California
+637,202010,Merced,Central,9,56.0,Moderate,PM2.5,California
+638,202010,Mono,Central,9,105.0,Unhealthy for Sensitive Groups,PM10,California
+639,202010,Monterey,Central,9,40.0,Good,Ozone,California
+640,202010,San Benito,Central,9,45.0,Good,Ozone,California
+641,202010,San Joaquin,Central,9,65.0,Moderate,PM2.5,California
+642,202010,Stanislaus,Central,9,64.0,Moderate,PM2.5,California
+643,202010,Tulare,Central,9,61.0,Moderate,PM2.5,California
+644,202010,Tuolumne,Central,9,45.0,Good,Ozone,California
+645,202010,Imperial,Lower Southern,72,46.0,Good,Ozone,California
+646,202010,Orange,Lower Southern,72,62.0,Moderate,PM2.5,California
+647,202010,Riverside,Lower Southern,72,64.0,Moderate,PM2.5,California
+648,202010,San Bernardino,Lower Southern,72,74.0,Moderate,PM2.5,California
+649,202010,San Diego,Lower Southern,72,68.0,Moderate,PM2.5,California
+650,202010,Amador,Northern,10,42.0,Good,Ozone,California
+651,202010,Butte,Northern,10,64.0,Moderate,Ozone,California
+652,202010,Carson City,Northern,10,46.0,Good,Ozone,Nevada
+653,202010,Churchill,Northern,10,43.0,Good,Ozone,Nevada
+654,202010,Clark,Northern,10,67.0,Moderate,Ozone,Arkansas
+655,202010,Colusa,Northern,10,39.0,Good,Ozone,California
+656,202010,Del Norte,Northern,10,43.0,Good,PM2.5,California
+657,202010,Douglas,Northern,10,48.0,Good,Ozone,Colorado
+658,202010,El Dorado,Northern,10,46.0,Good,Ozone,California
+659,202010,Elko,Northern,10,23.0,Good,PM10,Nevada
+660,202010,Glenn,Northern,10,47.0,Good,PM2.5,California
+661,202010,Humboldt,Northern,10,32.0,Good,Ozone,California
+662,202010,Humboldt,Northern,10,32.0,Good,Ozone,California
+663,202010,Humboldt,Northern,10,32.0,Good,Ozone,California
+664,202010,Humboldt,Northern,10,32.0,Good,Ozone,California
+665,202010,Lake,Northern,10,55.0,Moderate,PM2.5,Oregon
+666,202010,Lake,Northern,10,55.0,Moderate,PM2.5,Oregon
+667,202010,Lake,Northern,10,55.0,Moderate,PM2.5,Oregon
+668,202010,Lake,Northern,10,55.0,Moderate,PM2.5,Oregon
+669,202010,Lincoln,Northern,10,61.0,Moderate,PM2.5,Montana
+670,202010,Lyon,Northern,10,49.0,Good,Ozone,Nevada
+671,202010,Mendocino,Northern,10,38.0,Good,PM2.5,California
+672,202010,Nevada,Northern,10,64.0,Moderate,Ozone,California
+673,202010,Nye,Northern,10,17.0,Good,PM10,Nevada
+674,202010,Placer,Northern,10,61.0,Moderate,Ozone,California
+675,202010,Plumas,Northern,10,78.0,Moderate,PM2.5,California
+676,202010,Sacramento,Northern,10,58.0,Moderate,Ozone,California
+677,202010,Shasta,Northern,10,47.0,Good,Ozone,California
+678,202010,Siskiyou,Northern,10,41.0,Good,Ozone,California
+679,202010,Sutter,Northern,10,55.0,Moderate,PM2.5,California
+680,202010,Tehama,Northern,10,52.0,Moderate,PM2.5,California
+681,202010,Trinity,Northern,10,58.0,Moderate,PM2.5,California
+682,202010,Washoe,Northern,10,47.0,Good,Ozone,Nevada
+683,202010,White Pine,Northern,10,50.0,Good,Ozone,Nevada
+684,202010,Yolo,Northern,10,44.0,Good,Ozone,California
+685,202010,Kern,Upper Southern,14,64.0,Moderate,Ozone,California
+686,202010,Los Angeles,Upper Southern,14,72.0,Moderate,PM2.5,California
+687,202010,San Luis Obispo,Upper Southern,14,45.0,Good,Ozone,California
+688,202010,Santa Barbara,Upper Southern,14,45.0,Good,PM2.5,California
+689,202010,Ventura,Upper Southern,14,47.0,Good,Ozone,California
+690,202011,Alameda,Bay Area,54,55.0,Moderate,PM2.5,California
+691,202011,Contra Costa,Bay Area,54,60.0,Moderate,PM2.5,California
+692,202011,Marin,Bay Area,54,47.0,Good,PM2.5,California
+693,202011,Napa,Bay Area,54,49.0,Good,PM2.5,California
+694,202011,San Francisco,Bay Area,54,52.0,Moderate,PM2.5,California
+695,202011,San Mateo,Bay Area,54,41.0,Good,PM2.5,California
+696,202011,Santa Clara,Bay Area,54,47.0,Good,PM2.5,California
+697,202011,Santa Cruz,Bay Area,54,50.0,Good,PM2.5,California
+698,202011,Solano,Bay Area,54,57.0,Moderate,PM2.5,California
+699,202011,Sonoma,Bay Area,54,41.0,Good,Ozone,California
+700,202011,Calaveras,Central,14,40.0,Good,Ozone,California
+701,202011,Fresno,Central,14,51.0,Moderate,PM2.5,California
+702,202011,Inyo,Central,14,46.0,Good,Ozone,California
+703,202011,Kings,Central,14,59.0,Moderate,PM2.5,California
+704,202011,Madera,Central,14,46.0,Good,Ozone,California
+705,202011,Mariposa,Central,14,44.0,Good,Ozone,California
+706,202011,Merced,Central,14,53.0,Moderate,PM2.5,California
+707,202011,Mono,Central,14,1851.0,Hazardous,PM10,California
+708,202011,Monterey,Central,14,38.0,Good,Ozone,California
+709,202011,San Benito,Central,14,41.0,Good,Ozone,California
+710,202011,San Joaquin,Central,14,44.0,Good,PM2.5,California
+711,202011,Stanislaus,Central,14,43.0,Good,PM2.5,California
+712,202011,Tulare,Central,14,56.0,Moderate,PM2.5,California
+713,202011,Tuolumne,Central,14,42.0,Good,Ozone,California
+714,202011,Imperial,Lower Southern,22,41.0,Good,Ozone,California
+715,202011,Orange,Lower Southern,22,50.0,Good,Ozone,Florida
+716,202011,Riverside,Lower Southern,22,47.0,Good,Ozone,California
+717,202011,San Bernardino,Lower Southern,22,50.0,Good,Ozone,California
+718,202011,San Diego,Lower Southern,22,41.0,Good,Ozone,California
+719,202011,Amador,Northern,4,38.0,Good,Ozone,California
+720,202011,Butte,Northern,4,45.0,Good,Ozone,California
+721,202011,Carson City,Northern,4,44.0,Good,Ozone,Nevada
+722,202011,Churchill,Northern,4,44.0,Good,Ozone,Nevada
+723,202011,Clark,Northern,4,53.0,Moderate,PM2.5,Indiana
+724,202011,Colusa,Northern,4,39.0,Good,PM10,California
+725,202011,Del Norte,Northern,4,54.0,Moderate,PM2.5,California
+726,202011,Douglas,Northern,4,46.0,Good,PM2.5,Colorado
+727,202011,El Dorado,Northern,4,42.0,Good,Ozone,California
+728,202011,Elko,Northern,4,37.0,Good,PM10,Nevada
+729,202011,Glenn,Northern,4,51.0,Moderate,PM2.5,California
+730,202011,Humboldt,Northern,4,37.0,Good,PM10,California
+731,202011,Humboldt,Northern,4,37.0,Good,PM10,California
+732,202011,Humboldt,Northern,4,37.0,Good,PM10,California
+733,202011,Humboldt,Northern,4,37.0,Good,PM10,California
+734,202011,Lake,Northern,4,63.0,Moderate,PM2.5,Indiana
+735,202011,Lake,Northern,4,63.0,Moderate,PM2.5,Indiana
+736,202011,Lake,Northern,4,63.0,Moderate,PM2.5,Indiana
+737,202011,Lake,Northern,4,63.0,Moderate,PM2.5,Indiana
+738,202011,Lincoln,Northern,4,68.0,Moderate,PM2.5,Montana
+739,202011,Lyon,Northern,4,46.0,Good,PM10,Nevada
+740,202011,Mendocino,Northern,4,36.0,Good,PM2.5,California
+741,202011,Nevada,Northern,4,45.0,Good,Ozone,California
+742,202011,Nye,Northern,4,8.0,Good,PM10,Nevada
+743,202011,Placer,Northern,4,45.0,Good,Ozone,California
+744,202011,Plumas,Northern,4,65.0,Moderate,PM2.5,California
+745,202011,Sacramento,Northern,4,46.0,Good,PM2.5,California
+746,202011,Shasta,Northern,4,44.0,Good,Ozone,California
+747,202011,Siskiyou,Northern,4,38.0,Good,Ozone,California
+748,202011,Sutter,Northern,4,38.0,Good,PM2.5,California
+749,202011,Tehama,Northern,4,38.0,Good,Ozone,California
+750,202011,Trinity,Northern,4,25.0,Good,PM2.5,California
+751,202011,Washoe,Northern,4,46.0,Good,Ozone,Nevada
+752,202011,White Pine,Northern,4,48.0,Good,Ozone,Nevada
+753,202011,Yolo,Northern,4,41.0,Good,Ozone,California
+754,202011,Kern,Upper Southern,17,60.0,Moderate,PM2.5,California
+755,202011,Los Angeles,Upper Southern,17,45.0,Good,NO2,California
+756,202011,San Luis Obispo,Upper Southern,17,47.0,Good,Ozone,California
+757,202011,Santa Barbara,Upper Southern,17,38.0,Good,Ozone,California
+758,202011,Ventura,Upper Southern,17,38.0,Good,Ozone,California
+759,202012,Alameda,Bay Area,39,38.0,Good,Ozone,California
+760,202012,Contra Costa,Bay Area,39,40.0,Good,Ozone,California
+761,202012,Marin,Bay Area,39,38.0,Good,Ozone,California
+762,202012,Napa,Bay Area,39,42.0,Good,Ozone,California
+763,202012,San Francisco,Bay Area,39,39.0,Good,Ozone,California
+764,202012,San Mateo,Bay Area,39,38.0,Good,Ozone,California
+765,202012,Santa Clara,Bay Area,39,36.0,Good,Ozone,California
+766,202012,Santa Cruz,Bay Area,39,51.0,Moderate,PM2.5,Arizona
+767,202012,Solano,Bay Area,39,43.0,Good,Ozone,California
+768,202012,Sonoma,Bay Area,39,41.0,Good,Ozone,California
+769,202012,Calaveras,Central,7,37.0,Good,Ozone,California
+770,202012,Fresno,Central,7,43.0,Good,Ozone,California
+771,202012,Inyo,Central,7,44.0,Good,Ozone,California
+772,202012,Kings,Central,7,38.0,Good,Ozone,California
+773,202012,Madera,Central,7,42.0,Good,Ozone,California
+774,202012,Mariposa,Central,7,46.0,Good,Ozone,California
+775,202012,Merced,Central,7,39.0,Good,Ozone,California
+776,202012,Mono,Central,7,42.0,Good,PM2.5,California
+777,202012,Monterey,Central,7,39.0,Good,Ozone,California
+778,202012,San Benito,Central,7,41.0,Good,Ozone,California
+779,202012,San Joaquin,Central,7,39.0,Good,Ozone,California
+780,202012,Stanislaus,Central,7,43.0,Good,PM2.5,California
+781,202012,Tulare,Central,7,43.0,Good,PM2.5,California
+782,202012,Tuolumne,Central,7,40.0,Good,Ozone,California
+783,202012,Imperial,Lower Southern,6,47.0,Good,Ozone,California
+784,202012,Orange,Lower Southern,6,45.0,Good,PM2.5,Texas
+785,202012,Riverside,Lower Southern,6,53.0,Moderate,PM2.5,California
+786,202012,San Bernardino,Lower Southern,6,58.0,Moderate,Ozone,California
+787,202012,San Diego,Lower Southern,6,45.0,Good,Ozone,California
+788,202012,Amador,Northern,3,35.0,Good,Ozone,California
+789,202012,Butte,Northern,3,46.0,Good,Ozone,Idaho
+790,202012,Carson City,Northern,3,44.0,Good,Ozone,Nevada
+791,202012,Churchill,Northern,3,44.0,Good,Ozone,Nevada
+792,202012,Clark,Northern,3,58.0,Moderate,PM2.5,Washington
+793,202012,Colusa,Northern,3,37.0,Good,Ozone,California
+794,202012,Del Norte,Northern,3,33.0,Good,PM2.5,California
+795,202012,Douglas,Northern,3,50.0,Good,Ozone,Colorado
+796,202012,El Dorado,Northern,3,37.0,Good,Ozone,California
+797,202012,Elko,Northern,3,15.0,Good,PM10,Nevada
+798,202012,Glenn,Northern,3,44.0,Good,Ozone,California
+799,202012,Humboldt,Northern,3,31.0,Good,Ozone,California
+800,202012,Humboldt,Northern,3,31.0,Good,Ozone,California
+801,202012,Humboldt,Northern,3,31.0,Good,Ozone,California
+802,202012,Humboldt,Northern,3,31.0,Good,Ozone,California
+803,202012,Lake,Northern,3,58.0,Moderate,PM2.5,Indiana
+804,202012,Lake,Northern,3,58.0,Moderate,PM2.5,Indiana
+805,202012,Lake,Northern,3,58.0,Moderate,PM2.5,Indiana
+806,202012,Lake,Northern,3,58.0,Moderate,PM2.5,Indiana
+807,202012,Lincoln,Northern,3,66.0,Moderate,PM2.5,Montana
+808,202012,Lyon,Northern,3,44.0,Good,Ozone,Nevada
+809,202012,Mendocino,Northern,3,36.0,Good,Ozone,California
+810,202012,Nevada,Northern,3,41.0,Good,Ozone,California
+811,202012,Nye,Northern,3,10.0,Good,PM10,Nevada
+812,202012,Placer,Northern,3,48.0,Good,PM2.5,California
+813,202012,Plumas,Northern,3,88.0,Moderate,PM2.5,California
+814,202012,Sacramento,Northern,3,46.0,Good,PM2.5,California
+815,202012,Shasta,Northern,3,42.0,Good,Ozone,California
+816,202012,Siskiyou,Northern,3,39.0,Good,Ozone,California
+817,202012,Sutter,Northern,3,40.0,Good,Ozone,California
+818,202012,Tehama,Northern,3,40.0,Good,Ozone,California
+819,202012,Trinity,Northern,3,57.0,Moderate,PM2.5,California
+820,202012,Washoe,Northern,3,46.0,Good,Ozone,Nevada
+821,202012,White Pine,Northern,3,49.0,Good,Ozone,Nevada
+822,202012,Yolo,Northern,3,43.0,Good,Ozone,California
+823,202012,Kern,Upper Southern,8,44.0,Good,Ozone,California
+824,202012,Los Angeles,Upper Southern,8,48.0,Good,NO2,California
+825,202012,San Luis Obispo,Upper Southern,8,42.0,Good,Ozone,California
+826,202012,Santa Barbara,Upper Southern,8,42.0,Good,Ozone,California
+827,202012,Ventura,Upper Southern,8,41.0,Good,Ozone,California
+828,202013,Alameda,Bay Area,20,46.0,Good,Ozone,California
+829,202013,Contra Costa,Bay Area,20,53.0,Moderate,PM2.5,California
+830,202013,Marin,Bay Area,20,43.0,Good,Ozone,California
+831,202013,Napa,Bay Area,20,44.0,Good,Ozone,California
+832,202013,San Francisco,Bay Area,20,44.0,Good,Ozone,California
+833,202013,San Mateo,Bay Area,20,46.0,Good,Ozone,California
+834,202013,Santa Clara,Bay Area,20,52.0,Moderate,PM2.5,California
+835,202013,Santa Cruz,Bay Area,20,45.0,Good,PM2.5,California
+836,202013,Solano,Bay Area,20,44.0,Good,Ozone,California
+837,202013,Sonoma,Bay Area,20,44.0,Good,Ozone,California
+838,202013,Calaveras,Central,5,39.0,Good,Ozone,California
+839,202013,Fresno,Central,5,44.0,Good,Ozone,California
+840,202013,Inyo,Central,5,46.0,Good,Ozone,California
+841,202013,Kings,Central,5,40.0,Good,Ozone,California
+842,202013,Madera,Central,5,44.0,Good,Ozone,California
+843,202013,Mariposa,Central,5,43.0,Good,Ozone,California
+844,202013,Merced,Central,5,45.0,Good,PM2.5,California
+845,202013,Mono,Central,5,34.0,Good,PM2.5,California
+846,202013,Monterey,Central,5,44.0,Good,Ozone,California
+847,202013,San Benito,Central,5,44.0,Good,Ozone,California
+848,202013,San Joaquin,Central,5,48.0,Good,PM2.5,California
+849,202013,Stanislaus,Central,5,51.0,Moderate,PM2.5,California
+850,202013,Tulare,Central,5,53.0,Moderate,PM2.5,California
+851,202013,Tuolumne,Central,5,42.0,Good,Ozone,California
+852,202013,Imperial,Lower Southern,1,53.0,Moderate,PM10,California
+853,202013,Orange,Lower Southern,1,55.0,Moderate,PM2.5,Texas
+854,202013,Riverside,Lower Southern,1,67.0,Moderate,PM10,California
+855,202013,San Bernardino,Lower Southern,1,74.0,Moderate,Ozone,California
+856,202013,San Diego,Lower Southern,1,50.0,Good,Ozone,California
+857,202013,Amador,Northern,3,39.0,Good,Ozone,California
+858,202013,Butte,Northern,3,44.0,Good,Ozone,California
+859,202013,Carson City,Northern,3,47.0,Good,Ozone,Nevada
+860,202013,Churchill,Northern,3,46.0,Good,Ozone,Nevada
+861,202013,Clark,Northern,3,59.0,Moderate,PM2.5,Indiana
+862,202013,Colusa,Northern,3,40.0,Good,PM2.5,California
+863,202013,Del Norte,Northern,3,35.0,Good,PM2.5,California
+864,202013,Douglas,Northern,3,51.0,Moderate,Ozone,Colorado
+865,202013,El Dorado,Northern,3,42.0,Good,Ozone,California
+866,202013,Elko,Northern,3,14.0,Good,PM10,Nevada
+867,202013,Glenn,Northern,3,45.0,Good,PM2.5,California
+868,202013,Humboldt,Northern,3,37.0,Good,Ozone,California
+869,202013,Humboldt,Northern,3,37.0,Good,Ozone,California
+870,202013,Humboldt,Northern,3,37.0,Good,Ozone,California
+871,202013,Humboldt,Northern,3,37.0,Good,Ozone,California
+872,202013,Lake,Northern,3,66.0,Moderate,PM2.5,Indiana
+873,202013,Lake,Northern,3,66.0,Moderate,PM2.5,Indiana
+874,202013,Lake,Northern,3,66.0,Moderate,PM2.5,Indiana
+875,202013,Lake,Northern,3,66.0,Moderate,PM2.5,Indiana
+876,202013,Lincoln,Northern,3,55.0,Moderate,PM2.5,Montana
+877,202013,Lyon,Northern,3,44.0,Good,Ozone,Nevada
+878,202013,Mendocino,Northern,3,40.0,Good,Ozone,California
+879,202013,Nevada,Northern,3,42.0,Good,Ozone,California
+880,202013,Nye,Northern,3,9.0,Good,PM10,Nevada
+881,202013,Placer,Northern,3,49.0,Good,Ozone,California
+882,202013,Plumas,Northern,3,70.0,Moderate,PM2.5,California
+883,202013,Sacramento,Northern,3,45.0,Good,Ozone,California
+884,202013,Shasta,Northern,3,45.0,Good,Ozone,California
+885,202013,Siskiyou,Northern,3,39.0,Good,Ozone,California
+886,202013,Sutter,Northern,3,40.0,Good,Ozone,California
+887,202013,Tehama,Northern,3,39.0,Good,PM2.5,California
+888,202013,Trinity,Northern,3,29.0,Good,PM2.5,California
+889,202013,Washoe,Northern,3,49.0,Good,Ozone,Nevada
+890,202013,White Pine,Northern,3,49.0,Good,Ozone,Nevada
+891,202013,Yolo,Northern,3,41.0,Good,Ozone,California
+892,202013,Kern,Upper Southern,5,44.0,Good,Ozone,California
+893,202013,Los Angeles,Upper Southern,5,51.0,Moderate,Ozone,California
+894,202013,San Luis Obispo,Upper Southern,5,49.0,Good,PM2.5,California
+895,202013,Santa Barbara,Upper Southern,5,44.0,Good,Ozone,California
+896,202013,Ventura,Upper Southern,5,44.0,Good,Ozone,California
+897,202014,Alameda,Bay Area,5,37.0,Good,Ozone,California
+898,202014,Contra Costa,Bay Area,5,39.0,Good,Ozone,California
+899,202014,Marin,Bay Area,5,34.0,Good,Ozone,California
+900,202014,Napa,Bay Area,5,36.0,Good,Ozone,California
+901,202014,San Francisco,Bay Area,5,36.0,Good,Ozone,California
+902,202014,San Mateo,Bay Area,5,36.0,Good,Ozone,California
+903,202014,Santa Clara,Bay Area,5,39.0,Good,Ozone,California
+904,202014,Santa Cruz,Bay Area,5,36.0,Good,Ozone,California
+905,202014,Solano,Bay Area,5,39.0,Good,Ozone,California
+906,202014,Sonoma,Bay Area,5,38.0,Good,Ozone,California
+907,202014,Calaveras,Central,0,36.0,Good,Ozone,California
+908,202014,Fresno,Central,0,42.0,Good,Ozone,California
+909,202014,Inyo,Central,0,60.0,Moderate,PM10,California
+910,202014,Kings,Central,0,41.0,Good,PM2.5,California
+911,202014,Madera,Central,0,42.0,Good,Ozone,California
+912,202014,Mariposa,Central,0,47.0,Good,Ozone,California
+913,202014,Merced,Central,0,40.0,Good,Ozone,California
+914,202014,Mono,Central,0,18.0,Good,PM2.5,California
+915,202014,Monterey,Central,0,38.0,Good,Ozone,California
+916,202014,San Benito,Central,0,39.0,Good,Ozone,California
+917,202014,San Joaquin,Central,0,39.0,Good,Ozone,California
+918,202014,Stanislaus,Central,0,41.0,Good,Ozone,California
+919,202014,Tulare,Central,0,46.0,Good,PM2.5,California
+920,202014,Tuolumne,Central,0,43.0,Good,Ozone,California
+921,202014,Imperial,Lower Southern,0,74.0,Moderate,Ozone,California
+922,202014,Orange,Lower Southern,0,93.0,Moderate,Ozone,Florida
+923,202014,Riverside,Lower Southern,0,87.0,Moderate,Ozone,California
+924,202014,San Bernardino,Lower Southern,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+925,202014,San Diego,Lower Southern,0,69.0,Moderate,PM2.5,California
+926,202014,Amador,Northern,0,36.0,Good,Ozone,California
+927,202014,Butte,Northern,0,43.0,Good,Ozone,California
+928,202014,Carson City,Northern,0,54.0,Moderate,Ozone,Nevada
+929,202014,Churchill,Northern,0,45.0,Good,Ozone,Nevada
+930,202014,Clark,Northern,0,75.0,Moderate,PM2.5,Indiana
+931,202014,Colusa,Northern,0,36.0,Good,Ozone,California
+932,202014,Del Norte,Northern,0,23.0,Good,PM2.5,California
+933,202014,Douglas,Northern,0,51.0,Moderate,Ozone,Georgia
+934,202014,El Dorado,Northern,0,42.0,Good,Ozone,California
+935,202014,Elko,Northern,0,22.0,Good,PM10,Nevada
+936,202014,Glenn,Northern,0,40.0,Good,Ozone,California
+937,202014,Humboldt,Northern,0,34.0,Good,Ozone,California
+938,202014,Humboldt,Northern,0,34.0,Good,Ozone,California
+939,202014,Humboldt,Northern,0,34.0,Good,Ozone,California
+940,202014,Humboldt,Northern,0,34.0,Good,Ozone,California
+941,202014,Lake,Northern,0,74.0,Moderate,Ozone,Florida
+942,202014,Lake,Northern,0,74.0,Moderate,Ozone,Florida
+943,202014,Lake,Northern,0,74.0,Moderate,Ozone,Florida
+944,202014,Lake,Northern,0,74.0,Moderate,Ozone,Florida
+945,202014,Lincoln,Northern,0,52.0,Moderate,PM2.5,Montana
+946,202014,Lyon,Northern,0,43.0,Good,Ozone,Nevada
+947,202014,Mendocino,Northern,0,35.0,Good,Ozone,California
+948,202014,Nevada,Northern,0,44.0,Good,Ozone,California
+949,202014,Nye,Northern,0,19.0,Good,PM10,Nevada
+950,202014,Placer,Northern,0,48.0,Good,Ozone,California
+951,202014,Plumas,Northern,0,64.0,Moderate,PM2.5,California
+952,202014,Sacramento,Northern,0,58.0,Moderate,PM2.5,California
+953,202014,Shasta,Northern,0,44.0,Good,Ozone,California
+954,202014,Siskiyou,Northern,0,39.0,Good,Ozone,California
+955,202014,Sutter,Northern,0,42.0,Good,Ozone,California
+956,202014,Tehama,Northern,0,39.0,Good,Ozone,California
+957,202014,Trinity,Northern,0,31.0,Good,PM2.5,California
+958,202014,Washoe,Northern,0,51.0,Moderate,Ozone,Nevada
+959,202014,White Pine,Northern,0,48.0,Good,Ozone,Nevada
+960,202014,Yolo,Northern,0,40.0,Good,Ozone,California
+961,202014,Kern,Upper Southern,2,47.0,Good,Ozone,California
+962,202014,Los Angeles,Upper Southern,2,74.0,Moderate,Ozone,California
+963,202014,San Luis Obispo,Upper Southern,2,72.0,Moderate,PM10,California
+964,202014,Santa Barbara,Upper Southern,2,43.0,Good,Ozone,California
+965,202014,Ventura,Upper Southern,2,45.0,Good,Ozone,California
+966,202015,Alameda,Bay Area,1,52.0,Moderate,PM2.5,California
+967,202015,Contra Costa,Bay Area,1,55.0,Moderate,PM2.5,California
+968,202015,Marin,Bay Area,1,35.0,Good,Ozone,California
+969,202015,Napa,Bay Area,1,37.0,Good,Ozone,California
+970,202015,San Francisco,Bay Area,1,51.0,Moderate,PM2.5,California
+971,202015,San Mateo,Bay Area,1,37.0,Good,Ozone,California
+972,202015,Santa Clara,Bay Area,1,38.0,Good,Ozone,California
+973,202015,Santa Cruz,Bay Area,1,37.0,Good,Ozone,California
+974,202015,Solano,Bay Area,1,51.0,Moderate,PM2.5,California
+975,202015,Sonoma,Bay Area,1,36.0,Good,Ozone,California
+976,202015,Calaveras,Central,0,35.0,Good,Ozone,California
+977,202015,Fresno,Central,0,47.0,Good,PM2.5,California
+978,202015,Inyo,Central,0,44.0,Good,Ozone,California
+979,202015,Kings,Central,0,54.0,Moderate,PM2.5,California
+980,202015,Madera,Central,0,41.0,Good,Ozone,California
+981,202015,Mariposa,Central,0,41.0,Good,Ozone,California
+982,202015,Merced,Central,0,37.0,Good,Ozone,California
+983,202015,Mono,Central,0,51.0,Moderate,PM2.5,California
+984,202015,Monterey,Central,0,39.0,Good,Ozone,California
+985,202015,San Benito,Central,0,39.0,Good,Ozone,California
+986,202015,San Joaquin,Central,0,38.0,Good,Ozone,California
+987,202015,Stanislaus,Central,0,39.0,Good,Ozone,California
+988,202015,Tulare,Central,0,52.0,Moderate,PM2.5,California
+989,202015,Tuolumne,Central,0,36.0,Good,Ozone,California
+990,202015,Imperial,Lower Southern,0,44.0,Good,Ozone,California
+991,202015,Orange,Lower Southern,0,70.0,Moderate,PM2.5,Texas
+992,202015,Riverside,Lower Southern,0,46.0,Good,Ozone,California
+993,202015,San Bernardino,Lower Southern,0,54.0,Moderate,Ozone,California
+994,202015,San Diego,Lower Southern,0,47.0,Good,PM2.5,California
+995,202015,Amador,Northern,0,34.0,Good,Ozone,California
+996,202015,Butte,Northern,0,45.0,Good,Ozone,Idaho
+997,202015,Carson City,Northern,0,49.0,Good,Ozone,Nevada
+998,202015,Churchill,Northern,0,50.0,Good,Ozone,Nevada
+999,202015,Clark,Northern,0,61.0,Moderate,PM2.5,Indiana
+1000,202015,Colusa,Northern,0,35.0,Good,Ozone,California
+1001,202015,Del Norte,Northern,0,55.0,Moderate,PM2.5,California
+1002,202015,Douglas,Northern,0,93.0,Moderate,PM2.5,Nebraska
+1003,202015,El Dorado,Northern,0,39.0,Good,Ozone,California
+1004,202015,Elko,Northern,0,10.0,Good,PM10,Nevada
+1005,202015,Glenn,Northern,0,44.0,Good,Ozone,California
+1006,202015,Humboldt,Northern,0,54.0,Moderate,PM2.5,California
+1007,202015,Humboldt,Northern,0,54.0,Moderate,PM2.5,California
+1008,202015,Humboldt,Northern,0,54.0,Moderate,PM2.5,California
+1009,202015,Humboldt,Northern,0,54.0,Moderate,PM2.5,California
+1010,202015,Lake,Northern,0,60.0,Moderate,PM2.5,Indiana
+1011,202015,Lake,Northern,0,60.0,Moderate,PM2.5,Indiana
+1012,202015,Lake,Northern,0,60.0,Moderate,PM2.5,Indiana
+1013,202015,Lake,Northern,0,60.0,Moderate,PM2.5,Indiana
+1014,202015,Lincoln,Northern,0,59.0,Moderate,PM2.5,Montana
+1015,202015,Lyon,Northern,0,48.0,Good,Ozone,Nevada
+1016,202015,Mendocino,Northern,0,34.0,Good,PM2.5,California
+1017,202015,Nevada,Northern,0,42.0,Good,PM2.5,California
+1018,202015,Nye,Northern,0,7.0,Good,PM10,Nevada
+1019,202015,Placer,Northern,0,58.0,Moderate,Ozone,California
+1020,202015,Plumas,Northern,0,72.0,Moderate,PM2.5,California
+1021,202015,Sacramento,Northern,0,40.0,Good,Ozone,California
+1022,202015,Shasta,Northern,0,45.0,Good,Ozone,California
+1023,202015,Siskiyou,Northern,0,45.0,Good,Ozone,California
+1024,202015,Sutter,Northern,0,43.0,Good,Ozone,California
+1025,202015,Tehama,Northern,0,44.0,Good,Ozone,California
+1026,202015,Trinity,Northern,0,24.0,Good,PM2.5,California
+1027,202015,Washoe,Northern,0,58.0,Moderate,Ozone,Nevada
+1028,202015,White Pine,Northern,0,46.0,Good,Ozone,Nevada
+1029,202015,Yolo,Northern,0,39.0,Good,Ozone,California
+1030,202015,Kern,Upper Southern,0,44.0,Good,Ozone,California
+1031,202015,Los Angeles,Upper Southern,0,51.0,Moderate,NO2,California
+1032,202015,San Luis Obispo,Upper Southern,0,40.0,Good,Ozone,California
+1033,202015,Santa Barbara,Upper Southern,0,41.0,Good,Ozone,California
+1034,202015,Ventura,Upper Southern,0,39.0,Good,Ozone,California
+1035,202016,Alameda,Bay Area,0,53.0,Moderate,PM2.5,California
+1036,202016,Contra Costa,Bay Area,0,56.0,Moderate,PM2.5,California
+1037,202016,Marin,Bay Area,0,44.0,Good,Ozone,California
+1038,202016,Napa,Bay Area,0,45.0,Good,Ozone,California
+1039,202016,San Francisco,Bay Area,0,53.0,Moderate,PM2.5,California
+1040,202016,San Mateo,Bay Area,0,46.0,Good,Ozone,California
+1041,202016,Santa Clara,Bay Area,0,48.0,Good,PM2.5,California
+1042,202016,Santa Cruz,Bay Area,0,39.0,Good,PM2.5,California
+1043,202016,Solano,Bay Area,0,52.0,Moderate,PM2.5,California
+1044,202016,Sonoma,Bay Area,0,46.0,Good,Ozone,California
+1045,202016,Calaveras,Central,0,44.0,Good,Ozone,California
+1046,202016,Fresno,Central,0,74.0,Moderate,Ozone,California
+1047,202016,Inyo,Central,0,47.0,Good,Ozone,California
+1048,202016,Kings,Central,0,51.0,Moderate,Ozone,California
+1049,202016,Madera,Central,0,71.0,Moderate,Ozone,California
+1050,202016,Mariposa,Central,0,49.0,Good,Ozone,California
+1051,202016,Merced,Central,0,48.0,Good,Ozone,California
+1052,202016,Mono,Central,0,38.0,Good,PM2.5,California
+1053,202016,Monterey,Central,0,45.0,Good,Ozone,California
+1054,202016,San Benito,Central,0,46.0,Good,Ozone,California
+1055,202016,San Joaquin,Central,0,44.0,Good,Ozone,California
+1056,202016,Stanislaus,Central,0,51.0,Moderate,Ozone,California
+1057,202016,Tulare,Central,0,61.0,Moderate,Ozone,California
+1058,202016,Tuolumne,Central,0,47.0,Good,Ozone,California
+1059,202016,Imperial,Lower Southern,0,54.0,Moderate,Ozone,California
+1060,202016,Orange,Lower Southern,0,71.0,Moderate,PM2.5,Florida
+1061,202016,Riverside,Lower Southern,0,93.0,Moderate,Ozone,California
+1062,202016,San Bernardino,Lower Southern,0,93.0,Moderate,Ozone,California
+1063,202016,San Diego,Lower Southern,0,67.0,Moderate,Ozone,California
+1064,202016,Amador,Northern,0,44.0,Good,Ozone,California
+1065,202016,Butte,Northern,0,48.0,Good,Ozone,Idaho
+1066,202016,Carson City,Northern,0,50.0,Good,Ozone,Nevada
+1067,202016,Churchill,Northern,0,49.0,Good,Ozone,Nevada
+1068,202016,Clark,Northern,0,61.0,Moderate,Ozone,Nevada
+1069,202016,Colusa,Northern,0,38.0,Good,Ozone,California
+1070,202016,Del Norte,Northern,0,46.0,Good,PM2.5,California
+1071,202016,Douglas,Northern,0,58.0,Moderate,Ozone,Colorado
+1072,202016,El Dorado,Northern,0,51.0,Moderate,Ozone,California
+1073,202016,Elko,Northern,0,17.0,Good,PM10,Nevada
+1074,202016,Glenn,Northern,0,53.0,Moderate,PM10,California
+1075,202016,Humboldt,Northern,0,35.0,Good,Ozone,California
+1076,202016,Humboldt,Northern,0,35.0,Good,Ozone,California
+1077,202016,Humboldt,Northern,0,35.0,Good,Ozone,California
+1078,202016,Humboldt,Northern,0,35.0,Good,Ozone,California
+1079,202016,Lake,Northern,0,51.0,Moderate,PM2.5,Indiana
+1080,202016,Lake,Northern,0,51.0,Moderate,PM2.5,Indiana
+1081,202016,Lake,Northern,0,51.0,Moderate,PM2.5,Indiana
+1082,202016,Lake,Northern,0,51.0,Moderate,PM2.5,Indiana
+1083,202016,Lincoln,Northern,0,51.0,Moderate,PM2.5,Montana
+1084,202016,Lyon,Northern,0,45.0,Good,Ozone,Nevada
+1085,202016,Mendocino,Northern,0,41.0,Good,Ozone,California
+1086,202016,Nevada,Northern,0,47.0,Good,Ozone,California
+1087,202016,Nye,Northern,0,14.0,Good,PM10,Nevada
+1088,202016,Placer,Northern,0,54.0,Moderate,Ozone,California
+1089,202016,Plumas,Northern,0,52.0,Moderate,PM2.5,California
+1090,202016,Sacramento,Northern,0,54.0,Moderate,Ozone,California
+1091,202016,Shasta,Northern,0,45.0,Good,Ozone,California
+1092,202016,Siskiyou,Northern,0,48.0,Good,Ozone,California
+1093,202016,Sutter,Northern,0,47.0,Good,Ozone,California
+1094,202016,Tehama,Northern,0,48.0,Good,Ozone,California
+1095,202016,Trinity,Northern,0,15.0,Good,PM2.5,California
+1096,202016,Washoe,Northern,0,48.0,Good,Ozone,Nevada
+1097,202016,White Pine,Northern,0,45.0,Good,Ozone,Nevada
+1098,202016,Yolo,Northern,0,44.0,Good,Ozone,California
+1099,202016,Kern,Upper Southern,0,64.0,Moderate,Ozone,California
+1100,202016,Los Angeles,Upper Southern,0,74.0,Moderate,Ozone,California
+1101,202016,San Luis Obispo,Upper Southern,0,49.0,Good,Ozone,California
+1102,202016,Santa Barbara,Upper Southern,0,49.0,Good,Ozone,California
+1103,202016,Ventura,Upper Southern,0,58.0,Moderate,Ozone,California
+1104,202017,Alameda,Bay Area,1,52.0,Moderate,PM2.5,California
+1105,202017,Contra Costa,Bay Area,1,45.0,Good,Ozone,California
+1106,202017,Marin,Bay Area,1,42.0,Good,Ozone,California
+1107,202017,Napa,Bay Area,1,41.0,Good,Ozone,California
+1108,202017,San Francisco,Bay Area,1,40.0,Good,PM2.5,California
+1109,202017,San Mateo,Bay Area,1,41.0,Good,Ozone,California
+1110,202017,Santa Clara,Bay Area,1,68.0,Moderate,PM2.5,California
+1111,202017,Santa Cruz,Bay Area,1,49.0,Good,PM10,Arizona
+1112,202017,Solano,Bay Area,1,41.0,Good,Ozone,California
+1113,202017,Sonoma,Bay Area,1,40.0,Good,Ozone,California
+1114,202017,Calaveras,Central,0,45.0,Good,Ozone,California
+1115,202017,Fresno,Central,0,71.0,Moderate,Ozone,California
+1116,202017,Inyo,Central,0,51.0,Moderate,Ozone,California
+1117,202017,Kings,Central,0,58.0,Moderate,Ozone,California
+1118,202017,Madera,Central,0,61.0,Moderate,Ozone,California
+1119,202017,Mariposa,Central,0,47.0,Good,Ozone,California
+1120,202017,Merced,Central,0,47.0,Good,Ozone,California
+1121,202017,Mono,Central,0,33.0,Good,PM2.5,California
+1122,202017,Monterey,Central,0,41.0,Good,Ozone,California
+1123,202017,San Benito,Central,0,46.0,Good,Ozone,California
+1124,202017,San Joaquin,Central,0,45.0,Good,Ozone,California
+1125,202017,Stanislaus,Central,0,46.0,Good,Ozone,California
+1126,202017,Tulare,Central,0,67.0,Moderate,PM2.5,California
+1127,202017,Tuolumne,Central,0,49.0,Good,Ozone,California
+1128,202017,Imperial,Lower Southern,0,119.0,Unhealthy for Sensitive Groups,Ozone,California
+1129,202017,Orange,Lower Southern,0,156.0,Unhealthy,Ozone,California
+1130,202017,Riverside,Lower Southern,0,129.0,Unhealthy for Sensitive Groups,Ozone,California
+1131,202017,San Bernardino,Lower Southern,0,147.0,Unhealthy for Sensitive Groups,Ozone,California
+1132,202017,San Diego,Lower Southern,0,105.0,Unhealthy for Sensitive Groups,Ozone,California
+1133,202017,Amador,Northern,0,44.0,Good,Ozone,California
+1134,202017,Butte,Northern,0,48.0,Good,Ozone,California
+1135,202017,Carson City,Northern,0,51.0,Moderate,Ozone,Nevada
+1136,202017,Churchill,Northern,0,61.0,Moderate,Ozone,Nevada
+1137,202017,Clark,Northern,0,67.0,Moderate,Ozone,Nevada
+1138,202017,Colusa,Northern,0,40.0,Good,Ozone,California
+1139,202017,Del Norte,Northern,0,26.0,Good,PM2.5,California
+1140,202017,Douglas,Northern,0,61.0,Moderate,Ozone,Colorado
+1141,202017,El Dorado,Northern,0,49.0,Good,Ozone,California
+1142,202017,Elko,Northern,0,17.0,Good,PM10,Nevada
+1143,202017,Glenn,Northern,0,47.0,Good,PM10,California
+1144,202017,Humboldt,Northern,0,28.0,Good,Ozone,California
+1145,202017,Humboldt,Northern,0,28.0,Good,Ozone,California
+1146,202017,Humboldt,Northern,0,28.0,Good,Ozone,California
+1147,202017,Humboldt,Northern,0,28.0,Good,Ozone,California
+1148,202017,Lake,Northern,0,65.0,Moderate,PM2.5,Indiana
+1149,202017,Lake,Northern,0,65.0,Moderate,PM2.5,Indiana
+1150,202017,Lake,Northern,0,65.0,Moderate,PM2.5,Indiana
+1151,202017,Lake,Northern,0,65.0,Moderate,PM2.5,Indiana
+1152,202017,Lincoln,Northern,0,46.0,Good,Ozone,Missouri
+1153,202017,Lyon,Northern,0,50.0,Good,Ozone,Nevada
+1154,202017,Mendocino,Northern,0,42.0,Good,Ozone,California
+1155,202017,Nevada,Northern,0,45.0,Good,PM2.5,California
+1156,202017,Nye,Northern,0,19.0,Good,PM10,Nevada
+1157,202017,Placer,Northern,0,51.0,Moderate,Ozone,California
+1158,202017,Plumas,Northern,0,45.0,Good,PM2.5,California
+1159,202017,Sacramento,Northern,0,48.0,Good,Ozone,California
+1160,202017,Shasta,Northern,0,46.0,Good,Ozone,California
+1161,202017,Siskiyou,Northern,0,43.0,Good,Ozone,California
+1162,202017,Sutter,Northern,0,45.0,Good,Ozone,California
+1163,202017,Tehama,Northern,0,46.0,Good,Ozone,California
+1164,202017,Trinity,Northern,0,15.0,Good,PM2.5,California
+1165,202017,Washoe,Northern,0,50.0,Good,Ozone,Nevada
+1166,202017,White Pine,Northern,0,49.0,Good,Ozone,Nevada
+1167,202017,Yolo,Northern,0,44.0,Good,Ozone,California
+1168,202017,Kern,Upper Southern,1,87.0,Moderate,Ozone,California
+1169,202017,Los Angeles,Upper Southern,1,182.0,Unhealthy,Ozone,California
+1170,202017,San Luis Obispo,Upper Southern,1,64.0,Moderate,PM2.5,California
+1171,202017,Santa Barbara,Upper Southern,1,58.0,Moderate,Ozone,California
+1172,202017,Ventura,Upper Southern,1,87.0,Moderate,Ozone,California
+1173,202018,Alameda,Bay Area,0,46.0,Good,Ozone,California
+1174,202018,Contra Costa,Bay Area,0,48.0,Good,Ozone,California
+1175,202018,Marin,Bay Area,0,39.0,Good,Ozone,California
+1176,202018,Napa,Bay Area,0,43.0,Good,Ozone,California
+1177,202018,San Francisco,Bay Area,0,36.0,Good,Ozone,California
+1178,202018,San Mateo,Bay Area,0,42.0,Good,Ozone,California
+1179,202018,Santa Clara,Bay Area,0,49.0,Good,Ozone,California
+1180,202018,Santa Cruz,Bay Area,0,45.0,Good,PM10,Arizona
+1181,202018,Solano,Bay Area,0,43.0,Good,Ozone,California
+1182,202018,Sonoma,Bay Area,0,41.0,Good,Ozone,California
+1183,202018,Calaveras,Central,0,50.0,Good,Ozone,California
+1184,202018,Fresno,Central,0,77.0,Moderate,Ozone,California
+1185,202018,Inyo,Central,0,114.0,Unhealthy for Sensitive Groups,PM10,California
+1186,202018,Kings,Central,0,67.0,Moderate,Ozone,California
+1187,202018,Madera,Central,0,77.0,Moderate,Ozone,California
+1188,202018,Mariposa,Central,0,58.0,Moderate,Ozone,California
+1189,202018,Merced,Central,0,58.0,Moderate,Ozone,California
+1190,202018,Mono,Central,0,25.0,Good,PM2.5,California
+1191,202018,Monterey,Central,0,47.0,Good,Ozone,California
+1192,202018,San Benito,Central,0,58.0,Moderate,Ozone,California
+1193,202018,San Joaquin,Central,0,51.0,Moderate,Ozone,California
+1194,202018,Stanislaus,Central,0,51.0,Moderate,Ozone,California
+1195,202018,Tulare,Central,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+1196,202018,Tuolumne,Central,0,61.0,Moderate,Ozone,California
+1197,202018,Imperial,Lower Southern,0,133.0,Unhealthy for Sensitive Groups,Ozone,California
+1198,202018,Orange,Lower Southern,0,74.0,Moderate,Ozone,Florida
+1199,202018,Riverside,Lower Southern,0,140.0,Unhealthy for Sensitive Groups,Ozone,California
+1200,202018,San Bernardino,Lower Southern,0,197.0,Unhealthy,Ozone,California
+1201,202018,San Diego,Lower Southern,0,84.0,Moderate,Ozone,California
+1202,202018,Amador,Northern,0,47.0,Good,Ozone,California
+1203,202018,Butte,Northern,0,54.0,Moderate,Ozone,California
+1204,202018,Carson City,Northern,0,58.0,Moderate,Ozone,Nevada
+1205,202018,Churchill,Northern,0,61.0,Moderate,Ozone,Nevada
+1206,202018,Clark,Northern,0,71.0,Moderate,Ozone,Nevada
+1207,202018,Colusa,Northern,0,43.0,Good,Ozone,California
+1208,202018,Del Norte,Northern,0,14.0,Good,PM2.5,California
+1209,202018,Douglas,Northern,0,74.0,Moderate,Ozone,Colorado
+1210,202018,El Dorado,Northern,0,64.0,Moderate,Ozone,California
+1211,202018,Elko,Northern,0,42.0,Good,PM10,Nevada
+1212,202018,Glenn,Northern,0,50.0,Good,Ozone,California
+1213,202018,Humboldt,Northern,0,39.0,Good,Ozone,California
+1214,202018,Humboldt,Northern,0,39.0,Good,Ozone,California
+1215,202018,Humboldt,Northern,0,39.0,Good,Ozone,California
+1216,202018,Humboldt,Northern,0,39.0,Good,Ozone,California
+1217,202018,Lake,Northern,0,87.0,Moderate,Ozone,Florida
+1218,202018,Lake,Northern,0,87.0,Moderate,Ozone,Florida
+1219,202018,Lake,Northern,0,87.0,Moderate,Ozone,Florida
+1220,202018,Lake,Northern,0,87.0,Moderate,Ozone,Florida
+1221,202018,Lincoln,Northern,0,61.0,Moderate,Ozone,Missouri
+1222,202018,Lyon,Northern,0,51.0,Moderate,Ozone,Nevada
+1223,202018,Mendocino,Northern,0,37.0,Good,Ozone,California
+1224,202018,Nevada,Northern,0,51.0,Moderate,Ozone,California
+1225,202018,Nye,Northern,0,23.0,Good,PM10,Nevada
+1226,202018,Placer,Northern,0,61.0,Moderate,Ozone,California
+1227,202018,Plumas,Northern,0,31.0,Good,PM2.5,California
+1228,202018,Sacramento,Northern,0,51.0,Moderate,Ozone,California
+1229,202018,Shasta,Northern,0,58.0,Moderate,Ozone,California
+1230,202018,Siskiyou,Northern,0,44.0,Good,Ozone,California
+1231,202018,Sutter,Northern,0,49.0,Good,Ozone,California
+1232,202018,Tehama,Northern,0,54.0,Moderate,Ozone,California
+1233,202018,Trinity,Northern,0,9.0,Good,PM2.5,California
+1234,202018,Washoe,Northern,0,61.0,Moderate,Ozone,Nevada
+1235,202018,White Pine,Northern,0,51.0,Moderate,Ozone,Nevada
+1236,202018,Yolo,Northern,0,47.0,Good,Ozone,California
+1237,202018,Kern,Upper Southern,1,115.0,Unhealthy for Sensitive Groups,Ozone,California
+1238,202018,Los Angeles,Upper Southern,1,185.0,Unhealthy,Ozone,California
+1239,202018,San Luis Obispo,Upper Southern,1,68.0,Moderate,PM2.5,California
+1240,202018,Santa Barbara,Upper Southern,1,50.0,Good,Ozone,California
+1241,202018,Ventura,Upper Southern,1,71.0,Moderate,Ozone,California
+1242,202019,Alameda,Bay Area,0,93.0,Moderate,Ozone,California
+1243,202019,Contra Costa,Bay Area,0,90.0,Moderate,Ozone,California
+1244,202019,Marin,Bay Area,0,50.0,Good,Ozone,California
+1245,202019,Napa,Bay Area,0,80.0,Moderate,Ozone,California
+1246,202019,San Francisco,Bay Area,0,57.0,Moderate,PM2.5,California
+1247,202019,San Mateo,Bay Area,0,48.0,Good,Ozone,California
+1248,202019,Santa Clara,Bay Area,0,80.0,Moderate,Ozone,California
+1249,202019,Santa Cruz,Bay Area,0,42.0,Good,Ozone,California
+1250,202019,Solano,Bay Area,0,77.0,Moderate,Ozone,California
+1251,202019,Sonoma,Bay Area,0,44.0,Good,Ozone,California
+1252,202019,Calaveras,Central,0,74.0,Moderate,Ozone,California
+1253,202019,Fresno,Central,0,143.0,Unhealthy for Sensitive Groups,Ozone,California
+1254,202019,Inyo,Central,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+1255,202019,Kings,Central,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+1256,202019,Madera,Central,0,143.0,Unhealthy for Sensitive Groups,Ozone,California
+1257,202019,Mariposa,Central,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+1258,202019,Merced,Central,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+1259,202019,Mono,Central,0,28.0,Good,PM10,California
+1260,202019,Monterey,Central,0,61.0,Moderate,Ozone,California
+1261,202019,San Benito,Central,0,84.0,Moderate,Ozone,California
+1262,202019,San Joaquin,Central,0,67.0,Moderate,Ozone,California
+1263,202019,Stanislaus,Central,0,105.0,Unhealthy for Sensitive Groups,Ozone,California
+1264,202019,Tulare,Central,0,151.0,Unhealthy,Ozone,California
+1265,202019,Tuolumne,Central,0,90.0,Moderate,Ozone,California
+1266,202019,Imperial,Lower Southern,0,140.0,Unhealthy for Sensitive Groups,Ozone,California
+1267,202019,Orange,Lower Southern,0,154.0,Unhealthy,Ozone,California
+1268,202019,Riverside,Lower Southern,0,195.0,Unhealthy,Ozone,California
+1269,202019,San Bernardino,Lower Southern,0,212.0,Very Unhealthy,Ozone,California
+1270,202019,San Diego,Lower Southern,0,151.0,Unhealthy,Ozone,California
+1271,202019,Amador,Northern,0,61.0,Moderate,Ozone,California
+1272,202019,Butte,Northern,0,93.0,Moderate,Ozone,California
+1273,202019,Carson City,Northern,0,100.0,Moderate,Ozone,Nevada
+1274,202019,Churchill,Northern,0,90.0,Moderate,Ozone,Nevada
+1275,202019,Clark,Northern,0,126.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+1276,202019,Colusa,Northern,0,47.0,Good,Ozone,California
+1277,202019,Del Norte,Northern,0,15.0,Good,PM2.5,California
+1278,202019,Douglas,Northern,0,77.0,Moderate,Ozone,Colorado
+1279,202019,El Dorado,Northern,0,90.0,Moderate,Ozone,California
+1280,202019,Elko,Northern,0,24.0,Good,PM10,Nevada
+1281,202019,Glenn,Northern,0,71.0,Moderate,Ozone,California
+1282,202019,Humboldt,Northern,0,37.0,Good,Ozone,California
+1283,202019,Humboldt,Northern,0,37.0,Good,Ozone,California
+1284,202019,Humboldt,Northern,0,37.0,Good,Ozone,California
+1285,202019,Humboldt,Northern,0,37.0,Good,Ozone,California
+1286,202019,Lake,Northern,0,67.0,Moderate,Ozone,Florida
+1287,202019,Lake,Northern,0,67.0,Moderate,Ozone,Florida
+1288,202019,Lake,Northern,0,67.0,Moderate,Ozone,Florida
+1289,202019,Lake,Northern,0,67.0,Moderate,Ozone,Florida
+1290,202019,Lincoln,Northern,0,46.0,Good,Ozone,North Carolina
+1291,202019,Lyon,Northern,0,87.0,Moderate,Ozone,Nevada
+1292,202019,Mendocino,Northern,0,48.0,Good,Ozone,California
+1293,202019,Nevada,Northern,0,93.0,Moderate,Ozone,California
+1294,202019,Nye,Northern,0,21.0,Good,PM10,Nevada
+1295,202019,Placer,Northern,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+1296,202019,Plumas,Northern,0,39.0,Good,PM2.5,California
+1297,202019,Sacramento,Northern,0,84.0,Moderate,Ozone,California
+1298,202019,Shasta,Northern,0,87.0,Moderate,Ozone,California
+1299,202019,Siskiyou,Northern,0,51.0,Moderate,Ozone,California
+1300,202019,Sutter,Northern,0,64.0,Moderate,Ozone,California
+1301,202019,Tehama,Northern,0,93.0,Moderate,Ozone,California
+1302,202019,Trinity,Northern,0,17.0,Good,PM2.5,California
+1303,202019,Washoe,Northern,0,100.0,Moderate,Ozone,Nevada
+1304,202019,White Pine,Northern,0,67.0,Moderate,Ozone,Nevada
+1305,202019,Yolo,Northern,0,51.0,Moderate,Ozone,California
+1306,202019,Kern,Upper Southern,0,156.0,Unhealthy,Ozone,California
+1307,202019,Los Angeles,Upper Southern,0,206.0,Very Unhealthy,Ozone,California
+1308,202019,San Luis Obispo,Upper Southern,0,93.0,Moderate,Ozone,California
+1309,202019,Santa Barbara,Upper Southern,0,93.0,Moderate,Ozone,California
+1310,202019,Ventura,Upper Southern,0,136.0,Unhealthy for Sensitive Groups,Ozone,California
+1311,202020,Alameda,Bay Area,0,42.0,Good,Ozone,California
+1312,202020,Contra Costa,Bay Area,0,42.0,Good,Ozone,California
+1313,202020,Marin,Bay Area,0,38.0,Good,Ozone,California
+1314,202020,Napa,Bay Area,0,39.0,Good,Ozone,California
+1315,202020,San Francisco,Bay Area,0,39.0,Good,Ozone,California
+1316,202020,San Mateo,Bay Area,0,37.0,Good,Ozone,California
+1317,202020,Santa Clara,Bay Area,0,45.0,Good,Ozone,California
+1318,202020,Santa Cruz,Bay Area,0,40.0,Good,Ozone,California
+1319,202020,Solano,Bay Area,0,39.0,Good,Ozone,California
+1320,202020,Sonoma,Bay Area,0,35.0,Good,Ozone,California
+1321,202020,Calaveras,Central,0,44.0,Good,Ozone,California
+1322,202020,Fresno,Central,0,61.0,Moderate,Ozone,California
+1323,202020,Inyo,Central,0,74.0,Moderate,Ozone,California
+1324,202020,Kings,Central,0,48.0,Good,Ozone,California
+1325,202020,Madera,Central,0,58.0,Moderate,Ozone,California
+1326,202020,Mariposa,Central,0,74.0,Moderate,Ozone,California
+1327,202020,Merced,Central,0,47.0,Good,Ozone,California
+1328,202020,Mono,Central,0,377.0,Hazardous,PM10,California
+1329,202020,Monterey,Central,0,40.0,Good,Ozone,California
+1330,202020,San Benito,Central,0,45.0,Good,Ozone,California
+1331,202020,San Joaquin,Central,0,43.0,Good,Ozone,California
+1332,202020,Stanislaus,Central,0,44.0,Good,Ozone,California
+1333,202020,Tulare,Central,0,67.0,Moderate,Ozone,California
+1334,202020,Tuolumne,Central,0,48.0,Good,Ozone,California
+1335,202020,Imperial,Lower Southern,0,61.0,Moderate,Ozone,California
+1336,202020,Orange,Lower Southern,0,61.0,Moderate,Ozone,Texas
+1337,202020,Riverside,Lower Southern,0,172.0,Unhealthy,PM10,California
+1338,202020,San Bernardino,Lower Southern,0,147.0,Unhealthy for Sensitive Groups,Ozone,California
+1339,202020,San Diego,Lower Southern,0,66.0,Moderate,PM2.5,California
+1340,202020,Amador,Northern,0,43.0,Good,Ozone,California
+1341,202020,Butte,Northern,0,54.0,Moderate,Ozone,Idaho
+1342,202020,Carson City,Northern,0,58.0,Moderate,Ozone,Nevada
+1343,202020,Churchill,Northern,0,44.0,Good,Ozone,Nevada
+1344,202020,Clark,Northern,0,87.0,Moderate,Ozone,Nevada
+1345,202020,Colusa,Northern,0,34.0,Good,Ozone,California
+1346,202020,Del Norte,Northern,0,7.0,Good,PM2.5,California
+1347,202020,Douglas,Northern,0,74.0,Moderate,Ozone,Colorado
+1348,202020,El Dorado,Northern,0,50.0,Good,Ozone,California
+1349,202020,Elko,Northern,0,31.0,Good,PM10,Nevada
+1350,202020,Glenn,Northern,0,41.0,Good,Ozone,California
+1351,202020,Humboldt,Northern,0,35.0,Good,Ozone,California
+1352,202020,Humboldt,Northern,0,35.0,Good,Ozone,California
+1353,202020,Humboldt,Northern,0,35.0,Good,Ozone,California
+1354,202020,Humboldt,Northern,0,35.0,Good,Ozone,California
+1355,202020,Lake,Northern,0,77.0,Moderate,Ozone,Florida
+1356,202020,Lake,Northern,0,77.0,Moderate,Ozone,Florida
+1357,202020,Lake,Northern,0,77.0,Moderate,Ozone,Florida
+1358,202020,Lake,Northern,0,77.0,Moderate,Ozone,Florida
+1359,202020,Lincoln,Northern,0,46.0,Good,Ozone,North Carolina
+1360,202020,Lyon,Northern,0,53.0,Moderate,PM10,Nevada
+1361,202020,Mendocino,Northern,0,33.0,Good,Ozone,California
+1362,202020,Nevada,Northern,0,46.0,Good,Ozone,California
+1363,202020,Nye,Northern,0,30.0,Good,PM10,Nevada
+1364,202020,Placer,Northern,0,54.0,Moderate,Ozone,California
+1365,202020,Plumas,Northern,0,30.0,Good,PM2.5,California
+1366,202020,Sacramento,Northern,0,46.0,Good,Ozone,California
+1367,202020,Shasta,Northern,0,50.0,Good,Ozone,California
+1368,202020,Siskiyou,Northern,0,40.0,Good,Ozone,California
+1369,202020,Sutter,Northern,0,44.0,Good,Ozone,California
+1370,202020,Tehama,Northern,0,46.0,Good,Ozone,California
+1371,202020,Trinity,Northern,0,16.0,Good,PM2.5,California
+1372,202020,Washoe,Northern,0,61.0,Moderate,Ozone,Nevada
+1373,202020,White Pine,Northern,0,77.0,Moderate,Ozone,Nevada
+1374,202020,Yolo,Northern,0,41.0,Good,Ozone,California
+1375,202020,Kern,Upper Southern,0,80.0,Moderate,Ozone,California
+1376,202020,Los Angeles,Upper Southern,0,140.0,Unhealthy for Sensitive Groups,Ozone,California
+1377,202020,San Luis Obispo,Upper Southern,0,64.0,Moderate,PM10,California
+1378,202020,Santa Barbara,Upper Southern,0,44.0,Good,PM2.5,California
+1379,202020,Ventura,Upper Southern,0,49.0,Good,Ozone,California
+1380,202021,Alameda,Bay Area,0,55.0,Moderate,PM2.5,California
+1381,202021,Contra Costa,Bay Area,0,59.0,Moderate,PM2.5,California
+1382,202021,Marin,Bay Area,0,46.0,Good,PM2.5,California
+1383,202021,Napa,Bay Area,0,41.0,Good,Ozone,California
+1384,202021,San Francisco,Bay Area,0,51.0,Moderate,PM2.5,California
+1385,202021,San Mateo,Bay Area,0,38.0,Good,Ozone,California
+1386,202021,Santa Clara,Bay Area,0,45.0,Good,Ozone,California
+1387,202021,Santa Cruz,Bay Area,0,34.0,Good,Ozone,California
+1388,202021,Solano,Bay Area,0,46.0,Good,PM2.5,California
+1389,202021,Sonoma,Bay Area,0,34.0,Good,Ozone,California
+1390,202021,Calaveras,Central,0,46.0,Good,Ozone,California
+1391,202021,Fresno,Central,0,64.0,Moderate,Ozone,California
+1392,202021,Inyo,Central,0,67.0,Moderate,Ozone,California
+1393,202021,Kings,Central,0,51.0,Moderate,Ozone,California
+1394,202021,Madera,Central,0,64.0,Moderate,Ozone,California
+1395,202021,Mariposa,Central,0,49.0,Good,Ozone,California
+1396,202021,Merced,Central,0,51.0,Moderate,Ozone,California
+1397,202021,Mono,Central,0,1111.0,Hazardous,PM10,California
+1398,202021,Monterey,Central,0,65.0,Moderate,PM2.5,California
+1399,202021,San Benito,Central,0,44.0,Good,Ozone,California
+1400,202021,San Joaquin,Central,0,42.0,Good,Ozone,California
+1401,202021,Stanislaus,Central,0,49.0,Good,Ozone,California
+1402,202021,Tulare,Central,0,77.0,Moderate,Ozone,California
+1403,202021,Tuolumne,Central,0,48.0,Good,Ozone,California
+1404,202021,Imperial,Lower Southern,0,77.0,Moderate,Ozone,California
+1405,202021,Orange,Lower Southern,0,90.0,Moderate,Ozone,California
+1406,202021,Riverside,Lower Southern,0,153.0,Unhealthy,PM10,California
+1407,202021,San Bernardino,Lower Southern,0,143.0,Unhealthy for Sensitive Groups,Ozone,California
+1408,202021,San Diego,Lower Southern,0,72.0,Moderate,PM2.5,California
+1409,202021,Amador,Northern,0,44.0,Good,Ozone,California
+1410,202021,Butte,Northern,0,43.0,Good,Ozone,Idaho
+1411,202021,Carson City,Northern,0,40.0,Good,Ozone,Nevada
+1412,202021,Churchill,Northern,0,58.0,Moderate,Ozone,Nevada
+1413,202021,Clark,Northern,0,93.0,Moderate,Ozone,Nevada
+1414,202021,Colusa,Northern,0,37.0,Good,Ozone,California
+1415,202021,Del Norte,Northern,0,20.0,Good,PM2.5,California
+1416,202021,Douglas,Northern,0,74.0,Moderate,Ozone,Colorado
+1417,202021,El Dorado,Northern,0,46.0,Good,Ozone,California
+1418,202021,Elko,Northern,0,34.0,Good,PM10,Nevada
+1419,202021,Glenn,Northern,0,40.0,Good,Ozone,California
+1420,202021,Humboldt,Northern,0,33.0,Good,Ozone,California
+1421,202021,Humboldt,Northern,0,33.0,Good,Ozone,California
+1422,202021,Humboldt,Northern,0,33.0,Good,Ozone,California
+1423,202021,Humboldt,Northern,0,33.0,Good,Ozone,California
+1424,202021,Lake,Northern,0,80.0,Moderate,Ozone,Illinois
+1425,202021,Lake,Northern,0,80.0,Moderate,Ozone,Illinois
+1426,202021,Lake,Northern,0,80.0,Moderate,Ozone,Illinois
+1427,202021,Lake,Northern,0,80.0,Moderate,Ozone,Illinois
+1428,202021,Lincoln,Northern,0,48.0,Good,PM10,Wyoming
+1429,202021,Lyon,Northern,0,55.0,Moderate,PM10,Nevada
+1430,202021,Mendocino,Northern,0,31.0,Good,Ozone,California
+1431,202021,Nevada,Northern,0,42.0,Good,Ozone,California
+1432,202021,Nye,Northern,0,38.0,Good,PM10,Nevada
+1433,202021,Placer,Northern,0,47.0,Good,Ozone,California
+1434,202021,Plumas,Northern,0,27.0,Good,PM2.5,California
+1435,202021,Sacramento,Northern,0,48.0,Good,Ozone,California
+1436,202021,Shasta,Northern,0,40.0,Good,Ozone,California
+1437,202021,Siskiyou,Northern,0,41.0,Good,Ozone,California
+1438,202021,Sutter,Northern,0,48.0,Good,Ozone,California
+1439,202021,Tehama,Northern,0,41.0,Good,Ozone,California
+1440,202021,Trinity,Northern,0,7.0,Good,PM2.5,California
+1441,202021,Washoe,Northern,0,50.0,Good,Ozone,Nevada
+1442,202021,White Pine,Northern,0,61.0,Moderate,Ozone,Nevada
+1443,202021,Yolo,Northern,0,44.0,Good,Ozone,California
+1444,202021,Kern,Upper Southern,0,87.0,Moderate,Ozone,California
+1445,202021,Los Angeles,Upper Southern,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+1446,202021,San Luis Obispo,Upper Southern,0,62.0,Moderate,PM2.5,California
+1447,202021,Santa Barbara,Upper Southern,0,51.0,Moderate,PM2.5,California
+1448,202021,Ventura,Upper Southern,0,64.0,Moderate,Ozone,California
+1449,202022,Alameda,Bay Area,0,58.0,Moderate,Ozone,California
+1450,202022,Contra Costa,Bay Area,0,56.0,Moderate,PM2.5,California
+1451,202022,Marin,Bay Area,0,40.0,Good,PM2.5,California
+1452,202022,Napa,Bay Area,0,42.0,Good,Ozone,California
+1453,202022,San Francisco,Bay Area,0,51.0,Moderate,PM2.5,California
+1454,202022,San Mateo,Bay Area,0,40.0,Good,Ozone,California
+1455,202022,Santa Clara,Bay Area,0,47.0,Good,Ozone,California
+1456,202022,Santa Cruz,Bay Area,0,36.0,Good,PM2.5,California
+1457,202022,Solano,Bay Area,0,46.0,Good,Ozone,California
+1458,202022,Sonoma,Bay Area,0,31.0,Good,Ozone,California
+1459,202022,Calaveras,Central,0,45.0,Good,Ozone,California
+1460,202022,Fresno,Central,0,129.0,Unhealthy for Sensitive Groups,Ozone,California
+1461,202022,Inyo,Central,0,80.0,Moderate,Ozone,California
+1462,202022,Kings,Central,0,93.0,Moderate,Ozone,California
+1463,202022,Madera,Central,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+1464,202022,Mariposa,Central,0,90.0,Moderate,Ozone,California
+1465,202022,Merced,Central,0,77.0,Moderate,Ozone,California
+1466,202022,Mono,Central,0,90.0,Moderate,PM10,California
+1467,202022,Monterey,Central,0,56.0,Moderate,PM2.5,California
+1468,202022,San Benito,Central,0,48.0,Good,Ozone,California
+1469,202022,San Joaquin,Central,0,47.0,Good,Ozone,California
+1470,202022,Stanislaus,Central,0,77.0,Moderate,Ozone,California
+1471,202022,Tulare,Central,0,136.0,Unhealthy for Sensitive Groups,Ozone,California
+1472,202022,Tuolumne,Central,0,54.0,Moderate,Ozone,California
+1473,202022,Imperial,Lower Southern,0,77.0,Moderate,Ozone,California
+1474,202022,Orange,Lower Southern,0,87.0,Moderate,Ozone,California
+1475,202022,Riverside,Lower Southern,0,156.0,Unhealthy,Ozone,California
+1476,202022,San Bernardino,Lower Southern,0,206.0,Very Unhealthy,Ozone,California
+1477,202022,San Diego,Lower Southern,0,93.0,Moderate,Ozone,California
+1478,202022,Amador,Northern,0,45.0,Good,Ozone,California
+1479,202022,Butte,Northern,0,58.0,Moderate,Ozone,California
+1480,202022,Carson City,Northern,0,35.0,Good,Ozone,Nevada
+1481,202022,Churchill,Northern,0,45.0,Good,Ozone,Nevada
+1482,202022,Clark,Northern,0,119.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+1483,202022,Colusa,Northern,0,38.0,Good,Ozone,California
+1484,202022,Del Norte,Northern,0,4.0,Good,PM2.5,California
+1485,202022,Douglas,Northern,0,67.0,Moderate,Ozone,Colorado
+1486,202022,El Dorado,Northern,0,58.0,Moderate,Ozone,California
+1487,202022,Elko,Northern,0,86.0,Moderate,PM10,Nevada
+1488,202022,Glenn,Northern,0,47.0,Good,Ozone,California
+1489,202022,Humboldt,Northern,0,29.0,Good,Ozone,California
+1490,202022,Humboldt,Northern,0,29.0,Good,Ozone,California
+1491,202022,Humboldt,Northern,0,29.0,Good,Ozone,California
+1492,202022,Humboldt,Northern,0,29.0,Good,Ozone,California
+1493,202022,Lake,Northern,0,77.0,Moderate,Ozone,Illinois
+1494,202022,Lake,Northern,0,77.0,Moderate,Ozone,Illinois
+1495,202022,Lake,Northern,0,77.0,Moderate,Ozone,Illinois
+1496,202022,Lake,Northern,0,77.0,Moderate,Ozone,Illinois
+1497,202022,Lincoln,Northern,0,45.0,Good,Ozone,Missouri
+1498,202022,Lyon,Northern,0,54.0,Moderate,Ozone,Minnesota
+1499,202022,Mendocino,Northern,0,33.0,Good,Ozone,California
+1500,202022,Nevada,Northern,0,39.0,Good,Ozone,California
+1501,202022,Nye,Northern,0,30.0,Good,PM10,Nevada
+1502,202022,Placer,Northern,0,67.0,Moderate,Ozone,California
+1503,202022,Plumas,Northern,0,25.0,Good,PM2.5,California
+1504,202022,Sacramento,Northern,0,80.0,Moderate,Ozone,California
+1505,202022,Shasta,Northern,0,58.0,Moderate,Ozone,California
+1506,202022,Siskiyou,Northern,0,37.0,Good,Ozone,California
+1507,202022,Sutter,Northern,0,48.0,Good,Ozone,California
+1508,202022,Tehama,Northern,0,58.0,Moderate,Ozone,California
+1509,202022,Trinity,Northern,0,13.0,Good,PM2.5,California
+1510,202022,Washoe,Northern,0,47.0,Good,Ozone,Nevada
+1511,202022,White Pine,Northern,0,71.0,Moderate,Ozone,Nevada
+1512,202022,Yolo,Northern,0,48.0,Good,Ozone,California
+1513,202022,Kern,Upper Southern,0,115.0,Unhealthy for Sensitive Groups,Ozone,California
+1514,202022,Los Angeles,Upper Southern,0,161.0,Unhealthy,Ozone,California
+1515,202022,San Luis Obispo,Upper Southern,0,61.0,Moderate,Ozone,California
+1516,202022,Santa Barbara,Upper Southern,0,52.0,Moderate,PM2.5,California
+1517,202022,Ventura,Upper Southern,0,93.0,Moderate,Ozone,California
+1518,202023,Alameda,Bay Area,0,71.0,Moderate,Ozone,California
+1519,202023,Contra Costa,Bay Area,0,64.0,Moderate,Ozone,California
+1520,202023,Marin,Bay Area,0,53.0,Moderate,PM2.5,California
+1521,202023,Napa,Bay Area,0,52.0,Moderate,PM2.5,California
+1522,202023,San Francisco,Bay Area,0,63.0,Moderate,PM2.5,California
+1523,202023,San Mateo,Bay Area,0,44.0,Good,Ozone,California
+1524,202023,Santa Clara,Bay Area,0,64.0,Moderate,Ozone,California
+1525,202023,Santa Cruz,Bay Area,0,44.0,Good,PM10,Arizona
+1526,202023,Solano,Bay Area,0,55.0,Moderate,PM2.5,California
+1527,202023,Sonoma,Bay Area,0,45.0,Good,PM2.5,California
+1528,202023,Calaveras,Central,1,58.0,Moderate,Ozone,California
+1529,202023,Fresno,Central,1,112.0,Unhealthy for Sensitive Groups,Ozone,California
+1530,202023,Inyo,Central,1,67.0,Moderate,Ozone,California
+1531,202023,Kings,Central,1,108.0,Unhealthy for Sensitive Groups,Ozone,California
+1532,202023,Madera,Central,1,105.0,Unhealthy for Sensitive Groups,Ozone,California
+1533,202023,Mariposa,Central,1,58.0,Moderate,Ozone,California
+1534,202023,Merced,Central,1,74.0,Moderate,Ozone,California
+1535,202023,Mono,Central,1,31.0,Good,PM10,California
+1536,202023,Monterey,Central,1,60.0,Moderate,PM2.5,California
+1537,202023,San Benito,Central,1,64.0,Moderate,Ozone,California
+1538,202023,San Joaquin,Central,1,71.0,Moderate,Ozone,California
+1539,202023,Stanislaus,Central,1,84.0,Moderate,Ozone,California
+1540,202023,Tulare,Central,1,136.0,Unhealthy for Sensitive Groups,Ozone,California
+1541,202023,Tuolumne,Central,1,50.0,Good,Ozone,California
+1542,202023,Imperial,Lower Southern,0,97.0,Moderate,PM10,California
+1543,202023,Orange,Lower Southern,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+1544,202023,Riverside,Lower Southern,0,576.0,Hazardous,PM10,California
+1545,202023,San Bernardino,Lower Southern,0,201.0,Very Unhealthy,Ozone,California
+1546,202023,San Diego,Lower Southern,0,97.0,Moderate,Ozone,California
+1547,202023,Amador,Northern,0,49.0,Good,Ozone,California
+1548,202023,Butte,Northern,0,58.0,Moderate,Ozone,California
+1549,202023,Carson City,Northern,0,38.0,Good,Ozone,Nevada
+1550,202023,Churchill,Northern,0,46.0,Good,Ozone,Nevada
+1551,202023,Clark,Northern,0,90.0,Moderate,Ozone,Ohio
+1552,202023,Colusa,Northern,0,71.0,Moderate,PM10,California
+1553,202023,Del Norte,Northern,0,28.0,Good,PM2.5,California
+1554,202023,Douglas,Northern,0,87.0,Moderate,Ozone,Nebraska
+1555,202023,El Dorado,Northern,0,90.0,Moderate,Ozone,California
+1556,202023,Elko,Northern,0,55.0,Moderate,PM10,Nevada
+1557,202023,Glenn,Northern,0,53.0,Moderate,PM2.5,California
+1558,202023,Humboldt,Northern,0,33.0,Good,PM2.5,California
+1559,202023,Humboldt,Northern,0,33.0,Good,PM2.5,California
+1560,202023,Humboldt,Northern,0,33.0,Good,PM2.5,California
+1561,202023,Humboldt,Northern,0,33.0,Good,PM2.5,California
+1562,202023,Lake,Northern,0,133.0,Unhealthy for Sensitive Groups,Ozone,Indiana
+1563,202023,Lake,Northern,0,133.0,Unhealthy for Sensitive Groups,Ozone,Indiana
+1564,202023,Lake,Northern,0,133.0,Unhealthy for Sensitive Groups,Ozone,Indiana
+1565,202023,Lake,Northern,0,133.0,Unhealthy for Sensitive Groups,Ozone,Indiana
+1566,202023,Lincoln,Northern,0,108.0,Unhealthy for Sensitive Groups,Ozone,Missouri
+1567,202023,Lyon,Northern,0,80.0,Moderate,Ozone,Minnesota
+1568,202023,Mendocino,Northern,0,33.0,Good,Ozone,California
+1569,202023,Nevada,Northern,0,35.0,Good,PM2.5,California
+1570,202023,Nye,Northern,0,62.0,Moderate,PM10,Nevada
+1571,202023,Placer,Northern,0,105.0,Unhealthy for Sensitive Groups,Ozone,California
+1572,202023,Plumas,Northern,0,24.0,Good,PM2.5,California
+1573,202023,Sacramento,Northern,0,151.0,Unhealthy,PM2.5,California
+1574,202023,Shasta,Northern,0,45.0,Good,Ozone,California
+1575,202023,Siskiyou,Northern,0,45.0,Good,Ozone,California
+1576,202023,Sutter,Northern,0,49.0,Good,Ozone,California
+1577,202023,Tehama,Northern,0,49.0,Good,Ozone,California
+1578,202023,Trinity,Northern,0,14.0,Good,PM2.5,California
+1579,202023,Washoe,Northern,0,48.0,Good,Ozone,Nevada
+1580,202023,White Pine,Northern,0,64.0,Moderate,Ozone,Nevada
+1581,202023,Yolo,Northern,0,72.0,Moderate,PM2.5,California
+1582,202023,Kern,Upper Southern,0,150.0,Unhealthy for Sensitive Groups,Ozone,California
+1583,202023,Los Angeles,Upper Southern,0,129.0,Unhealthy for Sensitive Groups,Ozone,California
+1584,202023,San Luis Obispo,Upper Southern,0,80.0,Moderate,Ozone,California
+1585,202023,Santa Barbara,Upper Southern,0,54.0,Moderate,PM2.5,California
+1586,202023,Ventura,Upper Southern,0,90.0,Moderate,Ozone,California
+1587,202024,Alameda,Bay Area,0,44.0,Good,Ozone,California
+1588,202024,Contra Costa,Bay Area,0,41.0,Good,Ozone,California
+1589,202024,Marin,Bay Area,0,30.0,Good,Ozone,California
+1590,202024,Napa,Bay Area,0,36.0,Good,Ozone,California
+1591,202024,San Francisco,Bay Area,0,33.0,Good,PM2.5,California
+1592,202024,San Mateo,Bay Area,0,33.0,Good,Ozone,California
+1593,202024,Santa Clara,Bay Area,0,44.0,Good,Ozone,California
+1594,202024,Santa Cruz,Bay Area,0,46.0,Good,PM10,Arizona
+1595,202024,Solano,Bay Area,0,40.0,Good,Ozone,California
+1596,202024,Sonoma,Bay Area,0,29.0,Good,Ozone,California
+1597,202024,Calaveras,Central,0,43.0,Good,Ozone,California
+1598,202024,Fresno,Central,0,105.0,Unhealthy for Sensitive Groups,Ozone,California
+1599,202024,Inyo,Central,0,97.0,Moderate,Ozone,California
+1600,202024,Kings,Central,0,93.0,Moderate,Ozone,California
+1601,202024,Madera,Central,0,77.0,Moderate,Ozone,California
+1602,202024,Mariposa,Central,0,48.0,Good,Ozone,California
+1603,202024,Merced,Central,0,46.0,Good,Ozone,California
+1604,202024,Mono,Central,0,124.0,Unhealthy for Sensitive Groups,PM10,California
+1605,202024,Monterey,Central,0,83.0,Moderate,PM2.5,California
+1606,202024,San Benito,Central,0,47.0,Good,Ozone,California
+1607,202024,San Joaquin,Central,0,43.0,Good,Ozone,California
+1608,202024,Stanislaus,Central,0,47.0,Good,Ozone,California
+1609,202024,Tulare,Central,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+1610,202024,Tuolumne,Central,0,42.0,Good,Ozone,California
+1611,202024,Imperial,Lower Southern,0,122.0,Unhealthy for Sensitive Groups,Ozone,California
+1612,202024,Orange,Lower Southern,0,126.0,Unhealthy for Sensitive Groups,Ozone,California
+1613,202024,Riverside,Lower Southern,0,136.0,Unhealthy for Sensitive Groups,Ozone,California
+1614,202024,San Bernardino,Lower Southern,0,177.0,Unhealthy,Ozone,California
+1615,202024,San Diego,Lower Southern,0,154.0,Unhealthy,Ozone,California
+1616,202024,Amador,Northern,1,41.0,Good,Ozone,California
+1617,202024,Butte,Northern,1,45.0,Good,Ozone,Idaho
+1618,202024,Carson City,Northern,1,32.0,Good,Ozone,Nevada
+1619,202024,Churchill,Northern,1,45.0,Good,Ozone,Nevada
+1620,202024,Clark,Northern,1,100.0,Moderate,Ozone,Nevada
+1621,202024,Colusa,Northern,1,33.0,Good,Ozone,California
+1622,202024,Del Norte,Northern,1,11.0,Good,PM2.5,California
+1623,202024,Douglas,Northern,1,64.0,Moderate,Ozone,Colorado
+1624,202024,El Dorado,Northern,1,46.0,Good,Ozone,California
+1625,202024,Elko,Northern,1,38.0,Good,PM10,Nevada
+1626,202024,Glenn,Northern,1,35.0,Good,Ozone,California
+1627,202024,Humboldt,Northern,1,27.0,Good,Ozone,California
+1628,202024,Humboldt,Northern,1,27.0,Good,Ozone,California
+1629,202024,Humboldt,Northern,1,27.0,Good,Ozone,California
+1630,202024,Humboldt,Northern,1,27.0,Good,Ozone,California
+1631,202024,Lake,Northern,1,93.0,Moderate,Ozone,Illinois
+1632,202024,Lake,Northern,1,93.0,Moderate,Ozone,Illinois
+1633,202024,Lake,Northern,1,93.0,Moderate,Ozone,Illinois
+1634,202024,Lake,Northern,1,93.0,Moderate,Ozone,Illinois
+1635,202024,Lincoln,Northern,1,84.0,Moderate,Ozone,Missouri
+1636,202024,Lyon,Northern,1,71.0,Moderate,Ozone,Minnesota
+1637,202024,Mendocino,Northern,1,26.0,Good,Ozone,California
+1638,202024,Nevada,Northern,1,40.0,Good,Ozone,California
+1639,202024,Nye,Northern,1,40.0,Good,PM10,Nevada
+1640,202024,Placer,Northern,1,42.0,Good,Ozone,California
+1641,202024,Plumas,Northern,1,35.0,Good,PM2.5,California
+1642,202024,Sacramento,Northern,1,58.0,Moderate,Ozone,California
+1643,202024,Shasta,Northern,1,37.0,Good,Ozone,California
+1644,202024,Siskiyou,Northern,1,29.0,Good,Ozone,California
+1645,202024,Sutter,Northern,1,44.0,Good,Ozone,California
+1646,202024,Tehama,Northern,1,43.0,Good,Ozone,California
+1647,202024,Trinity,Northern,1,5.0,Good,PM2.5,California
+1648,202024,Washoe,Northern,1,46.0,Good,Ozone,Nevada
+1649,202024,White Pine,Northern,1,74.0,Moderate,Ozone,Nevada
+1650,202024,Yolo,Northern,1,43.0,Good,Ozone,California
+1651,202024,Kern,Upper Southern,0,126.0,Unhealthy for Sensitive Groups,Ozone,California
+1652,202024,Los Angeles,Upper Southern,0,161.0,Unhealthy,Ozone,California
+1653,202024,San Luis Obispo,Upper Southern,0,64.0,Moderate,PM2.5,California
+1654,202024,Santa Barbara,Upper Southern,0,84.0,Moderate,Ozone,California
+1655,202024,Ventura,Upper Southern,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+1656,202025,Alameda,Bay Area,0,61.0,Moderate,PM2.5,California
+1657,202025,Contra Costa,Bay Area,0,52.0,Moderate,PM2.5,California
+1658,202025,Marin,Bay Area,0,36.0,Good,Ozone,California
+1659,202025,Napa,Bay Area,0,48.0,Good,Ozone,California
+1660,202025,San Francisco,Bay Area,0,55.0,Moderate,PM2.5,California
+1661,202025,San Mateo,Bay Area,0,46.0,Good,Ozone,California
+1662,202025,Santa Clara,Bay Area,0,58.0,Moderate,Ozone,California
+1663,202025,Santa Cruz,Bay Area,0,32.0,Good,PM10,Arizona
+1664,202025,Solano,Bay Area,0,46.0,Good,Ozone,California
+1665,202025,Sonoma,Bay Area,0,36.0,Good,Ozone,California
+1666,202025,Calaveras,Central,0,51.0,Moderate,Ozone,California
+1667,202025,Fresno,Central,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+1668,202025,Inyo,Central,0,87.0,Moderate,Ozone,California
+1669,202025,Kings,Central,0,77.0,Moderate,Ozone,California
+1670,202025,Madera,Central,0,97.0,Moderate,Ozone,California
+1671,202025,Mariposa,Central,0,77.0,Moderate,Ozone,California
+1672,202025,Merced,Central,0,80.0,Moderate,Ozone,California
+1673,202025,Mono,Central,0,22.0,Good,PM2.5,California
+1674,202025,Monterey,Central,0,66.0,Moderate,PM2.5,California
+1675,202025,San Benito,Central,0,48.0,Good,Ozone,California
+1676,202025,San Joaquin,Central,0,50.0,Good,Ozone,California
+1677,202025,Stanislaus,Central,0,74.0,Moderate,Ozone,California
+1678,202025,Tulare,Central,0,133.0,Unhealthy for Sensitive Groups,Ozone,California
+1679,202025,Tuolumne,Central,0,64.0,Moderate,Ozone,California
+1680,202025,Imperial,Lower Southern,0,80.0,Moderate,Ozone,California
+1681,202025,Orange,Lower Southern,0,87.0,Moderate,Ozone,Texas
+1682,202025,Riverside,Lower Southern,0,129.0,Unhealthy for Sensitive Groups,Ozone,California
+1683,202025,San Bernardino,Lower Southern,0,156.0,Unhealthy,Ozone,California
+1684,202025,San Diego,Lower Southern,0,64.0,Moderate,PM2.5,California
+1685,202025,Amador,Northern,0,49.0,Good,Ozone,California
+1686,202025,Butte,Northern,0,64.0,Moderate,Ozone,California
+1687,202025,Carson City,Northern,0,23.0,Good,PM2.5,Nevada
+1688,202025,Churchill,Northern,0,47.0,Good,Ozone,Nevada
+1689,202025,Clark,Northern,0,108.0,Unhealthy for Sensitive Groups,Ozone,Ohio
+1690,202025,Colusa,Northern,0,36.0,Good,PM2.5,California
+1691,202025,Del Norte,Northern,0,3.0,Good,PM2.5,California
+1692,202025,Douglas,Northern,0,101.0,Unhealthy for Sensitive Groups,Ozone,Colorado
+1693,202025,El Dorado,Northern,0,87.0,Moderate,Ozone,California
+1694,202025,Elko,Northern,0,20.0,Good,PM10,Nevada
+1695,202025,Glenn,Northern,0,44.0,Good,Ozone,California
+1696,202025,Humboldt,Northern,0,29.0,Good,PM2.5,California
+1697,202025,Humboldt,Northern,0,29.0,Good,PM2.5,California
+1698,202025,Humboldt,Northern,0,29.0,Good,PM2.5,California
+1699,202025,Humboldt,Northern,0,29.0,Good,PM2.5,California
+1700,202025,Lake,Northern,0,185.0,Unhealthy,Ozone,Illinois
+1701,202025,Lake,Northern,0,185.0,Unhealthy,Ozone,Illinois
+1702,202025,Lake,Northern,0,185.0,Unhealthy,Ozone,Illinois
+1703,202025,Lake,Northern,0,185.0,Unhealthy,Ozone,Illinois
+1704,202025,Lincoln,Northern,0,93.0,Moderate,Ozone,Missouri
+1705,202025,Lyon,Northern,0,80.0,Moderate,Ozone,Minnesota
+1706,202025,Mendocino,Northern,0,38.0,Good,Ozone,California
+1707,202025,Nevada,Northern,0,43.0,Good,Ozone,California
+1708,202025,Nye,Northern,0,31.0,Good,PM10,Nevada
+1709,202025,Placer,Northern,0,97.0,Moderate,Ozone,California
+1710,202025,Plumas,Northern,0,20.0,Good,PM2.5,California
+1711,202025,Sacramento,Northern,0,77.0,Moderate,Ozone,California
+1712,202025,Shasta,Northern,0,48.0,Good,Ozone,California
+1713,202025,Siskiyou,Northern,0,36.0,Good,Ozone,California
+1714,202025,Sutter,Northern,0,54.0,Moderate,Ozone,California
+1715,202025,Tehama,Northern,0,50.0,Good,Ozone,California
+1716,202025,Trinity,Northern,0,7.0,Good,PM2.5,California
+1717,202025,Washoe,Northern,0,71.0,Moderate,Ozone,Nevada
+1718,202025,White Pine,Northern,0,71.0,Moderate,Ozone,Nevada
+1719,202025,Yolo,Northern,0,48.0,Good,Ozone,California
+1720,202025,Kern,Upper Southern,0,119.0,Unhealthy for Sensitive Groups,Ozone,California
+1721,202025,Los Angeles,Upper Southern,0,112.0,Unhealthy for Sensitive Groups,Ozone,California
+1722,202025,San Luis Obispo,Upper Southern,0,74.0,Moderate,PM2.5,California
+1723,202025,Santa Barbara,Upper Southern,0,46.0,Good,PM2.5,California
+1724,202025,Ventura,Upper Southern,0,50.0,Good,Ozone,California
+1725,202026,Alameda,Bay Area,0,56.0,Moderate,PM2.5,California
+1726,202026,Contra Costa,Bay Area,0,55.0,Moderate,PM2.5,California
+1727,202026,Marin,Bay Area,0,45.0,Good,PM2.5,California
+1728,202026,Napa,Bay Area,0,48.0,Good,PM2.5,California
+1729,202026,San Francisco,Bay Area,0,55.0,Moderate,PM2.5,California
+1730,202026,San Mateo,Bay Area,0,30.0,Good,Ozone,California
+1731,202026,Santa Clara,Bay Area,0,41.0,Good,Ozone,California
+1732,202026,Santa Cruz,Bay Area,0,53.0,Moderate,PM2.5,Arizona
+1733,202026,Solano,Bay Area,0,53.0,Moderate,PM2.5,California
+1734,202026,Sonoma,Bay Area,0,29.0,Good,Ozone,California
+1735,202026,Calaveras,Central,0,74.0,Moderate,Ozone,California
+1736,202026,Fresno,Central,0,150.0,Unhealthy for Sensitive Groups,Ozone,California
+1737,202026,Inyo,Central,0,84.0,Moderate,Ozone,California
+1738,202026,Kings,Central,0,93.0,Moderate,Ozone,California
+1739,202026,Madera,Central,0,112.0,Unhealthy for Sensitive Groups,Ozone,California
+1740,202026,Mariposa,Central,0,100.0,Moderate,Ozone,California
+1741,202026,Merced,Central,0,80.0,Moderate,Ozone,California
+1742,202026,Mono,Central,0,39.0,Good,PM10,California
+1743,202026,Monterey,Central,0,34.0,Good,PM2.5,California
+1744,202026,San Benito,Central,0,38.0,Good,PM2.5,California
+1745,202026,San Joaquin,Central,0,54.0,Moderate,Ozone,California
+1746,202026,Stanislaus,Central,0,93.0,Moderate,Ozone,California
+1747,202026,Tulare,Central,0,159.0,Unhealthy,Ozone,California
+1748,202026,Tuolumne,Central,0,87.0,Moderate,Ozone,California
+1749,202026,Imperial,Lower Southern,0,84.0,Moderate,Ozone,California
+1750,202026,Orange,Lower Southern,0,103.0,Unhealthy for Sensitive Groups,PM2.5,Texas
+1751,202026,Riverside,Lower Southern,0,161.0,Unhealthy,Ozone,California
+1752,202026,San Bernardino,Lower Southern,0,200.0,Unhealthy,Ozone,California
+1753,202026,San Diego,Lower Southern,0,93.0,Moderate,Ozone,California
+1754,202026,Amador,Northern,0,77.0,Moderate,Ozone,California
+1755,202026,Butte,Northern,0,87.0,Moderate,Ozone,California
+1756,202026,Carson City,Northern,0,36.0,Good,PM2.5,Nevada
+1757,202026,Churchill,Northern,0,64.0,Moderate,Ozone,Nevada
+1758,202026,Clark,Northern,0,126.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+1759,202026,Colusa,Northern,0,47.0,Good,Ozone,California
+1760,202026,Del Norte,Northern,0,30.0,Good,PM2.5,California
+1761,202026,Douglas,Northern,0,97.0,Moderate,Ozone,Colorado
+1762,202026,El Dorado,Northern,0,97.0,Moderate,Ozone,California
+1763,202026,Elko,Northern,0,31.0,Good,PM10,Nevada
+1764,202026,Glenn,Northern,0,61.0,Moderate,Ozone,California
+1765,202026,Humboldt,Northern,0,39.0,Good,PM2.5,California
+1766,202026,Humboldt,Northern,0,39.0,Good,PM2.5,California
+1767,202026,Humboldt,Northern,0,39.0,Good,PM2.5,California
+1768,202026,Humboldt,Northern,0,39.0,Good,PM2.5,California
+1769,202026,Lake,Northern,0,101.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1770,202026,Lake,Northern,0,101.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1771,202026,Lake,Northern,0,101.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1772,202026,Lake,Northern,0,101.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1773,202026,Lincoln,Northern,0,58.0,Moderate,Ozone,Missouri
+1774,202026,Lyon,Northern,0,49.0,Good,Ozone,Nevada
+1775,202026,Mendocino,Northern,0,31.0,Good,Ozone,California
+1776,202026,Nevada,Northern,0,45.0,Good,PM2.5,California
+1777,202026,Nye,Northern,0,88.0,Moderate,PM10,Nevada
+1778,202026,Placer,Northern,0,100.0,Moderate,Ozone,California
+1779,202026,Plumas,Northern,0,42.0,Good,PM2.5,California
+1780,202026,Sacramento,Northern,0,90.0,Moderate,Ozone,California
+1781,202026,Shasta,Northern,0,48.0,Good,Ozone,California
+1782,202026,Siskiyou,Northern,0,45.0,Good,Ozone,California
+1783,202026,Sutter,Northern,0,61.0,Moderate,Ozone,California
+1784,202026,Tehama,Northern,0,77.0,Moderate,Ozone,California
+1785,202026,Trinity,Northern,0,15.0,Good,PM2.5,California
+1786,202026,Washoe,Northern,0,90.0,Moderate,Ozone,Nevada
+1787,202026,White Pine,Northern,0,67.0,Moderate,Ozone,Nevada
+1788,202026,Yolo,Northern,0,54.0,Moderate,Ozone,California
+1789,202026,Kern,Upper Southern,0,115.0,Unhealthy for Sensitive Groups,Ozone,California
+1790,202026,Los Angeles,Upper Southern,0,159.0,Unhealthy,Ozone,California
+1791,202026,San Luis Obispo,Upper Southern,0,49.0,Good,Ozone,California
+1792,202026,Santa Barbara,Upper Southern,0,37.0,Good,Ozone,California
+1793,202026,Ventura,Upper Southern,0,67.0,Moderate,Ozone,California
+1794,202027,Alameda,Bay Area,0,115.0,Unhealthy for Sensitive Groups,PM2.5,California
+1795,202027,Contra Costa,Bay Area,0,74.0,Moderate,PM2.5,California
+1796,202027,Marin,Bay Area,0,52.0,Moderate,PM2.5,California
+1797,202027,Napa,Bay Area,0,52.0,Moderate,PM2.5,California
+1798,202027,San Francisco,Bay Area,0,74.0,Moderate,PM2.5,California
+1799,202027,San Mateo,Bay Area,0,60.0,Moderate,PM2.5,California
+1800,202027,Santa Clara,Bay Area,0,84.0,Moderate,PM2.5,California
+1801,202027,Santa Cruz,Bay Area,0,53.0,Moderate,PM2.5,California
+1802,202027,Solano,Bay Area,0,63.0,Moderate,PM2.5,California
+1803,202027,Sonoma,Bay Area,0,48.0,Good,PM2.5,California
+1804,202027,Calaveras,Central,0,80.0,Moderate,Ozone,California
+1805,202027,Fresno,Central,0,97.0,Moderate,PM2.5,California
+1806,202027,Inyo,Central,0,100.0,Moderate,Ozone,California
+1807,202027,Kings,Central,0,97.0,Moderate,Ozone,California
+1808,202027,Madera,Central,0,93.0,Moderate,Ozone,California
+1809,202027,Mariposa,Central,0,87.0,Moderate,Ozone,California
+1810,202027,Merced,Central,0,77.0,Moderate,Ozone,California
+1811,202027,Mono,Central,0,25.0,Good,PM2.5,California
+1812,202027,Monterey,Central,0,77.0,Moderate,PM2.5,California
+1813,202027,San Benito,Central,0,77.0,Moderate,PM2.5,California
+1814,202027,San Joaquin,Central,0,70.0,Moderate,PM2.5,California
+1815,202027,Stanislaus,Central,0,103.0,Unhealthy for Sensitive Groups,PM2.5,California
+1816,202027,Tulare,Central,0,126.0,Unhealthy for Sensitive Groups,Ozone,California
+1817,202027,Tuolumne,Central,0,77.0,Moderate,Ozone,California
+1818,202027,Imperial,Lower Southern,0,100.0,Moderate,Ozone,California
+1819,202027,Orange,Lower Southern,0,149.0,Unhealthy for Sensitive Groups,PM2.5,California
+1820,202027,Riverside,Lower Southern,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+1821,202027,San Bernardino,Lower Southern,0,145.0,Unhealthy for Sensitive Groups,PM2.5,California
+1822,202027,San Diego,Lower Southern,0,74.0,Moderate,Ozone,California
+1823,202027,Amador,Northern,0,64.0,Moderate,Ozone,California
+1824,202027,Butte,Northern,0,61.0,Moderate,Ozone,California
+1825,202027,Carson City,Northern,0,29.0,Good,PM2.5,Nevada
+1826,202027,Churchill,Northern,0,61.0,Moderate,Ozone,Nevada
+1827,202027,Clark,Northern,0,91.0,Moderate,PM2.5,Indiana
+1828,202027,Colusa,Northern,0,43.0,Good,Ozone,California
+1829,202027,Del Norte,Northern,0,32.0,Good,PM2.5,California
+1830,202027,Douglas,Northern,0,156.0,Unhealthy,PM2.5,Nebraska
+1831,202027,El Dorado,Northern,0,80.0,Moderate,Ozone,California
+1832,202027,Elko,Northern,0,37.0,Good,PM10,Nevada
+1833,202027,Glenn,Northern,0,61.0,Moderate,PM2.5,California
+1834,202027,Humboldt,Northern,0,43.0,Good,PM2.5,California
+1835,202027,Humboldt,Northern,0,43.0,Good,PM2.5,California
+1836,202027,Humboldt,Northern,0,43.0,Good,PM2.5,California
+1837,202027,Humboldt,Northern,0,43.0,Good,PM2.5,California
+1838,202027,Lake,Northern,0,108.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1839,202027,Lake,Northern,0,108.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1840,202027,Lake,Northern,0,108.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1841,202027,Lake,Northern,0,108.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1842,202027,Lincoln,Northern,0,54.0,Moderate,Ozone,Missouri
+1843,202027,Lyon,Northern,0,53.0,Moderate,PM2.5,Minnesota
+1844,202027,Mendocino,Northern,0,39.0,Good,Ozone,California
+1845,202027,Nevada,Northern,0,40.0,Good,PM2.5,California
+1846,202027,Nye,Northern,0,33.0,Good,PM10,Nevada
+1847,202027,Placer,Northern,0,111.0,Unhealthy for Sensitive Groups,PM2.5,California
+1848,202027,Plumas,Northern,0,28.0,Good,PM2.5,California
+1849,202027,Sacramento,Northern,0,155.0,Unhealthy,PM2.5,California
+1850,202027,Shasta,Northern,0,54.0,Moderate,Ozone,California
+1851,202027,Siskiyou,Northern,0,44.0,Good,Ozone,California
+1852,202027,Sutter,Northern,0,159.0,Unhealthy,PM2.5,California
+1853,202027,Tehama,Northern,0,71.0,Moderate,Ozone,California
+1854,202027,Trinity,Northern,0,25.0,Good,PM2.5,California
+1855,202027,Washoe,Northern,0,87.0,Moderate,Ozone,Nevada
+1856,202027,White Pine,Northern,0,67.0,Moderate,Ozone,Nevada
+1857,202027,Yolo,Northern,0,59.0,Moderate,PM2.5,California
+1858,202027,Kern,Upper Southern,0,197.0,Unhealthy,PM2.5,California
+1859,202027,Los Angeles,Upper Southern,0,225.0,Very Unhealthy,PM2.5,California
+1860,202027,San Luis Obispo,Upper Southern,0,80.0,Moderate,Ozone,California
+1861,202027,Santa Barbara,Upper Southern,0,101.0,Unhealthy for Sensitive Groups,PM2.5,California
+1862,202027,Ventura,Upper Southern,0,72.0,Moderate,PM2.5,California
+1863,202028,Alameda,Bay Area,0,58.0,Moderate,Ozone,California
+1864,202028,Contra Costa,Bay Area,0,53.0,Moderate,PM2.5,California
+1865,202028,Marin,Bay Area,0,42.0,Good,PM2.5,California
+1866,202028,Napa,Bay Area,0,51.0,Moderate,PM2.5,California
+1867,202028,San Francisco,Bay Area,0,51.0,Moderate,PM2.5,California
+1868,202028,San Mateo,Bay Area,0,38.0,Good,PM2.5,California
+1869,202028,Santa Clara,Bay Area,0,67.0,Moderate,Ozone,California
+1870,202028,Santa Cruz,Bay Area,0,35.0,Good,PM2.5,California
+1871,202028,Solano,Bay Area,0,49.0,Good,PM2.5,California
+1872,202028,Sonoma,Bay Area,0,36.0,Good,PM2.5,California
+1873,202028,Calaveras,Central,0,80.0,Moderate,Ozone,California
+1874,202028,Fresno,Central,0,119.0,Unhealthy for Sensitive Groups,Ozone,California
+1875,202028,Inyo,Central,0,105.0,Unhealthy for Sensitive Groups,Ozone,California
+1876,202028,Kings,Central,0,110.0,Unhealthy for Sensitive Groups,PM2.5,California
+1877,202028,Madera,Central,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+1878,202028,Mariposa,Central,0,90.0,Moderate,Ozone,California
+1879,202028,Merced,Central,0,77.0,Moderate,Ozone,California
+1880,202028,Mono,Central,0,60.0,Moderate,PM2.5,California
+1881,202028,Monterey,Central,0,44.0,Good,PM2.5,California
+1882,202028,San Benito,Central,0,51.0,Moderate,Ozone,California
+1883,202028,San Joaquin,Central,0,61.0,Moderate,Ozone,California
+1884,202028,Stanislaus,Central,0,80.0,Moderate,Ozone,California
+1885,202028,Tulare,Central,0,150.0,Unhealthy for Sensitive Groups,Ozone,California
+1886,202028,Tuolumne,Central,0,71.0,Moderate,Ozone,California
+1887,202028,Imperial,Lower Southern,0,100.0,Moderate,Ozone,California
+1888,202028,Orange,Lower Southern,0,136.0,Unhealthy for Sensitive Groups,Ozone,California
+1889,202028,Riverside,Lower Southern,0,190.0,Unhealthy,Ozone,California
+1890,202028,San Bernardino,Lower Southern,0,215.0,Very Unhealthy,Ozone,California
+1891,202028,San Diego,Lower Southern,0,105.0,Unhealthy for Sensitive Groups,Ozone,California
+1892,202028,Amador,Northern,0,64.0,Moderate,Ozone,California
+1893,202028,Butte,Northern,0,61.0,Moderate,Ozone,California
+1894,202028,Carson City,Northern,0,28.0,Good,PM2.5,Nevada
+1895,202028,Churchill,Northern,0,50.0,Good,Ozone,Nevada
+1896,202028,Clark,Northern,0,126.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+1897,202028,Colusa,Northern,0,41.0,Good,Ozone,California
+1898,202028,Del Norte,Northern,0,13.0,Good,PM2.5,California
+1899,202028,Douglas,Northern,0,100.0,Moderate,Ozone,Colorado
+1900,202028,El Dorado,Northern,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+1901,202028,Elko,Northern,0,44.0,Good,PM10,Nevada
+1902,202028,Glenn,Northern,0,45.0,Good,Ozone,California
+1903,202028,Humboldt,Northern,0,24.0,Good,PM2.5,California
+1904,202028,Humboldt,Northern,0,24.0,Good,PM2.5,California
+1905,202028,Humboldt,Northern,0,24.0,Good,PM2.5,California
+1906,202028,Humboldt,Northern,0,24.0,Good,PM2.5,California
+1907,202028,Lake,Northern,0,140.0,Unhealthy for Sensitive Groups,Ozone,Ohio
+1908,202028,Lake,Northern,0,140.0,Unhealthy for Sensitive Groups,Ozone,Ohio
+1909,202028,Lake,Northern,0,140.0,Unhealthy for Sensitive Groups,Ozone,Ohio
+1910,202028,Lake,Northern,0,140.0,Unhealthy for Sensitive Groups,Ozone,Ohio
+1911,202028,Lincoln,Northern,0,49.0,Good,Ozone,Missouri
+1912,202028,Lyon,Northern,0,61.0,Moderate,PM10,Nevada
+1913,202028,Mendocino,Northern,0,30.0,Good,Ozone,California
+1914,202028,Nevada,Northern,0,25.0,Good,PM2.5,California
+1915,202028,Nye,Northern,0,22.0,Good,PM10,Nevada
+1916,202028,Placer,Northern,0,97.0,Moderate,Ozone,California
+1917,202028,Plumas,Northern,0,25.0,Good,PM2.5,California
+1918,202028,Sacramento,Northern,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+1919,202028,Shasta,Northern,0,51.0,Moderate,Ozone,California
+1920,202028,Siskiyou,Northern,0,44.0,Good,Ozone,California
+1921,202028,Sutter,Northern,0,61.0,Moderate,Ozone,California
+1922,202028,Tehama,Northern,0,64.0,Moderate,Ozone,California
+1923,202028,Trinity,Northern,0,9.0,Good,PM2.5,California
+1924,202028,Washoe,Northern,0,67.0,Moderate,Ozone,Nevada
+1925,202028,White Pine,Northern,0,105.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+1926,202028,Yolo,Northern,0,51.0,Moderate,Ozone,California
+1927,202028,Kern,Upper Southern,0,126.0,Unhealthy for Sensitive Groups,Ozone,California
+1928,202028,Los Angeles,Upper Southern,0,204.0,Very Unhealthy,Ozone,California
+1929,202028,San Luis Obispo,Upper Southern,0,71.0,Moderate,Ozone,California
+1930,202028,Santa Barbara,Upper Southern,0,59.0,Moderate,PM2.5,California
+1931,202028,Ventura,Upper Southern,0,122.0,Unhealthy for Sensitive Groups,Ozone,California
+1932,202029,Alameda,Bay Area,0,55.0,Moderate,PM2.5,California
+1933,202029,Contra Costa,Bay Area,0,53.0,Moderate,PM2.5,California
+1934,202029,Marin,Bay Area,0,48.0,Good,PM2.5,California
+1935,202029,Napa,Bay Area,0,31.0,Good,Ozone,California
+1936,202029,San Francisco,Bay Area,0,52.0,Moderate,PM2.5,California
+1937,202029,San Mateo,Bay Area,0,39.0,Good,PM2.5,California
+1938,202029,Santa Clara,Bay Area,0,47.0,Good,PM2.5,California
+1939,202029,Santa Cruz,Bay Area,0,41.0,Good,PM10,Arizona
+1940,202029,Solano,Bay Area,0,53.0,Moderate,PM2.5,California
+1941,202029,Sonoma,Bay Area,0,52.0,Moderate,PM2.5,California
+1942,202029,Calaveras,Central,0,77.0,Moderate,Ozone,California
+1943,202029,Fresno,Central,0,100.0,Moderate,Ozone,California
+1944,202029,Inyo,Central,0,61.0,Moderate,Ozone,California
+1945,202029,Kings,Central,0,74.0,Moderate,Ozone,California
+1946,202029,Madera,Central,0,90.0,Moderate,Ozone,California
+1947,202029,Mariposa,Central,0,90.0,Moderate,Ozone,California
+1948,202029,Merced,Central,0,93.0,Moderate,Ozone,California
+1949,202029,Mono,Central,0,31.0,Good,PM10,California
+1950,202029,Monterey,Central,0,45.0,Good,PM2.5,California
+1951,202029,San Benito,Central,0,47.0,Good,Ozone,California
+1952,202029,San Joaquin,Central,0,51.0,Moderate,Ozone,California
+1953,202029,Stanislaus,Central,0,80.0,Moderate,Ozone,California
+1954,202029,Tulare,Central,0,154.0,Unhealthy,Ozone,California
+1955,202029,Tuolumne,Central,0,71.0,Moderate,Ozone,California
+1956,202029,Imperial,Lower Southern,0,64.0,Moderate,Ozone,California
+1957,202029,Orange,Lower Southern,0,61.0,Moderate,PM2.5,Texas
+1958,202029,Riverside,Lower Southern,0,133.0,Unhealthy for Sensitive Groups,Ozone,California
+1959,202029,San Bernardino,Lower Southern,0,185.0,Unhealthy,Ozone,California
+1960,202029,San Diego,Lower Southern,0,79.0,Moderate,PM2.5,California
+1961,202029,Amador,Northern,0,64.0,Moderate,Ozone,California
+1962,202029,Butte,Northern,0,87.0,Moderate,Ozone,California
+1963,202029,Carson City,Northern,0,54.0,Moderate,Ozone,Nevada
+1964,202029,Churchill,Northern,0,47.0,Good,Ozone,Nevada
+1965,202029,Clark,Northern,0,87.0,Moderate,Ozone,Ohio
+1966,202029,Colusa,Northern,0,51.0,Moderate,PM2.5,California
+1967,202029,Del Norte,Northern,0,33.0,Good,PM2.5,California
+1968,202029,Douglas,Northern,0,64.0,Moderate,Ozone,Colorado
+1969,202029,El Dorado,Northern,0,90.0,Moderate,Ozone,California
+1970,202029,Elko,Northern,0,43.0,Good,PM10,Nevada
+1971,202029,Glenn,Northern,0,54.0,Moderate,PM2.5,California
+1972,202029,Humboldt,Northern,0,51.0,Moderate,PM2.5,California
+1973,202029,Humboldt,Northern,0,51.0,Moderate,PM2.5,California
+1974,202029,Humboldt,Northern,0,51.0,Moderate,PM2.5,California
+1975,202029,Humboldt,Northern,0,51.0,Moderate,PM2.5,California
+1976,202029,Lake,Northern,0,105.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1977,202029,Lake,Northern,0,105.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1978,202029,Lake,Northern,0,105.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1979,202029,Lake,Northern,0,105.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+1980,202029,Lincoln,Northern,0,74.0,Moderate,Ozone,Missouri
+1981,202029,Lyon,Northern,0,56.0,Moderate,PM10,Nevada
+1982,202029,Mendocino,Northern,0,47.0,Good,PM2.5,California
+1983,202029,Nevada,Northern,0,93.0,Moderate,Ozone,California
+1984,202029,Nye,Northern,0,26.0,Good,PM10,Nevada
+1985,202029,Placer,Northern,0,105.0,Unhealthy for Sensitive Groups,Ozone,California
+1986,202029,Plumas,Northern,0,45.0,Good,PM2.5,California
+1987,202029,Sacramento,Northern,0,74.0,Moderate,Ozone,California
+1988,202029,Shasta,Northern,0,74.0,Moderate,Ozone,California
+1989,202029,Siskiyou,Northern,0,44.0,Good,Ozone,California
+1990,202029,Sutter,Northern,0,68.0,Moderate,PM2.5,California
+1991,202029,Tehama,Northern,0,84.0,Moderate,Ozone,California
+1992,202029,Trinity,Northern,0,36.0,Good,PM2.5,California
+1993,202029,Washoe,Northern,0,64.0,Moderate,Ozone,Nevada
+1994,202029,White Pine,Northern,0,45.0,Good,Ozone,Nevada
+1995,202029,Yolo,Northern,0,46.0,Good,Ozone,California
+1996,202029,Kern,Upper Southern,0,136.0,Unhealthy for Sensitive Groups,Ozone,California
+1997,202029,Los Angeles,Upper Southern,0,136.0,Unhealthy for Sensitive Groups,Ozone,California
+1998,202029,San Luis Obispo,Upper Southern,0,58.0,Moderate,Ozone,California
+1999,202029,Santa Barbara,Upper Southern,0,48.0,Good,PM2.5,California
+2000,202029,Ventura,Upper Southern,0,74.0,Moderate,Ozone,California
+2001,202030,Alameda,Bay Area,0,42.0,Good,Ozone,California
+2002,202030,Contra Costa,Bay Area,0,57.0,Moderate,PM2.5,California
+2003,202030,Marin,Bay Area,0,26.0,Good,Ozone,California
+2004,202030,Napa,Bay Area,0,35.0,Good,PM2.5,California
+2005,202030,San Francisco,Bay Area,0,40.0,Good,Ozone,California
+2006,202030,San Mateo,Bay Area,0,34.0,Good,PM2.5,California
+2007,202030,Santa Clara,Bay Area,0,38.0,Good,PM2.5,California
+2008,202030,Santa Cruz,Bay Area,0,33.0,Good,PM10,Arizona
+2009,202030,Solano,Bay Area,0,39.0,Good,PM2.5,California
+2010,202030,Sonoma,Bay Area,0,31.0,Good,PM2.5,California
+2011,202030,Calaveras,Central,0,50.0,Good,Ozone,California
+2012,202030,Fresno,Central,0,84.0,Moderate,Ozone,California
+2013,202030,Inyo,Central,0,77.0,Moderate,Ozone,California
+2014,202030,Kings,Central,0,61.0,Moderate,Ozone,California
+2015,202030,Madera,Central,0,74.0,Moderate,Ozone,California
+2016,202030,Mariposa,Central,0,71.0,Moderate,Ozone,California
+2017,202030,Merced,Central,0,74.0,Moderate,Ozone,California
+2018,202030,Mono,Central,0,33.0,Good,PM10,California
+2019,202030,Monterey,Central,0,34.0,Good,PM10,California
+2020,202030,San Benito,Central,0,39.0,Good,Ozone,California
+2021,202030,San Joaquin,Central,0,47.0,Good,Ozone,California
+2022,202030,Stanislaus,Central,0,61.0,Moderate,Ozone,California
+2023,202030,Tulare,Central,0,119.0,Unhealthy for Sensitive Groups,Ozone,California
+2024,202030,Tuolumne,Central,0,50.0,Good,Ozone,California
+2025,202030,Imperial,Lower Southern,1,101.0,Unhealthy for Sensitive Groups,Ozone,California
+2026,202030,Orange,Lower Southern,1,71.0,Moderate,Ozone,California
+2027,202030,Riverside,Lower Southern,1,166.0,Unhealthy,Ozone,California
+2028,202030,San Bernardino,Lower Southern,1,185.0,Unhealthy,Ozone,California
+2029,202030,San Diego,Lower Southern,1,74.0,Moderate,Ozone,California
+2030,202030,Amador,Northern,0,46.0,Good,Ozone,California
+2031,202030,Butte,Northern,0,61.0,Moderate,Ozone,California
+2032,202030,Carson City,Northern,0,58.0,Moderate,Ozone,Nevada
+2033,202030,Churchill,Northern,0,51.0,Moderate,Ozone,Nevada
+2034,202030,Clark,Northern,0,77.0,Moderate,Ozone,Nevada
+2035,202030,Colusa,Northern,0,38.0,Good,Ozone,California
+2036,202030,Del Norte,Northern,0,48.0,Good,PM2.5,California
+2037,202030,Douglas,Northern,0,93.0,Moderate,Ozone,Colorado
+2038,202030,El Dorado,Northern,0,77.0,Moderate,Ozone,California
+2039,202030,Elko,Northern,0,40.0,Good,PM2.5,Nevada
+2040,202030,Glenn,Northern,0,44.0,Good,Ozone,California
+2041,202030,Humboldt,Northern,0,26.0,Good,PM10,California
+2042,202030,Humboldt,Northern,0,26.0,Good,PM10,California
+2043,202030,Humboldt,Northern,0,26.0,Good,PM10,California
+2044,202030,Humboldt,Northern,0,26.0,Good,PM10,California
+2045,202030,Lake,Northern,0,126.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+2046,202030,Lake,Northern,0,126.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+2047,202030,Lake,Northern,0,126.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+2048,202030,Lake,Northern,0,126.0,Unhealthy for Sensitive Groups,Ozone,Illinois
+2049,202030,Lincoln,Northern,0,43.0,Good,Ozone,Missouri
+2050,202030,Lyon,Northern,0,51.0,Moderate,Ozone,Nevada
+2051,202030,Mendocino,Northern,0,32.0,Good,PM2.5,California
+2052,202030,Nevada,Northern,0,74.0,Moderate,Ozone,California
+2053,202030,Nye,Northern,0,32.0,Good,PM10,Nevada
+2054,202030,Placer,Northern,0,87.0,Moderate,Ozone,California
+2055,202030,Plumas,Northern,0,81.0,Moderate,PM2.5,California
+2056,202030,Sacramento,Northern,0,54.0,Moderate,Ozone,California
+2057,202030,Shasta,Northern,0,77.0,Moderate,Ozone,California
+2058,202030,Siskiyou,Northern,0,44.0,Good,Ozone,California
+2059,202030,Sutter,Northern,0,58.0,Moderate,PM2.5,California
+2060,202030,Tehama,Northern,0,58.0,Moderate,Ozone,California
+2061,202030,Trinity,Northern,0,27.0,Good,PM2.5,California
+2062,202030,Washoe,Northern,0,87.0,Moderate,Ozone,Nevada
+2063,202030,White Pine,Northern,0,51.0,Moderate,Ozone,Nevada
+2064,202030,Yolo,Northern,0,46.0,Good,PM2.5,California
+2065,202030,Kern,Upper Southern,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+2066,202030,Los Angeles,Upper Southern,0,143.0,Unhealthy for Sensitive Groups,Ozone,California
+2067,202030,San Luis Obispo,Upper Southern,0,45.0,Good,Ozone,California
+2068,202030,Santa Barbara,Upper Southern,0,39.0,Good,Ozone,California
+2069,202030,Ventura,Upper Southern,0,50.0,Good,Ozone,California
+2070,202031,Alameda,Bay Area,0,55.0,Moderate,PM2.5,California
+2071,202031,Contra Costa,Bay Area,0,47.0,Good,PM2.5,California
+2072,202031,Marin,Bay Area,0,23.0,Good,Ozone,California
+2073,202031,Napa,Bay Area,0,30.0,Good,Ozone,California
+2074,202031,San Francisco,Bay Area,0,39.0,Good,PM2.5,California
+2075,202031,San Mateo,Bay Area,0,26.0,Good,Ozone,California
+2076,202031,Santa Clara,Bay Area,0,44.0,Good,Ozone,California
+2077,202031,Santa Cruz,Bay Area,0,27.0,Good,PM10,Arizona
+2078,202031,Solano,Bay Area,0,30.0,Good,Ozone,California
+2079,202031,Sonoma,Bay Area,0,23.0,Good,Ozone,California
+2080,202031,Calaveras,Central,0,50.0,Good,Ozone,California
+2081,202031,Fresno,Central,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+2082,202031,Inyo,Central,0,80.0,Moderate,Ozone,California
+2083,202031,Kings,Central,0,74.0,Moderate,Ozone,California
+2084,202031,Madera,Central,0,93.0,Moderate,Ozone,California
+2085,202031,Mariposa,Central,0,84.0,Moderate,Ozone,California
+2086,202031,Merced,Central,0,67.0,Moderate,Ozone,California
+2087,202031,Mono,Central,0,28.0,Good,PM2.5,California
+2088,202031,Monterey,Central,0,33.0,Good,Ozone,California
+2089,202031,San Benito,Central,0,51.0,Moderate,Ozone,California
+2090,202031,San Joaquin,Central,0,47.0,Good,Ozone,California
+2091,202031,Stanislaus,Central,0,74.0,Moderate,Ozone,California
+2092,202031,Tulare,Central,0,164.0,Unhealthy,Ozone,California
+2093,202031,Tuolumne,Central,0,58.0,Moderate,Ozone,California
+2094,202031,Imperial,Lower Southern,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+2095,202031,Orange,Lower Southern,0,100.0,Moderate,Ozone,California
+2096,202031,Riverside,Lower Southern,0,192.0,Unhealthy,Ozone,California
+2097,202031,San Bernardino,Lower Southern,0,213.0,Very Unhealthy,Ozone,California
+2098,202031,San Diego,Lower Southern,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+2099,202031,Amador,Northern,0,46.0,Good,Ozone,California
+2100,202031,Butte,Northern,0,71.0,Moderate,Ozone,California
+2101,202031,Carson City,Northern,0,100.0,Moderate,Ozone,Nevada
+2102,202031,Churchill,Northern,0,84.0,Moderate,Ozone,Nevada
+2103,202031,Clark,Northern,0,87.0,Moderate,Ozone,Nevada
+2104,202031,Colusa,Northern,0,41.0,Good,Ozone,California
+2105,202031,Del Norte,Northern,0,19.0,Good,PM2.5,California
+2106,202031,Douglas,Northern,0,100.0,Moderate,Ozone,Colorado
+2107,202031,El Dorado,Northern,0,87.0,Moderate,Ozone,California
+2108,202031,Elko,Northern,0,36.0,Good,PM10,Nevada
+2109,202031,Glenn,Northern,0,45.0,Good,PM2.5,California
+2110,202031,Humboldt,Northern,0,18.0,Good,Ozone,California
+2111,202031,Humboldt,Northern,0,18.0,Good,Ozone,California
+2112,202031,Humboldt,Northern,0,18.0,Good,Ozone,California
+2113,202031,Humboldt,Northern,0,18.0,Good,Ozone,California
+2114,202031,Lake,Northern,0,67.0,Moderate,Ozone,Indiana
+2115,202031,Lake,Northern,0,67.0,Moderate,Ozone,Indiana
+2116,202031,Lake,Northern,0,67.0,Moderate,Ozone,Indiana
+2117,202031,Lake,Northern,0,67.0,Moderate,Ozone,Indiana
+2118,202031,Lincoln,Northern,0,107.0,Unhealthy for Sensitive Groups,PM2.5,Montana
+2119,202031,Lyon,Northern,0,77.0,Moderate,Ozone,Nevada
+2120,202031,Mendocino,Northern,0,36.0,Good,PM2.5,California
+2121,202031,Nevada,Northern,0,77.0,Moderate,Ozone,California
+2122,202031,Nye,Northern,0,21.0,Good,PM10,Nevada
+2123,202031,Placer,Northern,0,90.0,Moderate,Ozone,California
+2124,202031,Plumas,Northern,0,52.0,Moderate,PM2.5,California
+2125,202031,Sacramento,Northern,0,67.0,Moderate,Ozone,California
+2126,202031,Shasta,Northern,0,67.0,Moderate,Ozone,California
+2127,202031,Siskiyou,Northern,0,63.0,Moderate,PM2.5,California
+2128,202031,Sutter,Northern,0,58.0,Moderate,Ozone,California
+2129,202031,Tehama,Northern,0,71.0,Moderate,Ozone,California
+2130,202031,Trinity,Northern,0,29.0,Good,PM2.5,California
+2131,202031,Washoe,Northern,0,97.0,Moderate,Ozone,Nevada
+2132,202031,White Pine,Northern,0,87.0,Moderate,Ozone,Nevada
+2133,202031,Yolo,Northern,0,46.0,Good,Ozone,California
+2134,202031,Kern,Upper Southern,0,119.0,Unhealthy for Sensitive Groups,Ozone,California
+2135,202031,Los Angeles,Upper Southern,0,187.0,Unhealthy,Ozone,California
+2136,202031,San Luis Obispo,Upper Southern,0,87.0,Moderate,Ozone,California
+2137,202031,Santa Barbara,Upper Southern,0,49.0,Good,Ozone,California
+2138,202031,Ventura,Upper Southern,0,97.0,Moderate,Ozone,California
+2139,202032,Alameda,Bay Area,0,52.0,Moderate,PM2.5,California
+2140,202032,Contra Costa,Bay Area,0,47.0,Good,PM2.5,California
+2141,202032,Marin,Bay Area,0,35.0,Good,PM2.5,California
+2142,202032,Napa,Bay Area,0,40.0,Good,PM2.5,California
+2143,202032,San Francisco,Bay Area,0,52.0,Moderate,PM2.5,California
+2144,202032,San Mateo,Bay Area,0,40.0,Good,PM2.5,California
+2145,202032,Santa Clara,Bay Area,0,48.0,Good,PM2.5,California
+2146,202032,Santa Cruz,Bay Area,0,36.0,Good,PM10,Arizona
+2147,202032,Solano,Bay Area,0,45.0,Good,PM2.5,California
+2148,202032,Sonoma,Bay Area,0,29.0,Good,PM2.5,California
+2149,202032,Calaveras,Central,0,58.0,Moderate,Ozone,California
+2150,202032,Fresno,Central,0,97.0,Moderate,Ozone,California
+2151,202032,Inyo,Central,0,105.0,Unhealthy for Sensitive Groups,Ozone,California
+2152,202032,Kings,Central,0,64.0,Moderate,Ozone,California
+2153,202032,Madera,Central,0,67.0,Moderate,Ozone,California
+2154,202032,Mariposa,Central,0,74.0,Moderate,Ozone,California
+2155,202032,Merced,Central,0,71.0,Moderate,Ozone,California
+2156,202032,Mono,Central,0,31.0,Good,PM2.5,California
+2157,202032,Monterey,Central,0,39.0,Good,PM2.5,California
+2158,202032,San Benito,Central,0,41.0,Good,Ozone,California
+2159,202032,San Joaquin,Central,0,52.0,Moderate,PM10,California
+2160,202032,Stanislaus,Central,0,61.0,Moderate,Ozone,California
+2161,202032,Tulare,Central,0,119.0,Unhealthy for Sensitive Groups,Ozone,California
+2162,202032,Tuolumne,Central,0,58.0,Moderate,Ozone,California
+2163,202032,Imperial,Lower Southern,0,97.0,Moderate,Ozone,California
+2164,202032,Orange,Lower Southern,0,58.0,Moderate,Ozone,Texas
+2165,202032,Riverside,Lower Southern,0,133.0,Unhealthy for Sensitive Groups,Ozone,California
+2166,202032,San Bernardino,Lower Southern,0,192.0,Unhealthy,Ozone,California
+2167,202032,San Diego,Lower Southern,0,90.0,Moderate,Ozone,California
+2168,202032,Amador,Northern,0,50.0,Good,Ozone,California
+2169,202032,Butte,Northern,0,64.0,Moderate,Ozone,California
+2170,202032,Carson City,Northern,0,49.0,Good,Ozone,Nevada
+2171,202032,Churchill,Northern,0,61.0,Moderate,Ozone,Nevada
+2172,202032,Clark,Northern,0,140.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+2173,202032,Colusa,Northern,0,44.0,Good,Ozone,California
+2174,202032,Del Norte,Northern,0,60.0,Moderate,PM2.5,California
+2175,202032,Douglas,Northern,0,119.0,Unhealthy for Sensitive Groups,Ozone,Colorado
+2176,202032,El Dorado,Northern,0,100.0,Moderate,Ozone,California
+2177,202032,Elko,Northern,0,43.0,Good,PM10,Nevada
+2178,202032,Glenn,Northern,0,47.0,Good,PM2.5,California
+2179,202032,Humboldt,Northern,0,43.0,Good,PM10,California
+2180,202032,Humboldt,Northern,0,43.0,Good,PM10,California
+2181,202032,Humboldt,Northern,0,43.0,Good,PM10,California
+2182,202032,Humboldt,Northern,0,43.0,Good,PM10,California
+2183,202032,Lake,Northern,0,80.0,Moderate,Ozone,Illinois
+2184,202032,Lake,Northern,0,80.0,Moderate,Ozone,Illinois
+2185,202032,Lake,Northern,0,80.0,Moderate,Ozone,Illinois
+2186,202032,Lake,Northern,0,80.0,Moderate,Ozone,Illinois
+2187,202032,Lincoln,Northern,0,64.0,Moderate,Ozone,Missouri
+2188,202032,Lyon,Northern,0,44.0,Good,Ozone,Nevada
+2189,202032,Mendocino,Northern,0,47.0,Good,PM2.5,California
+2190,202032,Nevada,Northern,0,77.0,Moderate,Ozone,California
+2191,202032,Nye,Northern,0,29.0,Good,PM10,Nevada
+2192,202032,Placer,Northern,0,87.0,Moderate,Ozone,California
+2193,202032,Plumas,Northern,0,44.0,Good,PM2.5,California
+2194,202032,Sacramento,Northern,0,90.0,Moderate,Ozone,California
+2195,202032,Shasta,Northern,0,46.0,Good,Ozone,California
+2196,202032,Siskiyou,Northern,0,43.0,Good,Ozone,California
+2197,202032,Sutter,Northern,0,58.0,Moderate,Ozone,California
+2198,202032,Tehama,Northern,0,61.0,Moderate,Ozone,California
+2199,202032,Trinity,Northern,0,58.0,Moderate,PM2.5,California
+2200,202032,Washoe,Northern,0,61.0,Moderate,Ozone,Nevada
+2201,202032,White Pine,Northern,0,100.0,Moderate,Ozone,Nevada
+2202,202032,Yolo,Northern,0,47.0,Good,Ozone,California
+2203,202032,Kern,Upper Southern,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+2204,202032,Los Angeles,Upper Southern,0,200.0,Unhealthy,Ozone,California
+2205,202032,San Luis Obispo,Upper Southern,0,50.0,Good,Ozone,California
+2206,202032,Santa Barbara,Upper Southern,0,45.0,Good,PM2.5,California
+2207,202032,Ventura,Upper Southern,0,84.0,Moderate,Ozone,California
+2208,202033,Alameda,Bay Area,0,71.0,Moderate,Ozone,California
+2209,202033,Contra Costa,Bay Area,0,90.0,Moderate,Ozone,California
+2210,202033,Marin,Bay Area,0,43.0,Good,PM2.5,California
+2211,202033,Napa,Bay Area,0,67.0,Moderate,Ozone,California
+2212,202033,San Francisco,Bay Area,0,53.0,Moderate,PM2.5,California
+2213,202033,San Mateo,Bay Area,0,49.0,Good,PM2.5,California
+2214,202033,Santa Clara,Bay Area,0,93.0,Moderate,Ozone,California
+2215,202033,Santa Cruz,Bay Area,0,53.0,Moderate,PM2.5,California
+2216,202033,Solano,Bay Area,0,80.0,Moderate,Ozone,California
+2217,202033,Sonoma,Bay Area,0,41.0,Good,PM2.5,California
+2218,202033,Calaveras,Central,0,97.0,Moderate,Ozone,California
+2219,202033,Fresno,Central,0,140.0,Unhealthy for Sensitive Groups,Ozone,California
+2220,202033,Inyo,Central,0,74.0,Moderate,Ozone,California
+2221,202033,Kings,Central,0,87.0,Moderate,Ozone,California
+2222,202033,Madera,Central,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+2223,202033,Mariposa,Central,0,105.0,Unhealthy for Sensitive Groups,Ozone,California
+2224,202033,Merced,Central,0,105.0,Unhealthy for Sensitive Groups,Ozone,California
+2225,202033,Mono,Central,0,27.0,Good,PM2.5,California
+2226,202033,Monterey,Central,0,46.0,Good,Ozone,California
+2227,202033,San Benito,Central,0,64.0,Moderate,Ozone,California
+2228,202033,San Joaquin,Central,0,74.0,Moderate,Ozone,California
+2229,202033,Stanislaus,Central,0,126.0,Unhealthy for Sensitive Groups,Ozone,California
+2230,202033,Tulare,Central,0,164.0,Unhealthy,Ozone,California
+2231,202033,Tuolumne,Central,0,67.0,Moderate,Ozone,California
+2232,202033,Imperial,Lower Southern,0,97.0,Moderate,Ozone,California
+2233,202033,Orange,Lower Southern,0,87.0,Moderate,Ozone,California
+2234,202033,Riverside,Lower Southern,0,209.0,Very Unhealthy,Ozone,California
+2235,202033,San Bernardino,Lower Southern,0,233.0,Very Unhealthy,Ozone,California
+2236,202033,San Diego,Lower Southern,0,129.0,Unhealthy for Sensitive Groups,Ozone,California
+2237,202033,Amador,Northern,0,77.0,Moderate,Ozone,California
+2238,202033,Butte,Northern,0,87.0,Moderate,Ozone,California
+2239,202033,Carson City,Northern,0,55.0,Moderate,PM2.5,Nevada
+2240,202033,Churchill,Northern,0,46.0,Good,Ozone,Nevada
+2241,202033,Clark,Northern,0,87.0,Moderate,Ozone,Nevada
+2242,202033,Colusa,Northern,0,42.0,Good,Ozone,California
+2243,202033,Del Norte,Northern,0,65.0,Moderate,PM2.5,California
+2244,202033,Douglas,Northern,0,112.0,Unhealthy for Sensitive Groups,Ozone,Colorado
+2245,202033,El Dorado,Northern,0,100.0,Moderate,Ozone,California
+2246,202033,Elko,Northern,0,55.0,Moderate,PM10,Nevada
+2247,202033,Glenn,Northern,0,48.0,Good,Ozone,California
+2248,202033,Humboldt,Northern,0,40.0,Good,PM2.5,California
+2249,202033,Humboldt,Northern,0,40.0,Good,PM2.5,California
+2250,202033,Humboldt,Northern,0,40.0,Good,PM2.5,California
+2251,202033,Humboldt,Northern,0,40.0,Good,PM2.5,California
+2252,202033,Lake,Northern,0,115.0,Unhealthy for Sensitive Groups,Ozone,Ohio
+2253,202033,Lake,Northern,0,115.0,Unhealthy for Sensitive Groups,Ozone,Ohio
+2254,202033,Lake,Northern,0,115.0,Unhealthy for Sensitive Groups,Ozone,Ohio
+2255,202033,Lake,Northern,0,115.0,Unhealthy for Sensitive Groups,Ozone,Ohio
+2256,202033,Lincoln,Northern,0,46.0,Good,Ozone,Missouri
+2257,202033,Lyon,Northern,0,65.0,Moderate,PM10,Nevada
+2258,202033,Mendocino,Northern,0,43.0,Good,Ozone,California
+2259,202033,Nevada,Northern,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+2260,202033,Nye,Northern,0,31.0,Good,PM10,Nevada
+2261,202033,Placer,Northern,0,126.0,Unhealthy for Sensitive Groups,Ozone,California
+2262,202033,Plumas,Northern,0,31.0,Good,PM2.5,California
+2263,202033,Sacramento,Northern,0,90.0,Moderate,Ozone,California
+2264,202033,Shasta,Northern,0,54.0,Moderate,Ozone,California
+2265,202033,Siskiyou,Northern,0,54.0,Moderate,PM2.5,California
+2266,202033,Sutter,Northern,0,71.0,Moderate,Ozone,California
+2267,202033,Tehama,Northern,0,77.0,Moderate,Ozone,California
+2268,202033,Trinity,Northern,0,76.0,Moderate,PM2.5,California
+2269,202033,Washoe,Northern,0,108.0,Unhealthy for Sensitive Groups,PM2.5,Nevada
+2270,202033,White Pine,Northern,0,61.0,Moderate,Ozone,Nevada
+2271,202033,Yolo,Northern,0,58.0,Moderate,Ozone,California
+2272,202033,Kern,Upper Southern,0,151.0,Unhealthy,Ozone,California
+2273,202033,Los Angeles,Upper Southern,0,220.0,Very Unhealthy,Ozone,California
+2274,202033,San Luis Obispo,Upper Southern,0,71.0,Moderate,Ozone,California
+2275,202033,Santa Barbara,Upper Southern,0,71.0,Moderate,Ozone,California
+2276,202033,Ventura,Upper Southern,0,67.0,Moderate,Ozone,California
+2277,202034,Alameda,Bay Area,0,174.0,Unhealthy,PM2.5,California
+2278,202034,Contra Costa,Bay Area,0,164.0,Unhealthy,PM2.5,California
+2279,202034,Marin,Bay Area,0,114.0,Unhealthy for Sensitive Groups,PM2.5,California
+2280,202034,Napa,Bay Area,0,140.0,Unhealthy for Sensitive Groups,PM2.5,California
+2281,202034,San Francisco,Bay Area,0,111.0,Unhealthy for Sensitive Groups,PM2.5,California
+2282,202034,San Mateo,Bay Area,0,141.0,Unhealthy for Sensitive Groups,PM2.5,California
+2283,202034,Santa Clara,Bay Area,0,166.0,Unhealthy,PM2.5,California
+2284,202034,Santa Cruz,Bay Area,0,426.0,Hazardous,PM2.5,California
+2285,202034,Solano,Bay Area,0,186.0,Unhealthy,PM10,California
+2286,202034,Sonoma,Bay Area,0,97.0,Moderate,PM2.5,California
+2287,202034,Calaveras,Central,0,192.0,Unhealthy,PM2.5,California
+2288,202034,Fresno,Central,0,229.0,Very Unhealthy,PM2.5,California
+2289,202034,Inyo,Central,0,157.0,Unhealthy,PM2.5,California
+2290,202034,Kings,Central,0,198.0,Unhealthy,PM2.5,California
+2291,202034,Madera,Central,0,194.0,Unhealthy,PM2.5,California
+2292,202034,Mariposa,Central,0,187.0,Unhealthy,Ozone,California
+2293,202034,Merced,Central,0,183.0,Unhealthy,PM2.5,California
+2294,202034,Mono,Central,0,155.0,Unhealthy,PM2.5,California
+2295,202034,Monterey,Central,0,250.0,Very Unhealthy,PM2.5,California
+2296,202034,San Benito,Central,0,166.0,Unhealthy,PM2.5,California
+2297,202034,San Joaquin,Central,0,178.0,Unhealthy,PM2.5,California
+2298,202034,Stanislaus,Central,0,178.0,Unhealthy,PM2.5,California
+2299,202034,Tulare,Central,0,209.0,Very Unhealthy,Ozone,California
+2300,202034,Tuolumne,Central,0,143.0,Unhealthy for Sensitive Groups,Ozone,California
+2301,202034,Imperial,Lower Southern,0,111.0,Unhealthy for Sensitive Groups,PM10,California
+2302,202034,Orange,Lower Southern,0,195.0,Unhealthy,Ozone,California
+2303,202034,Riverside,Lower Southern,0,210.0,Very Unhealthy,Ozone,California
+2304,202034,San Bernardino,Lower Southern,0,236.0,Very Unhealthy,Ozone,California
+2305,202034,San Diego,Lower Southern,0,140.0,Unhealthy for Sensitive Groups,Ozone,California
+2306,202034,Amador,Northern,0,156.0,Unhealthy,Ozone,California
+2307,202034,Butte,Northern,0,192.0,Unhealthy,PM2.5,California
+2308,202034,Carson City,Northern,0,171.0,Unhealthy,PM2.5,Nevada
+2309,202034,Churchill,Northern,0,147.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+2310,202034,Clark,Northern,0,140.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+2311,202034,Colusa,Northern,0,179.0,Unhealthy,PM2.5,California
+2312,202034,Del Norte,Northern,0,20.0,Good,PM2.5,California
+2313,202034,Douglas,Northern,0,166.0,Unhealthy,PM2.5,Nevada
+2314,202034,El Dorado,Northern,0,190.0,Unhealthy,Ozone,California
+2315,202034,Elko,Northern,0,154.0,Unhealthy,PM2.5,Nevada
+2316,202034,Glenn,Northern,0,184.0,Unhealthy,PM2.5,California
+2317,202034,Humboldt,Northern,0,23.0,Good,Ozone,California
+2318,202034,Humboldt,Northern,0,23.0,Good,Ozone,California
+2319,202034,Humboldt,Northern,0,23.0,Good,Ozone,California
+2320,202034,Humboldt,Northern,0,23.0,Good,Ozone,California
+2321,202034,Lake,Northern,0,143.0,Unhealthy for Sensitive Groups,PM2.5,Oregon
+2322,202034,Lake,Northern,0,143.0,Unhealthy for Sensitive Groups,PM2.5,Oregon
+2323,202034,Lake,Northern,0,143.0,Unhealthy for Sensitive Groups,PM2.5,Oregon
+2324,202034,Lake,Northern,0,143.0,Unhealthy for Sensitive Groups,PM2.5,Oregon
+2325,202034,Lincoln,Northern,0,71.0,Moderate,PM10,Wyoming
+2326,202034,Lyon,Northern,0,119.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+2327,202034,Mendocino,Northern,0,106.0,Unhealthy for Sensitive Groups,PM2.5,California
+2328,202034,Nevada,Northern,0,218.0,Very Unhealthy,Ozone,California
+2329,202034,Nye,Northern,0,69.0,Moderate,PM10,Nevada
+2330,202034,Placer,Northern,0,222.0,Very Unhealthy,PM2.5,California
+2331,202034,Plumas,Northern,0,207.0,Very Unhealthy,PM2.5,California
+2332,202034,Sacramento,Northern,0,173.0,Unhealthy,PM2.5,California
+2333,202034,Shasta,Northern,0,141.0,Unhealthy for Sensitive Groups,PM2.5,California
+2334,202034,Siskiyou,Northern,0,153.0,Unhealthy,PM2.5,California
+2335,202034,Sutter,Northern,0,190.0,Unhealthy,PM2.5,California
+2336,202034,Tehama,Northern,0,181.0,Unhealthy,PM2.5,California
+2337,202034,Trinity,Northern,0,160.0,Unhealthy,PM2.5,California
+2338,202034,Washoe,Northern,0,164.0,Unhealthy,PM2.5,Nevada
+2339,202034,White Pine,Northern,0,136.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+2340,202034,Yolo,Northern,0,166.0,Unhealthy,PM2.5,California
+2341,202034,Kern,Upper Southern,0,210.0,Very Unhealthy,PM2.5,California
+2342,202034,Los Angeles,Upper Southern,0,222.0,Very Unhealthy,Ozone,California
+2343,202034,San Luis Obispo,Upper Southern,0,292.0,Very Unhealthy,PM2.5,California
+2344,202034,Santa Barbara,Upper Southern,0,150.0,Unhealthy for Sensitive Groups,Ozone,California
+2345,202034,Ventura,Upper Southern,0,151.0,Unhealthy,Ozone,California
+2346,202035,Alameda,Bay Area,0,156.0,Unhealthy,PM2.5,California
+2347,202035,Contra Costa,Bay Area,0,158.0,Unhealthy,PM2.5,California
+2348,202035,Marin,Bay Area,0,77.0,Moderate,PM2.5,California
+2349,202035,Napa,Bay Area,0,128.0,Unhealthy for Sensitive Groups,PM2.5,California
+2350,202035,San Francisco,Bay Area,0,96.0,Moderate,PM2.5,California
+2351,202035,San Mateo,Bay Area,0,113.0,Unhealthy for Sensitive Groups,PM2.5,California
+2352,202035,Santa Clara,Bay Area,0,125.0,Unhealthy for Sensitive Groups,PM2.5,California
+2353,202035,Santa Cruz,Bay Area,0,210.0,Very Unhealthy,PM2.5,California
+2354,202035,Solano,Bay Area,0,142.0,Unhealthy for Sensitive Groups,PM2.5,California
+2355,202035,Sonoma,Bay Area,0,75.0,Moderate,PM2.5,California
+2356,202035,Calaveras,Central,0,167.0,Unhealthy,PM2.5,California
+2357,202035,Fresno,Central,0,177.0,Unhealthy,Ozone,California
+2358,202035,Inyo,Central,0,131.0,Unhealthy for Sensitive Groups,PM2.5,California
+2359,202035,Kings,Central,0,178.0,Unhealthy,PM2.5,California
+2360,202035,Madera,Central,0,174.0,Unhealthy,PM2.5,California
+2361,202035,Mariposa,Central,0,187.0,Unhealthy,Ozone,California
+2362,202035,Merced,Central,0,162.0,Unhealthy,PM2.5,California
+2363,202035,Mono,Central,0,121.0,Unhealthy for Sensitive Groups,PM2.5,California
+2364,202035,Monterey,Central,0,99.0,Moderate,PM2.5,California
+2365,202035,San Benito,Central,0,108.0,Unhealthy for Sensitive Groups,PM2.5,California
+2366,202035,San Joaquin,Central,0,183.0,Unhealthy,PM2.5,California
+2367,202035,Stanislaus,Central,0,174.0,Unhealthy,PM2.5,California
+2368,202035,Tulare,Central,0,174.0,Unhealthy,Ozone,California
+2369,202035,Tuolumne,Central,0,133.0,Unhealthy for Sensitive Groups,Ozone,California
+2370,202035,Imperial,Lower Southern,0,119.0,Unhealthy for Sensitive Groups,Ozone,California
+2371,202035,Orange,Lower Southern,0,71.0,Moderate,Ozone,California
+2372,202035,Riverside,Lower Southern,0,147.0,Unhealthy for Sensitive Groups,Ozone,California
+2373,202035,San Bernardino,Lower Southern,0,164.0,Unhealthy,Ozone,California
+2374,202035,San Diego,Lower Southern,0,90.0,Moderate,PM2.5,California
+2375,202035,Amador,Northern,0,74.0,Moderate,Ozone,California
+2376,202035,Butte,Northern,0,167.0,Unhealthy,PM2.5,California
+2377,202035,Carson City,Northern,0,115.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+2378,202035,Churchill,Northern,0,71.0,Moderate,Ozone,Nevada
+2379,202035,Clark,Northern,0,93.0,Moderate,Ozone,Nevada
+2380,202035,Colusa,Northern,0,172.0,Unhealthy,PM2.5,California
+2381,202035,Del Norte,Northern,0,52.0,Moderate,PM2.5,California
+2382,202035,Douglas,Northern,0,143.0,Unhealthy for Sensitive Groups,Ozone,Colorado
+2383,202035,El Dorado,Northern,0,126.0,Unhealthy for Sensitive Groups,Ozone,California
+2384,202035,Elko,Northern,0,55.0,Moderate,PM2.5,Nevada
+2385,202035,Glenn,Northern,0,160.0,Unhealthy,PM2.5,California
+2386,202035,Humboldt,Northern,0,38.0,Good,PM10,California
+2387,202035,Humboldt,Northern,0,38.0,Good,PM10,California
+2388,202035,Humboldt,Northern,0,38.0,Good,PM10,California
+2389,202035,Humboldt,Northern,0,38.0,Good,PM10,California
+2390,202035,Lake,Northern,0,180.0,Unhealthy,PM2.5,California
+2391,202035,Lake,Northern,0,180.0,Unhealthy,PM2.5,California
+2392,202035,Lake,Northern,0,180.0,Unhealthy,PM2.5,California
+2393,202035,Lake,Northern,0,180.0,Unhealthy,PM2.5,California
+2394,202035,Lincoln,Northern,0,53.0,Moderate,PM2.5,Montana
+2395,202035,Lyon,Northern,0,90.0,Moderate,Ozone,Nevada
+2396,202035,Mendocino,Northern,0,178.0,Unhealthy,PM2.5,California
+2397,202035,Nevada,Northern,0,169.0,Unhealthy,PM2.5,California
+2398,202035,Nye,Northern,0,29.0,Good,PM10,Nevada
+2399,202035,Placer,Northern,0,175.0,Unhealthy,PM2.5,California
+2400,202035,Plumas,Northern,0,327.0,Hazardous,PM2.5,California
+2401,202035,Sacramento,Northern,0,171.0,Unhealthy,PM2.5,California
+2402,202035,Shasta,Northern,0,133.0,Unhealthy for Sensitive Groups,PM2.5,California
+2403,202035,Siskiyou,Northern,0,155.0,Unhealthy,PM2.5,California
+2404,202035,Sutter,Northern,0,166.0,Unhealthy,PM2.5,California
+2405,202035,Tehama,Northern,0,166.0,Unhealthy,PM2.5,California
+2406,202035,Trinity,Northern,0,156.0,Unhealthy,PM2.5,California
+2407,202035,Washoe,Northern,0,146.0,Unhealthy for Sensitive Groups,PM2.5,Nevada
+2408,202035,White Pine,Northern,0,74.0,Moderate,Ozone,Nevada
+2409,202035,Yolo,Northern,0,147.0,Unhealthy for Sensitive Groups,PM2.5,California
+2410,202035,Kern,Upper Southern,0,159.0,Unhealthy,Ozone,California
+2411,202035,Los Angeles,Upper Southern,0,129.0,Unhealthy for Sensitive Groups,Ozone,California
+2412,202035,San Luis Obispo,Upper Southern,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+2413,202035,Santa Barbara,Upper Southern,0,55.0,Moderate,PM2.5,California
+2414,202035,Ventura,Upper Southern,0,71.0,Moderate,Ozone,California
+2415,202036,Alameda,Bay Area,0,166.0,Unhealthy,Ozone,California
+2416,202036,Contra Costa,Bay Area,0,128.0,Unhealthy for Sensitive Groups,PM2.5,California
+2417,202036,Marin,Bay Area,0,80.0,Moderate,Ozone,California
+2418,202036,Napa,Bay Area,0,122.0,Unhealthy for Sensitive Groups,Ozone,California
+2419,202036,San Francisco,Bay Area,0,94.0,Moderate,PM2.5,California
+2420,202036,San Mateo,Bay Area,0,122.0,Unhealthy for Sensitive Groups,Ozone,California
+2421,202036,Santa Clara,Bay Area,0,154.0,Unhealthy,Ozone,California
+2422,202036,Santa Cruz,Bay Area,0,123.0,Unhealthy for Sensitive Groups,PM2.5,California
+2423,202036,Solano,Bay Area,0,136.0,Unhealthy for Sensitive Groups,Ozone,California
+2424,202036,Sonoma,Bay Area,0,58.0,Moderate,PM2.5,California
+2425,202036,Calaveras,Central,0,110.0,Unhealthy for Sensitive Groups,PM2.5,California
+2426,202036,Fresno,Central,0,154.0,Unhealthy,Ozone,California
+2427,202036,Inyo,Central,0,247.0,Very Unhealthy,PM2.5,California
+2428,202036,Kings,Central,0,147.0,Unhealthy for Sensitive Groups,Ozone,California
+2429,202036,Madera,Central,0,174.0,Unhealthy,Ozone,California
+2430,202036,Mariposa,Central,0,126.0,Unhealthy for Sensitive Groups,Ozone,California
+2431,202036,Merced,Central,0,154.0,Unhealthy,Ozone,California
+2432,202036,Mono,Central,0,249.0,Very Unhealthy,PM2.5,California
+2433,202036,Monterey,Central,0,81.0,Moderate,PM2.5,California
+2434,202036,San Benito,Central,0,108.0,Unhealthy for Sensitive Groups,Ozone,California
+2435,202036,San Joaquin,Central,0,149.0,Unhealthy for Sensitive Groups,PM2.5,California
+2436,202036,Stanislaus,Central,0,135.0,Unhealthy for Sensitive Groups,PM2.5,California
+2437,202036,Tulare,Central,0,172.0,Unhealthy,Ozone,California
+2438,202036,Tuolumne,Central,0,97.0,Moderate,Ozone,California
+2439,202036,Imperial,Lower Southern,0,154.0,Unhealthy,Ozone,California
+2440,202036,Orange,Lower Southern,0,218.0,Very Unhealthy,Ozone,California
+2441,202036,Riverside,Lower Southern,0,213.0,Very Unhealthy,Ozone,California
+2442,202036,San Bernardino,Lower Southern,0,230.0,Very Unhealthy,Ozone,California
+2443,202036,San Diego,Lower Southern,0,192.0,Unhealthy,Ozone,California
+2444,202036,Amador,Northern,0,115.0,Unhealthy for Sensitive Groups,Ozone,California
+2445,202036,Butte,Northern,0,155.0,Unhealthy,PM2.5,California
+2446,202036,Carson City,Northern,0,123.0,Unhealthy for Sensitive Groups,PM2.5,Nevada
+2447,202036,Churchill,Northern,0,48.0,Good,Ozone,Nevada
+2448,202036,Clark,Northern,0,115.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+2449,202036,Colusa,Northern,0,184.0,Unhealthy,PM2.5,California
+2450,202036,Del Norte,Northern,0,82.0,Moderate,PM2.5,California
+2451,202036,Douglas,Northern,0,126.0,Unhealthy for Sensitive Groups,PM2.5,Nevada
+2452,202036,El Dorado,Northern,0,133.0,Unhealthy for Sensitive Groups,Ozone,California
+2453,202036,Elko,Northern,0,98.0,Moderate,PM2.5,Nevada
+2454,202036,Glenn,Northern,0,176.0,Unhealthy,PM2.5,California
+2455,202036,Humboldt,Northern,0,54.0,Moderate,PM2.5,California
+2456,202036,Humboldt,Northern,0,54.0,Moderate,PM2.5,California
+2457,202036,Humboldt,Northern,0,54.0,Moderate,PM2.5,California
+2458,202036,Humboldt,Northern,0,54.0,Moderate,PM2.5,California
+2459,202036,Lake,Northern,0,157.0,Unhealthy,PM2.5,California
+2460,202036,Lake,Northern,0,157.0,Unhealthy,PM2.5,California
+2461,202036,Lake,Northern,0,157.0,Unhealthy,PM2.5,California
+2462,202036,Lake,Northern,0,157.0,Unhealthy,PM2.5,California
+2463,202036,Lincoln,Northern,0,59.0,Moderate,PM2.5,Montana
+2464,202036,Lyon,Northern,0,78.0,Moderate,PM10,Nevada
+2465,202036,Mendocino,Northern,0,149.0,Unhealthy for Sensitive Groups,PM2.5,California
+2466,202036,Nevada,Northern,0,159.0,Unhealthy,PM2.5,California
+2467,202036,Nye,Northern,0,35.0,Good,PM10,Nevada
+2468,202036,Placer,Northern,0,161.0,Unhealthy,PM2.5,California
+2469,202036,Plumas,Northern,0,293.0,Very Unhealthy,PM2.5,California
+2470,202036,Sacramento,Northern,0,155.0,Unhealthy,PM2.5,California
+2471,202036,Shasta,Northern,0,126.0,Unhealthy for Sensitive Groups,Ozone,California
+2472,202036,Siskiyou,Northern,0,150.0,Unhealthy for Sensitive Groups,PM2.5,California
+2473,202036,Sutter,Northern,0,139.0,Unhealthy for Sensitive Groups,PM2.5,California
+2474,202036,Tehama,Northern,0,155.0,Unhealthy,PM2.5,California
+2475,202036,Trinity,Northern,0,128.0,Unhealthy for Sensitive Groups,PM2.5,California
+2476,202036,Washoe,Northern,0,112.0,Unhealthy for Sensitive Groups,PM2.5,Nevada
+2477,202036,White Pine,Northern,0,55.0,Moderate,PM2.5,Nevada
+2478,202036,Yolo,Northern,0,159.0,Unhealthy,PM2.5,California
+2479,202036,Kern,Upper Southern,0,190.0,Unhealthy,Ozone,California
+2480,202036,Los Angeles,Upper Southern,0,235.0,Very Unhealthy,Ozone,California
+2481,202036,San Luis Obispo,Upper Southern,0,119.0,Unhealthy for Sensitive Groups,Ozone,California
+2482,202036,Santa Barbara,Upper Southern,0,90.0,Moderate,Ozone,California
+2483,202036,Ventura,Upper Southern,0,150.0,Unhealthy for Sensitive Groups,Ozone,California
+2484,202037,Alameda,Bay Area,0,218.0,Very Unhealthy,PM2.5,California
+2485,202037,Contra Costa,Bay Area,0,197.0,Unhealthy,PM2.5,California
+2486,202037,Marin,Bay Area,0,206.0,Very Unhealthy,PM2.5,California
+2487,202037,Napa,Bay Area,0,170.0,Unhealthy,PM2.5,California
+2488,202037,San Francisco,Bay Area,0,198.0,Unhealthy,PM2.5,California
+2489,202037,San Mateo,Bay Area,0,186.0,Unhealthy,PM2.5,California
+2490,202037,Santa Clara,Bay Area,0,186.0,Unhealthy,PM2.5,California
+2491,202037,Santa Cruz,Bay Area,0,167.0,Unhealthy,PM2.5,California
+2492,202037,Solano,Bay Area,0,204.0,Very Unhealthy,PM2.5,California
+2493,202037,Sonoma,Bay Area,0,187.0,Unhealthy,PM2.5,California
+2494,202037,Calaveras,Central,0,176.0,Unhealthy,PM2.5,California
+2495,202037,Fresno,Central,0,298.0,Very Unhealthy,PM2.5,California
+2496,202037,Inyo,Central,0,684.0,Hazardous,PM10,California
+2497,202037,Kings,Central,0,543.0,Hazardous,PM10,California
+2498,202037,Madera,Central,0,227.0,Very Unhealthy,PM10,California
+2499,202037,Mariposa,Central,0,314.0,Hazardous,PM2.5,California
+2500,202037,Merced,Central,0,183.0,Unhealthy,PM2.5,California
+2501,202037,Mono,Central,0,786.0,Hazardous,PM10,California
+2502,202037,Monterey,Central,0,171.0,Unhealthy,PM2.5,California
+2503,202037,San Benito,Central,0,157.0,Unhealthy,PM2.5,California
+2504,202037,San Joaquin,Central,0,195.0,Unhealthy,PM2.5,California
+2505,202037,Stanislaus,Central,0,189.0,Unhealthy,PM10,California
+2506,202037,Tulare,Central,0,181.0,Unhealthy,PM10,California
+2507,202037,Tuolumne,Central,0,71.0,Moderate,Ozone,California
+2508,202037,Imperial,Lower Southern,0,82.0,Moderate,PM10,California
+2509,202037,Orange,Lower Southern,0,126.0,Unhealthy for Sensitive Groups,PM2.5,California
+2510,202037,Riverside,Lower Southern,0,174.0,Unhealthy,Ozone,California
+2511,202037,San Bernardino,Lower Southern,0,201.0,Very Unhealthy,Ozone,California
+2512,202037,San Diego,Lower Southern,0,161.0,Unhealthy,PM2.5,California
+2513,202037,Amador,Northern,0,54.0,Moderate,Ozone,California
+2514,202037,Butte,Northern,0,379.0,Hazardous,PM2.5,California
+2515,202037,Carson City,Northern,0,160.0,Unhealthy,PM2.5,Nevada
+2516,202037,Churchill,Northern,0,67.0,Moderate,Ozone,Nevada
+2517,202037,Clark,Northern,0,509.0,Hazardous,PM2.5,Washington
+2518,202037,Colusa,Northern,0,198.0,Unhealthy,PM2.5,California
+2519,202037,Del Norte,Northern,0,220.0,Very Unhealthy,PM2.5,California
+2520,202037,Douglas,Northern,0,518.0,Hazardous,PM2.5,Oregon
+2521,202037,El Dorado,Northern,0,124.0,Unhealthy for Sensitive Groups,PM10,California
+2522,202037,Elko,Northern,0,81.0,Moderate,PM10,Nevada
+2523,202037,Glenn,Northern,0,197.0,Unhealthy,PM2.5,California
+2524,202037,Humboldt,Northern,0,109.0,Unhealthy for Sensitive Groups,PM10,California
+2525,202037,Humboldt,Northern,0,109.0,Unhealthy for Sensitive Groups,PM10,California
+2526,202037,Humboldt,Northern,0,109.0,Unhealthy for Sensitive Groups,PM10,California
+2527,202037,Humboldt,Northern,0,109.0,Unhealthy for Sensitive Groups,PM10,California
+2528,202037,Lake,Northern,0,165.0,Unhealthy,PM10,Oregon
+2529,202037,Lake,Northern,0,165.0,Unhealthy,PM10,Oregon
+2530,202037,Lake,Northern,0,165.0,Unhealthy,PM10,Oregon
+2531,202037,Lake,Northern,0,165.0,Unhealthy,PM10,Oregon
+2532,202037,Lincoln,Northern,0,327.0,Hazardous,PM2.5,Montana
+2533,202037,Lyon,Northern,0,149.0,Unhealthy for Sensitive Groups,PM10,Nevada
+2534,202037,Mendocino,Northern,0,456.0,Hazardous,PM2.5,California
+2535,202037,Nevada,Northern,0,252.0,Very Unhealthy,PM2.5,California
+2536,202037,Nye,Northern,0,200.0,Unhealthy,PM10,Nevada
+2537,202037,Placer,Northern,0,218.0,Very Unhealthy,PM2.5,California
+2538,202037,Plumas,Northern,0,469.0,Hazardous,PM2.5,California
+2539,202037,Sacramento,Northern,0,200.0,Unhealthy,PM2.5,California
+2540,202037,Shasta,Northern,0,166.0,Unhealthy,PM2.5,California
+2541,202037,Siskiyou,Northern,0,359.0,Hazardous,PM2.5,California
+2542,202037,Sutter,Northern,0,303.0,Hazardous,PM2.5,California
+2543,202037,Tehama,Northern,0,196.0,Unhealthy,PM2.5,California
+2544,202037,Trinity,Northern,0,193.0,Unhealthy,PM2.5,California
+2545,202037,Washoe,Northern,0,240.0,Very Unhealthy,PM2.5,Nevada
+2546,202037,White Pine,Northern,0,77.0,Moderate,Ozone,Nevada
+2547,202037,Yolo,Northern,0,192.0,Unhealthy,PM2.5,California
+2548,202037,Kern,Upper Southern,0,267.0,Very Unhealthy,PM10,California
+2549,202037,Los Angeles,Upper Southern,0,199.0,Unhealthy,PM2.5,California
+2550,202037,San Luis Obispo,Upper Southern,0,158.0,Unhealthy,PM2.5,California
+2551,202037,Santa Barbara,Upper Southern,0,156.0,Unhealthy,PM2.5,California
+2552,202037,Ventura,Upper Southern,0,122.0,Unhealthy for Sensitive Groups,PM2.5,California
+2553,202038,Alameda,Bay Area,0,183.0,Unhealthy,PM2.5,California
+2554,202038,Contra Costa,Bay Area,0,177.0,Unhealthy,PM2.5,California
+2555,202038,Marin,Bay Area,0,167.0,Unhealthy,PM2.5,California
+2556,202038,Napa,Bay Area,0,169.0,Unhealthy,PM2.5,California
+2557,202038,San Francisco,Bay Area,0,180.0,Unhealthy,PM2.5,California
+2558,202038,San Mateo,Bay Area,0,182.0,Unhealthy,PM2.5,California
+2559,202038,Santa Clara,Bay Area,0,181.0,Unhealthy,PM2.5,California
+2560,202038,Santa Cruz,Bay Area,0,169.0,Unhealthy,PM2.5,California
+2561,202038,Solano,Bay Area,0,173.0,Unhealthy,PM2.5,California
+2562,202038,Sonoma,Bay Area,0,161.0,Unhealthy,PM2.5,California
+2563,202038,Calaveras,Central,0,179.0,Unhealthy,PM2.5,California
+2564,202038,Fresno,Central,0,290.0,Very Unhealthy,PM10,California
+2565,202038,Inyo,Central,0,420.0,Hazardous,PM2.5,California
+2566,202038,Kings,Central,0,183.0,Unhealthy,PM2.5,California
+2567,202038,Madera,Central,0,250.0,Very Unhealthy,PM2.5,California
+2568,202038,Mariposa,Central,0,618.0,Hazardous,PM10,California
+2569,202038,Merced,Central,0,169.0,Unhealthy,PM2.5,California
+2570,202038,Mono,Central,0,1349.0,Hazardous,PM10,California
+2571,202038,Monterey,Central,0,167.0,Unhealthy,PM2.5,California
+2572,202038,San Benito,Central,0,168.0,Unhealthy,PM2.5,California
+2573,202038,San Joaquin,Central,0,177.0,Unhealthy,PM2.5,California
+2574,202038,Stanislaus,Central,0,174.0,Unhealthy,PM2.5,California
+2575,202038,Tulare,Central,0,181.0,Unhealthy,PM2.5,California
+2576,202038,Tuolumne,Central,0,93.0,Moderate,Ozone,California
+2577,202038,Imperial,Lower Southern,0,120.0,Unhealthy for Sensitive Groups,PM10,California
+2578,202038,Orange,Lower Southern,0,152.0,Unhealthy,PM2.5,California
+2579,202038,Riverside,Lower Southern,0,172.0,Unhealthy,Ozone,California
+2580,202038,San Bernardino,Lower Southern,0,203.0,Very Unhealthy,Ozone,California
+2581,202038,San Diego,Lower Southern,0,172.0,Unhealthy,PM2.5,California
+2582,202038,Amador,Northern,0,77.0,Moderate,Ozone,California
+2583,202038,Butte,Northern,0,220.0,Very Unhealthy,PM2.5,California
+2584,202038,Carson City,Northern,0,192.0,Unhealthy,PM2.5,Nevada
+2585,202038,Churchill,Northern,0,49.0,Good,Ozone,Nevada
+2586,202038,Clark,Northern,0,498.0,Hazardous,PM2.5,Washington
+2587,202038,Colusa,Northern,0,165.0,Unhealthy,PM2.5,California
+2588,202038,Del Norte,Northern,0,55.0,Moderate,PM2.5,California
+2589,202038,Douglas,Northern,0,390.0,Hazardous,PM2.5,Oregon
+2590,202038,El Dorado,Northern,0,158.0,Unhealthy,PM2.5,California
+2591,202038,Elko,Northern,0,84.0,Moderate,PM2.5,Nevada
+2592,202038,Glenn,Northern,0,179.0,Unhealthy,PM2.5,California
+2593,202038,Humboldt,Northern,0,61.0,Moderate,PM10,California
+2594,202038,Humboldt,Northern,0,61.0,Moderate,PM10,California
+2595,202038,Humboldt,Northern,0,61.0,Moderate,PM10,California
+2596,202038,Humboldt,Northern,0,61.0,Moderate,PM10,California
+2597,202038,Lake,Northern,0,174.0,Unhealthy,PM2.5,Montana
+2598,202038,Lake,Northern,0,174.0,Unhealthy,PM2.5,Montana
+2599,202038,Lake,Northern,0,174.0,Unhealthy,PM2.5,Montana
+2600,202038,Lake,Northern,0,174.0,Unhealthy,PM2.5,Montana
+2601,202038,Lincoln,Northern,0,298.0,Very Unhealthy,PM2.5,Montana
+2602,202038,Lyon,Northern,0,331.0,Hazardous,PM10,Nevada
+2603,202038,Mendocino,Northern,0,155.0,Unhealthy,PM2.5,California
+2604,202038,Nevada,Northern,0,166.0,Unhealthy,PM2.5,California
+2605,202038,Nye,Northern,0,56.0,Moderate,PM10,Nevada
+2606,202038,Placer,Northern,0,172.0,Unhealthy,PM2.5,California
+2607,202038,Plumas,Northern,0,202.0,Very Unhealthy,PM2.5,California
+2608,202038,Sacramento,Northern,0,169.0,Unhealthy,PM2.5,California
+2609,202038,Shasta,Northern,0,129.0,Unhealthy for Sensitive Groups,Ozone,California
+2610,202038,Siskiyou,Northern,0,200.0,Unhealthy,PM2.5,California
+2611,202038,Sutter,Northern,0,167.0,Unhealthy,PM2.5,California
+2612,202038,Tehama,Northern,0,194.0,Unhealthy,PM2.5,California
+2613,202038,Trinity,Northern,0,167.0,Unhealthy,PM2.5,California
+2614,202038,Washoe,Northern,0,178.0,Unhealthy,PM2.5,Nevada
+2615,202038,White Pine,Northern,0,74.0,Moderate,Ozone,Nevada
+2616,202038,Yolo,Northern,0,168.0,Unhealthy,PM2.5,California
+2617,202038,Kern,Upper Southern,0,172.0,Unhealthy,Ozone,California
+2618,202038,Los Angeles,Upper Southern,0,197.0,Unhealthy,Ozone,California
+2619,202038,San Luis Obispo,Upper Southern,0,181.0,Unhealthy,PM2.5,California
+2620,202038,Santa Barbara,Upper Southern,0,168.0,Unhealthy,PM2.5,California
+2621,202038,Ventura,Upper Southern,0,153.0,Unhealthy,PM2.5,California
+2622,202039,Alameda,Bay Area,0,66.0,Moderate,PM2.5,California
+2623,202039,Contra Costa,Bay Area,0,66.0,Moderate,PM2.5,California
+2624,202039,Marin,Bay Area,0,59.0,Moderate,PM2.5,California
+2625,202039,Napa,Bay Area,0,68.0,Moderate,PM2.5,California
+2626,202039,San Francisco,Bay Area,0,63.0,Moderate,PM2.5,California
+2627,202039,San Mateo,Bay Area,0,55.0,Moderate,PM2.5,California
+2628,202039,Santa Clara,Bay Area,0,66.0,Moderate,PM2.5,California
+2629,202039,Santa Cruz,Bay Area,0,81.0,Moderate,PM2.5,Arizona
+2630,202039,Solano,Bay Area,0,56.0,Moderate,PM2.5,California
+2631,202039,Sonoma,Bay Area,0,63.0,Moderate,PM2.5,California
+2632,202039,Calaveras,Central,0,50.0,Good,Ozone,California
+2633,202039,Fresno,Central,0,174.0,Unhealthy,PM2.5,California
+2634,202039,Inyo,Central,0,311.0,Hazardous,PM2.5,California
+2635,202039,Kings,Central,0,129.0,Unhealthy for Sensitive Groups,PM2.5,California
+2636,202039,Madera,Central,0,125.0,Unhealthy for Sensitive Groups,PM2.5,California
+2637,202039,Mariposa,Central,0,210.0,Very Unhealthy,PM2.5,California
+2638,202039,Merced,Central,0,100.0,Moderate,Ozone,California
+2639,202039,Mono,Central,0,350.0,Hazardous,PM10,California
+2640,202039,Monterey,Central,0,51.0,Moderate,PM2.5,California
+2641,202039,San Benito,Central,0,67.0,Moderate,PM2.5,California
+2642,202039,San Joaquin,Central,0,87.0,Moderate,Ozone,California
+2643,202039,Stanislaus,Central,0,100.0,Moderate,Ozone,California
+2644,202039,Tulare,Central,0,155.0,Unhealthy,PM2.5,California
+2645,202039,Tuolumne,Central,0,80.0,Moderate,Ozone,California
+2646,202039,Imperial,Lower Southern,0,133.0,Unhealthy for Sensitive Groups,Ozone,California
+2647,202039,Orange,Lower Southern,0,87.0,Moderate,Ozone,California
+2648,202039,Riverside,Lower Southern,0,147.0,Unhealthy for Sensitive Groups,Ozone,California
+2649,202039,San Bernardino,Lower Southern,0,179.0,Unhealthy,Ozone,California
+2650,202039,San Diego,Lower Southern,0,97.0,Moderate,Ozone,California
+2651,202039,Amador,Northern,0,64.0,Moderate,Ozone,California
+2652,202039,Butte,Northern,0,178.0,Unhealthy,PM2.5,California
+2653,202039,Carson City,Northern,0,85.0,Moderate,PM2.5,Nevada
+2654,202039,Churchill,Northern,0,49.0,Good,Ozone,Nevada
+2655,202039,Clark,Northern,0,115.0,Unhealthy for Sensitive Groups,Ozone,Nevada
+2656,202039,Colusa,Northern,0,127.0,Unhealthy for Sensitive Groups,PM2.5,California
+2657,202039,Del Norte,Northern,0,40.0,Good,PM2.5,California
+2658,202039,Douglas,Northern,0,96.0,Moderate,PM2.5,Colorado
+2659,202039,El Dorado,Northern,0,93.0,Moderate,Ozone,California
+2660,202039,Elko,Northern,0,56.0,Moderate,PM2.5,Nevada
+2661,202039,Glenn,Northern,0,152.0,Unhealthy,PM2.5,California
+2662,202039,Humboldt,Northern,0,34.0,Good,PM2.5,California
+2663,202039,Humboldt,Northern,0,34.0,Good,PM2.5,California
+2664,202039,Humboldt,Northern,0,34.0,Good,PM2.5,California
+2665,202039,Humboldt,Northern,0,34.0,Good,PM2.5,California
+2666,202039,Lake,Northern,0,91.0,Moderate,PM2.5,Oregon
+2667,202039,Lake,Northern,0,91.0,Moderate,PM2.5,Oregon
+2668,202039,Lake,Northern,0,91.0,Moderate,PM2.5,Oregon
+2669,202039,Lake,Northern,0,91.0,Moderate,PM2.5,Oregon
+2670,202039,Lincoln,Northern,0,56.0,Moderate,PM2.5,Montana
+2671,202039,Lyon,Northern,0,62.0,Moderate,PM2.5,Minnesota
+2672,202039,Mendocino,Northern,0,97.0,Moderate,PM2.5,California
+2673,202039,Nevada,Northern,0,129.0,Unhealthy for Sensitive Groups,Ozone,California
+2674,202039,Nye,Northern,0,41.0,Good,PM10,Nevada
+2675,202039,Placer,Northern,0,123.0,Unhealthy for Sensitive Groups,PM2.5,California
+2676,202039,Plumas,Northern,0,190.0,Unhealthy,PM2.5,California
+2677,202039,Sacramento,Northern,0,89.0,Moderate,PM2.5,California
+2678,202039,Shasta,Northern,0,130.0,Unhealthy for Sensitive Groups,PM2.5,California
+2679,202039,Siskiyou,Northern,0,160.0,Unhealthy,PM2.5,California
+2680,202039,Sutter,Northern,0,101.0,Unhealthy for Sensitive Groups,PM2.5,California
+2681,202039,Tehama,Northern,0,160.0,Unhealthy,PM2.5,California
+2682,202039,Trinity,Northern,0,128.0,Unhealthy for Sensitive Groups,PM2.5,California
+2683,202039,Washoe,Northern,0,98.0,Moderate,PM2.5,Nevada
+2684,202039,White Pine,Northern,0,67.0,Moderate,Ozone,Nevada
+2685,202039,Yolo,Northern,0,93.0,Moderate,PM2.5,California
+2686,202039,Kern,Upper Southern,0,155.0,Unhealthy,PM2.5,California
+2687,202039,Los Angeles,Upper Southern,0,201.0,Very Unhealthy,Ozone,California
+2688,202039,San Luis Obispo,Upper Southern,0,90.0,Moderate,Ozone,California
+2689,202039,Santa Barbara,Upper Southern,0,71.0,Moderate,Ozone,California
+2690,202039,Ventura,Upper Southern,0,101.0,Unhealthy for Sensitive Groups,Ozone,California
+2691,202040,Alameda,Bay Area,0,176.0,Unhealthy,PM2.5,California
+2692,202040,Contra Costa,Bay Area,0,172.0,Unhealthy,PM2.5,California
+2693,202040,Marin,Bay Area,0,138.0,Unhealthy for Sensitive Groups,PM2.5,California
+2694,202040,Napa,Bay Area,0,199.0,Unhealthy,PM2.5,California
+2695,202040,San Francisco,Bay Area,0,130.0,Unhealthy for Sensitive Groups,PM2.5,California
+2696,202040,San Mateo,Bay Area,0,129.0,Unhealthy for Sensitive Groups,PM2.5,California
+2697,202040,Santa Clara,Bay Area,0,163.0,Unhealthy,PM2.5,California
+2698,202040,Santa Cruz,Bay Area,0,145.0,Unhealthy for Sensitive Groups,PM2.5,California
+2699,202040,Solano,Bay Area,0,158.0,Unhealthy,PM2.5,California
+2700,202040,Sonoma,Bay Area,0,153.0,Unhealthy,PM2.5,California
+2701,202040,Calaveras,Central,0,137.0,Unhealthy for Sensitive Groups,PM2.5,California
+2702,202040,Fresno,Central,0,182.0,Unhealthy,PM2.5,California
+2703,202040,Inyo,Central,0,173.0,Unhealthy,PM2.5,California
+2704,202040,Kings,Central,0,171.0,Unhealthy,PM2.5,California
+2705,202040,Madera,Central,0,169.0,Unhealthy,Ozone,California
+2706,202040,Mariposa,Central,0,144.0,Unhealthy for Sensitive Groups,PM2.5,California
+2707,202040,Merced,Central,0,165.0,Unhealthy,PM2.5,California
+2708,202040,Mono,Central,0,166.0,Unhealthy,PM2.5,California
+2709,202040,Monterey,Central,0,155.0,Unhealthy,PM2.5,California
+2710,202040,San Benito,Central,0,161.0,Unhealthy,PM2.5,California
+2711,202040,San Joaquin,Central,0,173.0,Unhealthy,PM2.5,California
+2712,202040,Stanislaus,Central,0,167.0,Unhealthy,PM2.5,California
+2713,202040,Tulare,Central,0,169.0,Unhealthy,PM2.5,California
+2714,202040,Tuolumne,Central,0,93.0,Moderate,Ozone,California
+2715,202040,Imperial,Lower Southern,0,118.0,Unhealthy for Sensitive Groups,PM10,California
+2716,202040,Orange,Lower Southern,0,166.0,Unhealthy,Ozone,California
+2717,202040,Riverside,Lower Southern,0,201.0,Very Unhealthy,Ozone,California
+2718,202040,San Bernardino,Lower Southern,0,204.0,Very Unhealthy,Ozone,California
+2719,202040,San Diego,Lower Southern,0,159.0,Unhealthy,PM2.5,California
+2720,202040,Amador,Northern,0,80.0,Moderate,Ozone,California
+2721,202040,Butte,Northern,0,178.0,Unhealthy,PM2.5,California
+2722,202040,Carson City,Northern,0,131.0,Unhealthy for Sensitive Groups,PM2.5,Nevada
+2723,202040,Churchill,Northern,0,39.0,Good,Ozone,Nevada
+2724,202040,Clark,Northern,0,74.0,Moderate,PM2.5,Nevada
+2725,202040,Colusa,Northern,0,177.0,Unhealthy,PM2.5,California
+2726,202040,Del Norte,Northern,0,117.0,Unhealthy for Sensitive Groups,PM2.5,California
+2727,202040,Douglas,Northern,0,150.0,Unhealthy for Sensitive Groups,PM2.5,Nevada
+2728,202040,El Dorado,Northern,0,136.0,Unhealthy for Sensitive Groups,Ozone,California
+2729,202040,Elko,Northern,0,81.0,Moderate,PM2.5,Nevada
+2730,202040,Glenn,Northern,0,181.0,Unhealthy,PM2.5,California
+2731,202040,Humboldt,Northern,0,109.0,Unhealthy for Sensitive Groups,PM2.5,California
+2732,202040,Humboldt,Northern,0,109.0,Unhealthy for Sensitive Groups,PM2.5,California
+2733,202040,Humboldt,Northern,0,109.0,Unhealthy for Sensitive Groups,PM2.5,California
+2734,202040,Humboldt,Northern,0,109.0,Unhealthy for Sensitive Groups,PM2.5,California
+2735,202040,Lake,Northern,0,166.0,Unhealthy,PM2.5,California
+2736,202040,Lake,Northern,0,166.0,Unhealthy,PM2.5,California
+2737,202040,Lake,Northern,0,166.0,Unhealthy,PM2.5,California
+2738,202040,Lake,Northern,0,166.0,Unhealthy,PM2.5,California
+2739,202040,Lincoln,Northern,0,48.0,Good,PM2.5,Montana
+2740,202040,Lyon,Northern,0,59.0,Moderate,PM10,Nevada
+2741,202040,Mendocino,Northern,0,183.0,Unhealthy,PM2.5,California
+2742,202040,Nevada,Northern,0,154.0,Unhealthy,PM2.5,California
+2743,202040,Nye,Northern,0,43.0,Good,PM10,Nevada
+2744,202040,Placer,Northern,0,163.0,Unhealthy,PM2.5,California
+2745,202040,Plumas,Northern,0,180.0,Unhealthy,PM2.5,California
+2746,202040,Sacramento,Northern,0,164.0,Unhealthy,PM2.5,California
+2747,202040,Shasta,Northern,0,158.0,Unhealthy,PM2.5,California
+2748,202040,Siskiyou,Northern,0,176.0,Unhealthy,PM2.5,California
+2749,202040,Sutter,Northern,0,169.0,Unhealthy,PM2.5,California
+2750,202040,Tehama,Northern,0,176.0,Unhealthy,PM2.5,California
+2751,202040,Trinity,Northern,0,187.0,Unhealthy,PM2.5,California
+2752,202040,Washoe,Northern,0,159.0,Unhealthy,PM2.5,Nevada
+2753,202040,White Pine,Northern,0,53.0,Moderate,PM2.5,Nevada
+2754,202040,Yolo,Northern,0,173.0,Unhealthy,PM2.5,California
+2755,202040,Kern,Upper Southern,0,165.0,Unhealthy,PM2.5,California
+2756,202040,Los Angeles,Upper Southern,0,210.0,Very Unhealthy,Ozone,California
+2757,202040,San Luis Obispo,Upper Southern,0,158.0,Unhealthy,PM2.5,California
+2758,202040,Santa Barbara,Upper Southern,0,151.0,Unhealthy,Ozone,California
+2759,202040,Ventura,Upper Southern,0,174.0,Unhealthy,Ozone,California
