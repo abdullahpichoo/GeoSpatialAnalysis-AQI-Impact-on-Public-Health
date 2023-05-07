@@ -47,15 +47,6 @@ Column Names:
 - Influenza_Category: Total number of specimens positive for influenza, all types
 - Count: Number of specimens meeting the criteria listed in the Influenza_Category field
 
-#### Asthma Hospitalization Count Annual
-
-The dataset provides annual hospitalization counts for asthma patients across different counties in a given region or country. The specific region or country covered by the dataset may vary depending on the source of the data. The dataset details are as follows:
-Column Names:
-
-- COUNTY: The name of the county for which the annual hospitalization counts are reported.
-- YEAR: The year for which the hospitalization counts are reported.
-- NUMBER OF HOSPITALIZATIONS: The total number of hospitalizations for asthma in the county during the given year.
-
 ## Methodology
 
 The project uses spatial data analysis techniques to visualize the air quality index of US counties on shapefiles, and overlay the number of ILI cases on top of the air quality data to identify potential correlations. The following steps were taken:
@@ -72,18 +63,9 @@ The project uses spatial data analysis techniques to visualize the air quality i
 
 - Overlay the number of ILI cases on top of the air quality data to identify potential correlations.
 
-## Expectations
+## Results
 
-The project visualizes the air quality index of US counties on shapefiles using a chloropleth and overlays the number of ILI cases on top of the air quality data to identify potential correlations. The results of the analysis can provide insights into the relationship between air quality and the incidence of ILI. The visualization can be used to identify areas with poor air quality that may be at a higher risk for ILI outbreaks.
+As we can see from these results, there is no corelation between the data of Influenza Cases and AQI data. The reasons can the following:
 
-# Approach
-
-## Ploting the Weekly AQI data for all the california states
-
-- Changed the Daily AQI data for California counties to Weekly Data. For the Weekly Value I went with the Maximum Weekly AQI value.
-- I now have weekly AQI data for each county in california and for each county, there is AQI data for all 52 weeks of the year.
-
-### Problem 1
-
-- However, there is a small problem. I don't have AQI data for all california counties. The data for some counties is missing.
-- In order to tackle this problem, I will assign weekly AQI data to the missing counties based on distance from the nearest counties. For this I will use weights.
+- The influenza cases does not represent the level of illness caused by poor air quality.
+- The influenza cases data was high resolution and was available region wise whereas the AQI data was available county wise. AQI is different for every county and a cluster of counties does not correctly respresent its overall air quality.
